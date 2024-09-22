@@ -4,4 +4,25 @@ Add styles or override variables from the theme here.
 
 */
 
+
+
 .td-page-meta { display: none; }
+
+
+.td-navbar .navbar-brand svg {
+	margin: 0 20px 0 10px;
+	height: 42px;
+}
+.td-navbar svg .logo_text{
+    fill: #fff;
+}
+
+@media (min-width: 768px){
+    .td-navbar-cover svg .logo_text{
+        fill: #ffcc00ff;
+    }
+}
+
+.navbar-bg-onscroll svg .logo_text{
+    fill: #fff;
+}
