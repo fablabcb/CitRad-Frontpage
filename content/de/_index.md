@@ -1,15 +1,19 @@
 ---
 title: CitRad
+resources:
+- src: "featured-background.jpg"
+  params:
+    byline: "*Photo*: Trio3D / CC-BY-SA 4.0"
 ---
 
-{{< blocks/cover title="Willkommen zum CitRad Projekt!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+{{< blocks/cover title="CitRad - Citizen Traffic Radar" image_anchor="top" height="full" >}}
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/about/">
+  Mehr erfahren <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Download <i class="fab fa-github ms-2 "></i>
 </a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+<p class="lead mt-5">Hier entsteht die Projektwebsite für CitRad - dem offenen Radarsensor zur Verkehrserfassung für alle</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
