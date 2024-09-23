@@ -4,9 +4,9 @@ linkTitle: Über uns
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="Citizen Science Traffic Radar" image_anchor="top" height="min" %}}
+{{% blocks/cover title="Citizen Science Traffic Radar" image_anchor="bottom" height="min" %}}
 
-A sample site using the Docsy Hugo theme.
+Warum Citrad?
 {.mt-5}
 
 {{% /blocks/cover %}}

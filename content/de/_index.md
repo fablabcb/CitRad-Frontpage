@@ -6,7 +6,7 @@ resources:
     byline: "*Photo*: Trio3D / CC-BY-SA 4.0"
 ---
 
-{{< blocks/cover title="CitRad - Citizen Traffic Radar" image_anchor="top" height="full" >}}
+{{< blocks/cover title="CitRad - Citizen Traffic Radar" image_anchor="bottom" height="max" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/about/">
   Mehr erfahren <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
