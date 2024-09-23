@@ -1,6 +1,6 @@
 baseURL: https://citrad.de
 title: Citizen Traffic Radar
-theme: [docsy]
+theme: [hugo-cloak-email, docsy]
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
@@ -50,7 +50,7 @@ languages:
     title: Citizen Traffic Radar
     contentDir: content/en
     params:
-      description: A Docsy example site
+      description: CitRad - measure traffic, gain knowledge
   # cSpell:disable
   de:
     languageName: Deutsch

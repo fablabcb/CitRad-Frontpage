@@ -42,7 +42,7 @@ Nicht zuletzt profitiert von den frei zugänglichen Daten auch die **Forschung**
 
 {{% blocks/section %}}
 ## Was ist CitRad noch nicht?
-Wir haben viele Ideen, wie man CitRad noch komfortabler machen könnte. Datenupload per LoRaWAN, längere Laufzeit mit Solar, Unterscheidung von Verkehrsteilnehmern, WLAN/Bluetooth und vieles mehr. Aber wir wollen uns zu allererst um eine zuverlässige Auswertung und eine aussagekräftige Datenplattform kümmern. Hast du Interesse, an diesen Komfortfunktionen zu arbeiten? Dann melde dich gern bei uns 
+Wir haben viele Ideen, wie man CitRad noch komfortabler machen könnte. Datenupload per LoRaWAN, längere Laufzeit mit Solar, Unterscheidung von Verkehrsteilnehmern, WLAN/Bluetooth und vieles mehr. Aber wir wollen uns zu allererst um eine zuverlässige Auswertung und eine aussagekräftige Datenplattform kümmern. Hast du Interesse, an diesen Komfortfunktionen zu arbeiten? Dann melde dich gern bei uns {{< cloakemail "info@citrad.de" >}}
 {.text-center}
 
 {{% /blocks/section %}}
