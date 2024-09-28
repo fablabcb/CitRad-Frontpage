@@ -92,7 +92,8 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://policies.google.com/privacy
+  privacy_policy: /datenschutzerklaerung
+  imprint: /impressum/
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
@@ -138,7 +139,7 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+    authors: CitRad | Theme Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
     from_year: 2018
 
   # User interface configuration

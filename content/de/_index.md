@@ -19,9 +19,9 @@ resources:
 
 
 {{% blocks/lead color="primary" %}}
-Wir finden, dass die Verkehrswende auf der Basis verlässlicher Daten diskutiert werden muss. 
+Wir finden, dass die Verkehrswende auf der Basis verlässlicher Daten diskutiert werden sollte. 
 
-Und wir glauben, dass wir gemeinsam ausreichend Daten für kluge Entscheidungen sammeln können.
+Mit CitRad soll das Sammeln solcher Daten für jede:n möglich werden - und zwar so einfach wie möglich!
 {{% /blocks/lead %}}
 
 
