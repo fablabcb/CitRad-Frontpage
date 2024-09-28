@@ -1,6 +1,6 @@
 [submodule "themes/docsy"]
 	path = themes/docsy
-	url = https://github.com/fablabcb/docsy
+	url = git@github.com:fablabcb/docsy.git
 [submodule "themes/github.com/FortAwesome/Font-Awesome"]
 	path = themes/github.com/FortAwesome/Font-Awesome
 	url = https://github.com/FortAwesome/Font-Awesome.git
