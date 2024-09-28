@@ -1,7 +1,7 @@
 {{ partial "footer/copyright.html"  . -}}
 
 {{ with .Site.Params.privacy_policy -}}
-  <span class="ms-2"><a href="{{ . }}" target="_blank" rel="noopener">{{ T "footer_privacy_policy" }}</a></span> hallo
+  <span class="ms-2"><a href="{{ . }}" target="_blank" rel="noopener">{{ T "footer_privacy_policy" }}</a></span> |
 {{- end -}}
 
 {{ with .Site.Params.imprint -}}
