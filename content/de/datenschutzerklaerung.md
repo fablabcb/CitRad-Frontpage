@@ -19,9 +19,7 @@ einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.&nbs
 Kontaktformular eingeben.</p> <p>Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch
 der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.&nbsp;B. Internetbrowser,
 Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese
-Website betreten.</p> <h4>Wof&uuml;r nutzen wir Ihre Daten?</h4> <p>Ein Teil der Daten wird erhoben, um eine
-fehlerfreie Bereitstellung der Website zu gew&auml;hrleisten. Andere Daten k&ouml;nnen zur Analyse Ihres
-Nutzerverhaltens verwendet werden.</p> <h4>Welche Rechte haben Sie bez&uuml;glich Ihrer Daten?</h4>
+Website betreten.</p> <h4>Wof&uuml;r nutzen wir Ihre Daten?</h4> <p>Aktuell nutzen wir Ihre Daten nicht</p> <h4>Welche Rechte haben Sie bez&uuml;glich Ihrer Daten?</h4>
 <p>Sie haben jederzeit das Recht, unentgeltlich Auskunft &uuml;ber Herkunft, Empf&auml;nger und Zweck Ihrer
 gespeicherten personenbezogenen Daten zu erhalten. Sie haben au&szlig;erdem ein Recht, die Berichtigung oder
 L&ouml;schung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben,
@@ -57,11 +55,10 @@ geschieht.</p> <p>Wir weisen darauf hin, dass die Daten&uuml;bertragung im Inter
 Kommunikation per E-Mail) Sicherheitsl&uuml;cken aufweisen kann. Ein l&uuml;ckenloser Schutz der Daten vor
 dem Zugriff durch Dritte ist nicht m&ouml;glich.</p>
 <h3>Hinweis zur verantwortlichen Stelle</h3> <p>Die verantwortliche Stelle f&uuml;r die Datenverarbeitung auf
-dieser Website ist:</p> <p>Beispielfirma<br />
-Musterweg 10<br />
-90210 Musterstadt</p>
-<p>Telefon: +49 (0) 123 44 55 66<br />
-E-Mail: info@beispielfirma.de</p>
+dieser Website ist:</p> <p>Nanu Frechen Benedikt Stahl Stefan Arndt GbR<br />
+Schillerstraße 63<br />
+03046 Cotbbus</p>
+<p>{{< cloakemail "info@citrad.de" >}}</p>
  <p>Verantwortliche Stelle ist die nat&uuml;rliche oder juristische Person, die allein oder gemeinsam mit anderen
 &uuml;ber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-
 Adressen o. &Auml;.) entscheidet.</p>

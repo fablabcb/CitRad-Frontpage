@@ -182,10 +182,12 @@ params:
         url: https://example.org/mail
         icon: fa fa-envelope
         desc: Discussion and help from your fellow users
-    # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-    developer:
       - name: GitHub
         url: https://github.com/fablabcb/CitRad-SensorUnit
         icon: fab fa-github
         desc: Development takes place here!
+    # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
+    developer:
+      
+      
 
