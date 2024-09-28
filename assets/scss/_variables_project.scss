@@ -5,4 +5,10 @@ Add styles or override variables from the theme here.
 */
 
 $primary: #ffcc00ff;
-$secondary: #000;
+$secondary: #0c4b4c;
+
+.btn-secondary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #0c4b4c;
+    --bs-btn-border-color: #0c4b4c;
+}
