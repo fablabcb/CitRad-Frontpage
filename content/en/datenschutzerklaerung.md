@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-linkTitle: privacy policy
+linkTitle: privacy-policy
 ---
 {{% blocks/section %}}
 
