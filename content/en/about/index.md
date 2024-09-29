@@ -4,7 +4,7 @@ linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="Citizen Science Traffic Radar" image_anchor="bottom" height="min" %}}
+{{% blocks/cover title="Citizen Science Traffic Radar" image_anchor="top" height="min" %}}
 
 Why Citrad?
 {.mt-5}
