@@ -14,9 +14,7 @@ Benedikt Stahl
 
 #### Kontakt
 {{< cloakemail address="info@citrad.de" >}}
-#### Redaktionell verantwortlich
-Benedikt Stahl
-{{< cloakemail address="redaktion@citrad.de" >}}
+
 #### Verbraucherstreitbeilegung/Universalschlichtungsstelle
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer
 Verbraucherschlichtungsstelle teilzunehmen.

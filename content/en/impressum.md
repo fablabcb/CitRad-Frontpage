@@ -3,21 +3,19 @@ title: Imprint
 linkTitle: imprint
 ---
 {{% blocks/section %}}
-# Impressum 
-Nanu Frechen, Benedikt Stahl, Stefan Arndt GbR</br> 
-Schillerstraße 63<br>
-03046 Cottbus <br>
-#### Vertreten durch:
+# Imprint
+Nanu Frechen, Benedikt Stahl, Stefan Arndt GbR</br>
+Schillerstrasse 63<br>
+03046 Cottbus<br>
+#### Represented by:
 Nanu Frechen,
 Stefan Arndt,
 Benedikt Stahl
 
-#### Kontakt
+#### Contact
 {{< cloakemail address="info@citrad.de" >}}
-#### Redaktionell verantwortlich
-Benedikt Stahl
-{{< cloakemail address="redaktion@citrad.de" >}}
-#### Verbraucherstreitbeilegung/Universalschlichtungsstelle
-Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer
-Verbraucherschlichtungsstelle teilzunehmen.
+
+#### Consumer dispute resolution/Universal arbitration board
+We are not willing or obliged to participate in dispute resolution proceedings before a
+consumer arbitration board.
 {{% /blocks/section %}}
