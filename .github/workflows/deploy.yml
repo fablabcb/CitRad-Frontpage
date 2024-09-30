@@ -17,4 +17,4 @@ jobs:
       env:
         SSH_PRIVATE_KEY: ${{ secrets.ACTIONS }}
       run: |
-        ssh -o StrictHostKeyChecking=no citrad@116.203.127.85 'cd /home/citrad/CitRad-Frontpage && git pull origin main'
+        ssh -o StrictHostKeyChecking=no ${{ secrets.LOGIN }} ${{ secrets.PANDP }}
