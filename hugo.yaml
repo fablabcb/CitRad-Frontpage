@@ -1,6 +1,6 @@
 baseURL: https://citrad.de
 title: Citizen Traffic Radar
-theme: [docsy]
+theme: [hugo-cloak-email, docsy]
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
@@ -50,7 +50,7 @@ languages:
     title: Citizen Traffic Radar
     contentDir: content/en
     params:
-      description: A Docsy example site
+      description: CitRad - measure traffic, gain knowledge
   # cSpell:disable
   de:
     languageName: Deutsch
@@ -92,7 +92,8 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://policies.google.com/privacy
+  privacy_policy: /datenschutzerklaerung
+  imprint: /impressum/
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
@@ -138,7 +139,7 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+    authors: CitRad | Theme Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
     from_year: 2018
 
   # User interface configuration
@@ -181,10 +182,12 @@ params:
         url: https://example.org/mail
         icon: fa fa-envelope
         desc: Discussion and help from your fellow users
-    # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-    developer:
       - name: GitHub
         url: https://github.com/fablabcb/CitRad-SensorUnit
         icon: fab fa-github
         desc: Development takes place here!
+    # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
+    developer:
+      
+      
 

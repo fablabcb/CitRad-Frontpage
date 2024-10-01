@@ -4,7 +4,51 @@ Add styles or override variables from the theme here.
 
 */
 
+.navbar-logo svg .arrow{
+    fill:#0c4b4c;
+    stroke:#0c4b4c;
+}
 
+.navbar-logo svg .arrow path{
+    fill: none;
+}
+
+.nav-link {
+	color: #fff;
+}
+
+.navbar-nav .nav-link.active {
+	color: #fff;
+	border-bottom: 4px solid white;
+}
+.td-box--2 {
+    color: #fff;
+    background-color: #0c4b4c;
+}
+.td-box--2 h2{
+    color: #ffcc00;
+}
+
+.td-box--3{
+    background-color: #ffcc00;
+}
+.td-box--3 p > a, .td-box--4 span > a {
+ color: #07377f;
+}
+
+.td-box--4 {
+    color: #fff;
+    background: #0c4b4c;
+}
+
+.td-footer{
+    color: black;
+    background: #ffcc00;
+}
+
+.td-search__input:not(:focus) {
+	background: #9995;
+}
 
 .td-page-meta { display: none; }
 
