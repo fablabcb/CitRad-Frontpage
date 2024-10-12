@@ -13,15 +13,14 @@ Warum Citrad?
 
 {{% blocks/lead %}}
 
-CitRad ist als Open Hardware- und Citizen Science Projekt im [Fablab Cottbus e.V.](https://fablab-cottbus.de) gestartet, um Bürger:innen
-die Möglichkeit zu geben, Verkehrsphänomene eigenständig und datenschutzkonform aufzuzeichnen. Damals entstand ein Open Hardware Radarsensor, der möglichst einfach nachzubauen ist. Nun wollen wir den Auswertungsalgorithmus perfektionieren und eine Datenplattform erstellen, die Verkehrsdaten übersichtlich auf Karten oder als andere Auswertung darstellt und verfügbar macht. Wir freuen uns, dass dieses Vorhaben als eines von 25 Projekten vom [Prototypefund](https://prototypefund.de/) in der Runde 16 gefördert wird. Damit erhalten wir im nächsten halben Jahr (Sep 2024 - Februar 2025) finanzielle Unterstützung, um den CitRad Prototypen Wirklichkeit werden zu lassen.
+CCitRad ist als Open Hardware und Citizen Science Projekt im [Fablab Cottbus e.V.](https://fablab-cottbus.de) gestartet, um Bürger:innen die Möglichkeit zu geben, eigenständig und datenschutzkonform Verkehrsphänomene aufzuzeichnen. Damals wurde ein Open Hardware Radarsensor entwickelt, der möglichst einfach nachzubauen ist. Nun wollen wir den Auswertealgorithmus perfektionieren und eine Datenplattform schaffen, die die Verkehrsdaten übersichtlich auf Karten oder in anderen Auswertungen darstellt und verfügbar macht. Wir freuen uns, dass dieses Projekt als eines von 25 Projekten vom [Prototypefund] (https://prototypefund.de/) in der Runde 16 gefördert wird. Damit erhalten wir in den nächsten sechs Monaten (Sep 2024 - Feb 2025) finanzielle Unterstützung, um den Prototypen des CitRad Wirklichkeit werden zu lassen.
 
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
 
 ## Warum machen wir das?
-Wir glauben, dass Diskussionen über Verkehr und Mobilität im urbanen Raum oft auf der Basis von gefühlten Wahrheiten geführt werden. "Alle Autos rasen zu schnell durch unser Wohngebiet" oder "So viele Radfahrer fahren hier doch gar nicht lang, dass sich ein extra Radweg lohnt" sind typische Aussagen die auf individuellen Momentaufnahmen beruhen und konstruktive Diskussionen schnell zu Glaubenskämpfen werden lassen. Mit CitRad wollen wir diese Diskussionen wieder auf Fakten fußen lassen und jedem, der daran Interesse hat, die Möglichkeiten in die Hand geben, objektive und kontinuierlich erhobene Datensätze zu diesen Dikussionen beizusteuern.
+Wir glauben, dass Diskussionen über Verkehr und Mobilität oft auf gefühlten Wahrheiten beruhen. Mit CitRad wollen wir diese Diskussionen wieder auf Fakten fußen lassen. Jeder, der daran interessiert ist, soll die Möglichkeit bekommen, objektive und kontinuierlich erhobene Datensätze zu diesen Themen beizusteuern.
 
 
 {{% /blocks/section %}}
@@ -29,13 +28,13 @@ Wir glauben, dass Diskussionen über Verkehr und Mobilität im urbanen Raum oft 
 {{% blocks/section %}}
 
 ## An wen richtet sich der Prototyp?
-Als allererstes wollen wir mit CitRad **Menschen** erreichen, die in irgendeiner Art und Weise mit der Verkehrssituation in ihrer Stadt oder vor ihrer Haustür unzufrieden sind oder sich dafür interessieren, was verkehrstechnisch wirklich in ihrer Umgebung abläuft. Diese Motivation ist wichtig, um an gehaltvolle und ausreichende Daten zu kommen. 
+Als Erstes wollen wir mit CitRad **Menschen** erreichen, die mit der Verkehrssituation in ihrer Stadt unzufrieden sind oder sich dafür interessieren. 
 
 
-Interessant ist CitRad sicherlich auch für alle **Kommunen**, die die Verkehrsverhältnisse für ihre Bürger:innen verbessern wollen. Die kleinen und kostengünstigen Sensoren können im Stadtgebiet häufiger angebracht werden als teure kommerzielle Versionen. Es entsteht so ein besserer Blick aufs große Ganze. Auch Langzeitbetrachtungen sind mit vielen verfügbaren Sensoren besser möglich. 
+CitRad ist auch für **Kommunen** interessant, die die Verkehrsverhältnisse für ihre Bürger:innen verbessern wollen. Die kostengünstigen Sensoren können flächendeckend angebracht werden, was einen besseren Überblick und Langzeitbetrachtungen ermöglicht. 
 
 
-Nicht zuletzt profitiert von den frei zugänglichen Daten auch die **Forschung**. Mobilitätsplaner sollen aus den Datensätzen eigene Schlussfolgerungen ziehen können und ihre Erkenntnisse zurückfließen lassen.
+Auch die **Forschung** profitiert von den frei zugänglichen Daten. Mobilitätsplaner können daraus eigene Schlüsse ziehen und ihre Erkenntnisse zurückfließen lassen.
 
 
 {{% /blocks/section %}}
