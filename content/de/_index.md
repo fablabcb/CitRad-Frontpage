@@ -2,8 +2,6 @@
 title: CitRad
 resources:
 - src: "featured-background.jpg"
-  params:
-    byline: "*Photo*: Trio3D / CC-BY-SA 4.0"
 ---
 
 {{< blocks/cover title="CitRad - Citizen Traffic Radar" image_anchor="center" height="max" >}}

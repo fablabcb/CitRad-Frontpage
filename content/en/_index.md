@@ -19,7 +19,7 @@ resources:
 {{% blocks/lead color="primary" %}}
 We believe that the transport transition should be discussed on the basis of reliable data.
 
-With CitRad, collecting such data should be possible for everyone - and as easy as possible!
+With CitRad, collecting such data will be possible for everyone - and as easy as possible!
 {{% /blocks/lead %}}
 
 
