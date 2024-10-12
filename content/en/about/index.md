@@ -41,7 +41,7 @@ CitRad is also of interest to **municipalities** that want to improve traffic co
 
 {{% blocks/section %}}
 ## What is CitRad not yet?
-We have many ideas on how to make CitRad even more convenient. Data upload via LoRaWAN, longer runtime with solar, differentiation of road users, WLAN/Bluetooth and much more. But first and foremost we want to take care of a reliable evaluation and a meaningful data platform. Are you interested in working on these comfort functions? Then please get in touch with us {{< cloakemail "info@citrad.de" >}}
+We have many ideas on how to make CitRad even more convenient. Data upload via LoRaWAN, longer runtime with solar, differentiation of road users, WLAN/Bluetooth and much more. But first and foremost we want to take care of a reliable evaluation and a meaningful data platform. Are you interested in working on these comfort functions? Then please get in touch with us: {{< cloakemail address="info@citrad.de" subject="Request:" >}}
 
 
 {{% /blocks/section %}}
