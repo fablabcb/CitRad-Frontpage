@@ -30,6 +30,9 @@ other = "Datenschutzerklärung"
 [footer_imprint]
 other = "Impressum"
 
+[footer_contact]
+other = "Kontakt"
+
 
 # Post (blog, articles etc.)
 [post_byline_by]
