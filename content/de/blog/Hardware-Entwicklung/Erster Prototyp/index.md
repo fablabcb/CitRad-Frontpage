@@ -34,6 +34,4 @@ Mit ein paar Jumperkabeln und Steckleisten konnte es jetzt an den Zusammenbau de
 
 ## Der erste Erfolg: Die Auswertung der Radardaten
 
-Nachdem wir die Radarsensoreinheit zusammengebaut hatten, konnten wir endlich die ersten Radardaten auswerten. Wir waren begeistert, als wir sahen, dass unsere Einheit tatsächlich funktioniert und präzise Daten liefert. Dies ist ein wichtiger Meilenstein in unserem Projekt und wir sind gespannt, was uns die Zukunft bringt.
-
-In den kommenden Wochen und Monaten werden wir unsere Radarsensoreinheit weiterentwickeln und verbessern. Wir sind überzeugt, dass unsere Einheit uns ermöglichen wird, zuverlässige Auswertungen von Verkehrsbewegungen am Messort durchzuführen. Wir freuen uns darauf, euch über unsere Fortschritte auf dem Laufenden zu halten.
+[...]
