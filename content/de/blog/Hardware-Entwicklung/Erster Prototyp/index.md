@@ -3,35 +3,36 @@ title: Der erste Prototyp
 date: 2023-06-01
 description: >
   Nach der ersten Sichtung von möglichen Radarsensoren und Microcontrollern konnte auch das restliche Zubehör besorgt werden und mit dem Aufbau eines ersten kabelgebundenen Sensors begonnen werden.
-author: Bene
+author: Nanu
 resources:
   - src: "featured-prototype.jpg"
     title: "PrototypeFund: Kickoff-Sketch Citrad"
     params:
       byline: "Photo: Nanu Frechen / CC-BY-CA"
+  - src: "first_data.png"
+    title: "Erste Daten vom Prototyp"
+    params:
+      byline: "Screenshot: Nanu Frechen / CC-BY-CA"
 ---
 
 
-CitRad sollte auf einem zuverlässigen und dennoch möglichst günstigen Radarsensor aufbauen. Eine gründliche Recherche war notwendig. Hier kamen uns - wie so oft - die vielfältigen Erfahrungen der Mitglieder des Fablab Cottbus e.V. zugute. Einer, zufälligerweise Doktorand im Radarbereich konnte uns schonmal die grobe Richtung vorgeben. Außerdem nutzten wir die Chance, direkt ein paar Sensoren austesten zu können. Ein passender Kandidat war schnell gefunden.
+Der CitRad Sensor sollte auf einem möglichst günstigen aber trotzdem zuverlässigen Radarsensor aufbauen und mit einfachen Mitteln nachzubauen sein. Nach einigen Tests fiel unsere Wahl auf das 
+[IPS-354 Modul von Innosent](https://www.innosent.de/radarsensoren/ips-354/). Ausserdem brauchten wir einen leistungsstarken Mikroprozessor um die Signale des Sensors zu verarbeiten. Hier entschieden wir uns für den [Teensy 4.0](https://www.pjrc.com/store/teensy40.html) in Kombination mit dem dazu erhältlichen [Teensy Audio Board](https://www.pjrc.com/store/teensy3_audio.html). Das Signal des Sensors lässt sich nämlich mit Audio-Tools verarbeiten. Dazu gibt es das [Audio System Design Tool](https://www.pjrc.com/teensy/gui/index.html) und ausführliche [Tutorials](https://www.pjrc.com/store/audio_tutorial_kit.html). Für uns war vor allem von Interesse dass sich damit eine Spektral-Transformation (FFT) umsetzen lässt. Im Gegensatz zu anderen Systemen kann der Teensy weiter Daten aufzeichnen, während er die Datenverarbeitung macht, sodass uns keine Daten verlorgen gehen.
+
+
 
 {{< imgproc prototype Fill "600x300 webp" >}}
 Der allererste Hardware-Prototyp
 {{< /imgproc >}}
 
-## Die Umwandlung der Radardaten: Audio-Shield
+## Ein low-noise Verstärker?
 
-In unserem Setup sollten die Radardaten in Audiosignale umgewandelt werden. Ganz konkret in WAVE Dateien. Dafür musste ein Audio-Shield zum Einsatz kommmen, was sowohl mit Radarsensor als auch dem verwendeten Microcontroller kompatibel ist.
+Anfangs waren wir noch überzeut, dass wir eine Verstärkerschaltung brauchen, um das Signal des Sensors nutzen zu können. Hier haben wir verschiedene Verstärkerplatinen getestet und sogar eine [komplett eigene Platine](https://community.fablab-cottbus.de/t/citrad-elektronik-entwicklung/454) entworfen. Zum Schluss haben wir aber gemerkt, dass wir gar keine Verstärkung brauchen, wenn wir die [32bit Audio Library](https://github.com/chipaudette/OpenAudio_ArduinoLibrary#openaudio-library-for-teensy) verwenden, die die volle Bandbreite des Digitalwandlers auf der Audio-Platine nutzt.
 
-## Die Wahl des Microcontrollers: Teensy
+## Erste Tests
 
-Die WAVE-Dateien, in die unsere Daten aus dem Radarsensor umgewandelt werden, haben den Vorteil, unkomprimiert zu sein. Das lässt auf der einen Seite zuverlässigere Auswertungen zu. Auf der anderen Seite bedeutet es aber auch größere Datenmengen, die verarbeitet werden müssen. Auch wenn im Anfangsstadium die Daten zur Auswertung auf den Computer ausgeleitet werden, muss das System in Zukunft fähig sein, die Daten direkt auszuwerten und nur die fertig ausgewerteten Daten abzuspeichern. Für diesen Fall ist also etwas mehr Rechenpower gefragt. Standard Arduinos oder der Raspberry Pi Pico vielen da schnell raus.
+Mit ein paar Jumperkabeln und Steckleisten konnte es jetzt an den Zusammenbau des allerersten Prototypen gehen. Da zu Beginn ohnehin der Laptop-Betrieb vorgesehen war, wurden alle Komponenten per USB-Kabel mit Strom versorgt und gleichzeitig eine Datenverbindung hergestellt um sich die Daten anschauen zu können. Die Ergebnisse sahen vielversprechend aus!
 
- Unsere Wahl viel am Ende auf den Teensy, da er die notwendige Rechenleistung bietet und als beliebter Microcontroller in der Maker-Szene gut dokumentiert und erprobt ist.
-
-## Die Zusammenstellung der Komponenten
-
-Mit ein paar Jumperkabeln und Steckleisten konnte es jetzt an den Zusammenbau des allerersten Prototypen gehen. Da zu Beginn ohnehin der Laptop-Betrieb vorgesehen war, wurden alle Komponenten per USB-Kabel mit Strom versorgt und gleichzeitig eine Datenverbindung hergestellt. 
-
-## Der erste Erfolg: Die Auswertung der Radardaten
-
-[...]
+{{< imgproc first_data Fill "600x300 webp" >}}
+Erste aufgezeichnete Daten. Die Geschwindigkeitsverläufe mehrerer Autos sind sichtbar.
+{{< /imgproc >}}
