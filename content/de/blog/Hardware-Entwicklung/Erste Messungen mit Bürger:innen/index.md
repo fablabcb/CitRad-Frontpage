@@ -1,5 +1,5 @@
 ---
-title: Erste Messungen mit Interessierten
+title: Erste Messungen und viel Interesse an unserem Projekt
 date: 2023-07-01
 description: >
   Mit dem ersten Prototyp waren Präsentationen und Messungen zusammen mit interessierten Bürger:innen möglich
