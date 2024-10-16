@@ -25,3 +25,4 @@ Mit einem besonderen Trick erkennen wir wann ein Auto vorbei fährt: Im Vorbeifa
 
 Was sich einfach anhört ist das Ergebnis einer Menge Tüftelei. Und natürlich haben wir das Ganze erstmal am Computer mit aufgezeichneten Daten entwickelt. Das muss nun auf das Gerät selbst programmiert und getestet werden. Erst dann sind wir so weit dass wir das Gerät Interessierten für eigene Messungen in die Hand geben können. Das wird aber bald soweit sein!
 
+Wer an den technischen Details interessiert ist kann sich das Ganze in unserem <a href=https://github.com/fablabcb/CitRad-SensorUnit/blob/main/Software/data%20processing%20method/read_and_display_raw_spectrum.Rmd target="_blank">Repository auf github</a> anschauen.
