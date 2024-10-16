@@ -5,7 +5,7 @@ description: >
   Wie zählt man Autos mit einem Radarsensor?
 author: Nanu
 resources:
-  - src: "data_analysis.png"
+  - src: "featured-data_analysis.png"
     title: "Datenanalyse am Computer. Der Algorithmus zählt Autos und misst Geschwindigkeiten."
     params:
       byline: "Screenshot: Nanu Frechen / CC-BY-CA"

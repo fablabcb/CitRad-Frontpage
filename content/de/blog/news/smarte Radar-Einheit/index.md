@@ -1,5 +1,5 @@
 ---
-title: smarte Radar-Einheit
+title: Smarte Radar-Einheit
 date: 2024-10-16
 description: >
   Implementierung der Datenauswertung auf der Radar-Einheit
