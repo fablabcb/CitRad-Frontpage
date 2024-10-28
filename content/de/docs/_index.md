@@ -1,12 +1,8 @@
 ---
 cascade:
-- build:
-    list: never
-    publishResources: false
-    render: never
 title: Documentation
 linkTitle: Docs
-#menu: {main: {weight: 18}}
+menu: {main: {weight: 18}}
 ---
 
 {{% pageinfo %}}
