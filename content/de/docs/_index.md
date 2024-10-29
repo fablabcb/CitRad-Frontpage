@@ -6,7 +6,7 @@ menu: {main: {weight: 18}}
 ---
 
 {{% pageinfo %}}
-Hier entsteht in Kürze die Dokumentation zu Citrad hallo
+Hier entsteht in Kürze die Dokumentation zu Citrad
 {{% /pageinfo %}}
 
 Glückwunsch, falls du diese Seite trotzdem schon gefunden hast. Du Bist Clever!
