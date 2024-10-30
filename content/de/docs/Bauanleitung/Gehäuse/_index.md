@@ -1,9 +1,9 @@
 ---
-title: Bauanleitung
-description: Wie baut man den CitRad Radarsensor?
+title: Baunanleitung Gehäuse
+description: So bereitest du das Gehäuse für die Elektronik vor.
 categories: []
 tags: []
-weight: 2
+weight: 5
 ---
 
 
