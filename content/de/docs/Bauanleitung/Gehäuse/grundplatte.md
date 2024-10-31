@@ -8,13 +8,13 @@ weight: 5
 ## Das brauchst du
 
 <div class="row style="height: 100vh;">
-    <div class="col-6">
+    <div class="col-md-6">
        <h3>Werkzeug</h3>
        <ul>
        <li>Kreuz-Schraubenzieher</li>
        </ul>
 </div>
-    <div class="col-6">
+    <div class="col-md-6">
 <h3>Teile</h3>
 <ul>
        <li>Grundplatte (aus dem Lasercutter)</li>
@@ -25,11 +25,11 @@ weight: 5
 
 ## So funktioniert es 
 <div class="row style="height: 100vh;">
-    <div class="col-6">
+    <div class="col-md-6">
        <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
     Platzhalter
 </div> </div>
-    <div class="col-6 d-flex align-items-center justify-content-center">
+    <div class="col-md-6 d-flex align-items-center">
 Grundplatte in Gehäuse schrauben.
     </div>
 </div>
