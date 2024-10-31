@@ -11,6 +11,16 @@ This is a placeholder page. Replace it with your own content.
 {{% /pageinfo %}}
 
 
+## nötiges Werkzeug
+
+- Lötkolben
+- Schraubenzieher
+- Seitenschneider
+- Abisolierzange
+- Messer
+
+## Bauteile
+
 - Elektronik
   - [Teensy 4.0](https://www.pjrc.com/store/teensy40.html)
   - [Teensy Audio Board](https://www.pjrc.com/store/teensy3_audio.html)
@@ -33,8 +43,8 @@ This is a placeholder page. Replace it with your own content.
   - [Lasercut Teile](https://community.fablab-cottbus.de/uploads/default/original/2X/0/07901a34dd58c6f2333bfa3191eb76f0abf1efdd.svg) zur Befestigung.
   - Velcro zur Befestigung des Akkus [180cm](https://www.amazon.de/Klettband-Kabelbinder-Schwarz-Wiederverschlie%C3%9Fbar-Klettverschluss/dp/B0CPLTQWXX/ref=sr_1_39?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=19HZ36R8YGTWB&dib=eyJ2IjoiMSJ9.zfnxfXdxMqAt2BMKak15S3NP-2l6pp5Sw3M6amSeiU5nDnL2BI35ZJ_NRRR-T-y5v3jvoxZzzMvHrxBKWsd-BtsIU_T9unN--GaLoaIFjGVfFsbQnpeqrk4G16SNwbu2i7AAglZ7Z3sk_qxoXZpuIkTi136Rgb6gX-rCMjYR7l0zduayOTpAPWax-oeJLolsrt0oHf6lkCGDt3aH-9L8Ey9O6xGARKGpJkYVm0Zu4ChZuL_3J4Bi_28o3gegeGfW5ZCf9J40mVDYhv066mQsyP552pRPyHMKAe9sjoE3Rag.8v6mmKF8fdiOWVwuZwriRJ59G0zS5hETb26buriVtio&dib_tag=se&keywords=velcro&qid=1730013941&sprefix=velcro%2Caps%2C169&sr=8-39)
   - Befestigungsschrauben
-    - 6x M4 für Einlegeplatte und Seitenteile des Radarmoduls
-    - 3x M3 für Befestigung der Platine
+    - 4x M4 5-8mm für Einlegeplatte 
+    - 5x M3 5mm für Befestigung der Platine und Seitenteile des Radarmoduls
 
 - Für mehr Diebstahlschutz:
   - 4x [Sicherheitsschrauben M4 20mm Edelstahl](https://www.conrad.de/de/p/toolcraft-888808-senkkopfschraube-m4-20-mm-t-profil-mit-stift-edelstahl-a2-10-st-888808.html)
@@ -87,8 +97,8 @@ Einige der Teile oben sind nur als größeres Set erhältlich. Wenn man nicht me
 - 1x Batteriestecker JST PH 2Pin 2.0mm
 - 4x Sicherheitsschrauben M4 20mm Edelstahl
 - 4x M5x10 Schrauben für die Befestigungsplatte
-- 6x M4 Schrauben für Einlegeplatte und Seitenteile des Radarmoduls
-- 3x M3 für Befestigung der Platine
+- 4x M4 Schrauben für Einlegeplatte
+- 5x M3 für Befestigung der Platine und Seitenteile des Radarmoduls
 - nötige Kabel
 
 
