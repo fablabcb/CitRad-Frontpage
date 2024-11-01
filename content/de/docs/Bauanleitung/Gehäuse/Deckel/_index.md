@@ -7,7 +7,7 @@ weight: 7
 ---
 ## Das brauchst du
 
-<div class="row style="height: 100vh;">
+<div class="row">
     <div class="col-md-6">
        <h3>Werkzeug</h3>
        <ul>
@@ -25,13 +25,22 @@ weight: 7
 
 
 ## So funktioniert es
-<div class="row style="height: 100vh;">
+<div class="row">
     <div class="col-md-6">
-       <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
-    Platzhalter
-</div> </div>
-    <div class="col-md-6 d-flex align-items-center">
-Gummidichtung in Deckel einlegen und den Überstand abschneiden.
-    </div>
+       
+{{% imgproc dichtung_schneiden Fill "400x300 webp" %}}
+Einkürzen der Gummidichtung.
+{{% /imgproc %}}
+
+       
+</div>
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+Die Gummidichtung einmal ringsum in die Nut einlegen und den Überstand mit einem Cuttermesser abtrennen. <br>
+
+{{% alert color="warning" %}}
+Dieser Schritt ist wichtig, damit keine Feuchtigkeit in das Gehäuse eindringen kann.
+{{% /alert %}}
+
+</div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->

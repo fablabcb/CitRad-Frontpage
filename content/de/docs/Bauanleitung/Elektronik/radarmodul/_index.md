@@ -8,7 +8,7 @@ weight: 6
 
 ## Das brauchst du
 
-<div class="row style="height: 100vh;">
+<div class="row">
     <div class="col-md-6">
        <h3>Werkzeug</h3>
        <ul>
@@ -36,7 +36,7 @@ weight: 6
     Platzhalter
 </div> 
 </div>
-    <div class="col-md-6 d-flex align-items-center">
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Radarmodul in 3D-Druck Halterung stecken (siehe Foto).
     </div>
 </div>
@@ -48,43 +48,43 @@ Radarmodul in 3D-Druck Halterung stecken (siehe Foto).
        <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
     Platzhalter
 </div> </div>
-    <div class="col-md-6 d-flex align-items-center">
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Teensy an 3D-Druck Halterung anschrauben (siehe Foto). Dabei die Stecker des Radarmoduls aufstecken.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
 ### 4-Pin Stecker mit Radarmodul verbinden
-<div class="row style="height: 100vh;">
+<div class="row">
     <div class="col-md-6">
        <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
     Platzhalter
 </div> </div>
-    <div class="col-md-6 d-flex align-items-center">
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 4-Pin Stecker am Radarmodul einstecken.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
 ### Stützen für das Radarmodul
-<div class="row style="height: 100vh;">
+<div class="row">
     <div class="col-md-6">
        <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
     Platzhalter
 </div> </div>
-    <div class="col-md-6 d-flex align-items-center">
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Lasercut Teile seitlich an das Radarmodul anschrauben.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
 ### SD-Karte einsetzen
-<div class="row style="height: 100vh;">
+<div class="row">
     <div class="col-md-6">
        <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
     Platzhalter
 </div> </div>
-    <div class="col-md-6 d-flex align-items-center">
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 SD-Karte in Audioboard einsetzen.
     </div>
 </div>

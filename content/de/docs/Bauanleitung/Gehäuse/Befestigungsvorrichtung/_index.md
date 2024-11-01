@@ -5,10 +5,12 @@ description: >
 date: 2024-01-09
 weight: 6
 ---
-
+{{% alert color="warning" %}}
+Dieser Schritt ist in Überarbeitung und wird fertiggestellt sobald dieser Prozess abgeschlossen ist.
+{{% /alert %}}
 ## Das brauchst du
 
-<div class="row style="height: 100vh;">
+<div class="row">
     <div class="col-md-6">
        <h3>Werkzeug</h3>
        <ul>
@@ -18,7 +20,8 @@ weight: 6
     <div class="col-md-6">
 <h3>Teile</h3>
 <ul>
-       <li>Adapterplatte</li>
+       <li>{{% imgproc befestigungsplatte_teile Fit "200x150 webp" %}}Befestigungsplatte mit Distanzstücken aus dem Lasercutter
+{{% /imgproc %}}Adapterplatte</li>
               <li>4xSchrauben M5 x ZZmm</li>
               <li>Unterlegscheiben aus Lasercutter</li>
        </ul> 
@@ -26,22 +29,21 @@ weight: 6
 </div>
 
 ## So funktioniert es 
-<div class="row style="height: 100vh;">
+<div class="row">
     <div class="col-md-6">
-       <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
-    Platzhalter
-</div> </div>
-    <div class="col-md-6 d-flex align-items-center">
+       {{% imgproc gewindeschneiden Fit "600x400 webp" %}}Festgeschraubte Grundplatte mit Klettband für den Akku
+{{% /imgproc %}} </div>
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Gewinde in Befestigungslöcher (Rückseite) schneiden.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
-<div class="row style="height: 100vh;">
-    <div class="col-md-6">
+<div class="row">
+<div class="col-md-6">
        <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
     Platzhalter
 </div> </div>
-    <div class="col-md-6 d-flex align-items-center">
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Adapterplatte mit M5-Schrauben und den Unterlegschrauben (im Lasercut Teil enthalten) an Rückseite anschrauben.
     </div>
 </div>
