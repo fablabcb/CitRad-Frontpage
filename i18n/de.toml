@@ -95,3 +95,11 @@ other = "War diese Seite hilfreich?"
 other = "Ja"
 [feedback_negative]
 other = "Nein"
+
+
+# Tools
+
+[tools_loti]
+other = "Lötkolben"
+[zi]
+other = "Lötzinn"

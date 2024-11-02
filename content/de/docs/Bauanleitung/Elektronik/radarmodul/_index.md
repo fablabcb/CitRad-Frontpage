@@ -1,9 +1,10 @@
 ---
 title: Radarmodul
 description: >
-  So bereitest verbindest du das Radarmodul mit der restlichen Elektronik und bereitest den Einbau ins Gehäuse vor.  
+  So bereitest du das Radarmodul für die Kopplung mit der restlichen Elektronik  vor.  
 date: 2024-01-09
-weight: 6
+weight: 4
+draft: true
 ---
 
 ## Das brauchst du
@@ -11,84 +12,29 @@ weight: 6
 <div class="row">
     <div class="col-md-6">
        <h3>Werkzeug</h3>
-       <ul>
-       <li>Schraubenzieher</li>
-       </ul>
+    
+- Schraubenzieher 
 </div>
     <div class="col-md-6">
 <h3>Teile</h3>
 <ul>
        <li>Radarmodul</li>
               <li>3D-Druck-Halterung</li>
-              <li>Teensy</li>
-              <li>4-Pin Stecker</li>
-              <li>Lasercuthalterung</li>
-              <li>SD-Karte</li>
        </ul> 
        </div>
 </div>
 
 ## So funktioniert es 
-### Radarmodul einsetzen
+
 <div class="row">
     <div class="col-md-6">
-       <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
-    Platzhalter
-</div> 
+       {{< imgproc 3d Fit "600x400 webp" >}} Vorderseite {{< /imgproc >}}
+       {{< imgproc _back Fit "600x400 webp" >}} Rückseite {{< /imgproc >}}
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Radarmodul in 3D-Druck Halterung stecken (siehe Foto).
+
+### 1. Radarmodul einsetzen
+ Das Radarmodul vorsichtig in die Öffnung der 3D-Druck-Halterung einsetzen. 
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
-
-### Teensy und Radarmodul verheiraten
-<div class="row">
-    <div class="col-md-6">
-       <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
-    Platzhalter
-</div> </div>
-    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Teensy an 3D-Druck Halterung anschrauben (siehe Foto). Dabei die Stecker des Radarmoduls aufstecken.
-    </div>
-</div>
-<hr class="my-4"> <!-- Trennlinie -->
-
-### 4-Pin Stecker mit Radarmodul verbinden
-<div class="row">
-    <div class="col-md-6">
-       <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
-    Platzhalter
-</div> </div>
-    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-4-Pin Stecker am Radarmodul einstecken.
-    </div>
-</div>
-<hr class="my-4"> <!-- Trennlinie -->
-
-### Stützen für das Radarmodul
-<div class="row">
-    <div class="col-md-6">
-       <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
-    Platzhalter
-</div> </div>
-    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Lasercut Teile seitlich an das Radarmodul anschrauben.
-    </div>
-</div>
-<hr class="my-4"> <!-- Trennlinie -->
-
-### SD-Karte einsetzen
-<div class="row">
-    <div class="col-md-6">
-       <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
-    Platzhalter
-</div> </div>
-    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-SD-Karte in Audioboard einsetzen.
-    </div>
-</div>
-<hr class="my-4"> <!-- Trennlinie -->
-
-
-
