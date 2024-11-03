@@ -11,7 +11,7 @@ weight: 7
     <div class="col-md-6">
        <h3>Werkzeug</h3>
        <ul>
-       <li>Schere</li>
+       <li><img src="/icons/cutter.webp" alt="Cuttermesser" width="200"/></li>
        </ul>
 </div>
     <div class="col-md-6">
@@ -37,7 +37,7 @@ Einkürzen der Gummidichtung.
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Die Gummidichtung einmal ringsum in die Nut einlegen und den Überstand mit einem Cuttermesser abtrennen. <br>
 
-{{% alert color="warning" %}}
+{{% alert color="primary" %}}
 Dieser Schritt ist wichtig, damit keine Feuchtigkeit in das Gehäuse eindringen kann.
 {{% /alert %}}
 

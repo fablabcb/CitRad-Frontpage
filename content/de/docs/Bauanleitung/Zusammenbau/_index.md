@@ -12,7 +12,7 @@ weight: 6
     <div class="col-md-6">
        <h3>Werkzeug</h3>
        <ul>
-       <li>Schraubenzieher</li>
+       <li><img src="/icons/screwdriver.webp" alt="Schraubenzieher" width="200"/>Schraubenzieher</li>
        </ul>
 </div>
     <div class="col-md-6">
@@ -21,6 +21,8 @@ weight: 6
        <li>Alles, was du bisher zusammengebaut hast</li>
        <li>Akku-Pack</li>
        <li>Lasercut-Füße</li>
+        <li>5x M3x5mm Schrauben</li>
+        <li>3D-Druck-Halterung für Radarmodul</li>
        </ul> 
        </div>
 </div>
@@ -48,6 +50,7 @@ Knopfzelle in Knopzellenhalter einsetzen. Der Pluspol der Knopfzelle muss in Ric
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
+<div class="row">
 
 ### Radarmodul in Rahmen stecken
 <div class="col-md-6">
@@ -65,7 +68,11 @@ Knopfzelle in Knopzellenhalter einsetzen. Der Pluspol der Knopfzelle muss in Ric
 <div class="col-md-6">
        {{< imgproc all Fit "600x400 webp" >}} Vorderseite {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Radarmodul mit Halterung in Schlitze in der Grundplatte stecken.
+
+- Beim Aufsetzen von Teensy&Audoshield auf die Pins des Radarmoduls musst du nur darauf achten, dass die Löcher für die Schrauben im Audioshield auf die der 3D-Druck-Halterung passen.
+- Dann kannst du zuerst den 6-Pin-Stecker verbinden und dann
+- Den 4-Pin-Stecker so einstecken, dass das Kabel am zweiten Pin (vom Klinkenanschluss aus gesehen) angelötet ist. 
+- Danach mit 3 Schrauben das Audioshield an der Halterung befestigen. 
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -74,9 +81,9 @@ Radarmodul mit Halterung in Schlitze in der Grundplatte stecken.
 
 ### Radarmodul-Rahmen mit Adapterplatten verschrauben
 <div class="col-md-6">
-       {{< imgproc standfuss Fit "600x400 webp" >}} Vorderseite {{< /imgproc >}} </div>
+       {{< imgproc standfuss Fit "600x400 webp" >}} Angeschraubte Standfüße {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Radarmodul mit Halterung in Schlitze in der Grundplatte stecken.
+Jetzt kannst du die Standfüße (aus dem Lasercutter) an die 3D-Druck-Halterung anschrauben. Schraube sie nicht zu fest an, damit du das Modul noch bewegen kannst. Die V-förmigen Enden sollten in die gleiche Richtung wie das Radarmodul zeigen. 
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->

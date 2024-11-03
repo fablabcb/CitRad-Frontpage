@@ -11,18 +11,18 @@ weight: 3
     <div class="col-md-6">
        <h3>Werkzeug</h3>
        <ul>
-       <li>Saitenschneider</li>
-       <li>Spitzzange</li>
-       <li>Lötkolben + Lötzinn</li>
+       <li><img src="/icons/spitzzange.webp" alt="Spitzzange" width="200"/>Spitzzange</li>
+       <li><img src="/icons/lötkolben.webp" alt="Lötkolben" width="200"/>Lötkolben + Lötzinn</li>
        </ul>
 </div>
     <div class="col-md-6">
 <h3>Teile</h3>
 <ul>
        <li>Teensy Mikroprozessor</li>
-        <li>Knopfzellendings</li>
-        <li>Schrumpfschlauch</li>
-        <li>2-adriges Kabel (5cm)</li>
+        <li>Spannungswandler</li>
+        <li>6-Pin-Stecker</li>
+        <li>4-Pin-Stecker</li>
+        <li>Kabel (ca. 5 cm)</li>
        </ul> 
        </div>
 </div>
@@ -47,9 +47,10 @@ weight: 3
 
 ### Steckerverbindung vorbereiten (Teil 1: 6-Pin-Stecker)
 <div class="col-md-6">
-       {{< imgproc prep_spannung Fit "600x400 webp" >}} Teilweise angelöteter 6-Pin-Stecker {{< /imgproc >}}
+       {{< imgproc prep_spannung Fit "600x400 webp" >}} Angelöteter 6-Pin-Stecker {{< /imgproc >}}
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+
 - Pin 1 (Nummerierung wie am Radar-Modul) aus dem Stecker ziehen (wird nicht benötigt).
 - Pin 5 und 6 umbiegen sodass sie in die line-in Anschlüsse des Audio Boards passen (siehe Foto).
 - Enable (Pin 2) umbiegen und mit Pin 17 des Teensy verbinden (passt gerade so).
@@ -65,7 +66,10 @@ weight: 3
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
- GND (Pin 9) über kurzes Kabel mit Gnd am linein oder mic in verbinden.
+ - Das Kabel (5cm) musst du mit einem Ende an einem der inneren Kontakte des 4-Pin-Steckers anlöten.
+ - Das andere Ende des Kabels lötest du GND (linein oder mic) des Audioshields.
+ - Der Stecker muss am Ende so am Radarmodul eingesteckt werden, dass er auf GND (Pin 9) des Radarmoduls zeigt
+ [Das muss noch bessern werden]
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->

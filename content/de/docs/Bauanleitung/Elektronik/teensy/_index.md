@@ -11,16 +11,16 @@ weight: 1
     <div class="col-md-6">
        <h3>Werkzeug</h3>
        <ul>
-       <li>Cuttermesser</li>
+       <li><img src="/icons/cutter.webp" alt="Cuttermesser" width="200"/></li>
        <li>Mikro-USB-Kabel + 5V Netzteil/USB-Port des Laptops</li>
-       <li>Lötkolben + Lötzinn</li>
+       <li><img src="/icons/lötkolben.webp" alt="Lötkolben" width="200"/></li>
        </ul>
 </div>
     <div class="col-md-6">
 <h3>Teile</h3>
 <ul>
        <li>Teensy Mikroprozessor</li>
-        <li>Knopfzellendings</li>
+        <li>Knopfzellenhalter</li>
         <li>Schrumpfschlauch</li>
        </ul> 
        </div>
@@ -38,7 +38,7 @@ weight: 1
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Damit der Teensy nicht versehentlich kaputt geht, musst du sicherstellen, dass du ihn nicht per USB und Akku mit Strom versorgen kannst. Dazu musst du die Stromzufuhr über die USB-Buchse unterbrechen. Das geht, indem du mit einem Cuttermesser an der gekennzeichneten Stelle (Bild 2) ein Stück freischneidest. Und zwar zwischen den beiden rechteckigen Kontakten.
+Damit der Teensy nicht versehentlich kaputt geht, musst du sicherstellen, dass du ihn nicht per USB und Akku mit Strom versorgen kannst. Dazu musst du die Stromzufuhr über die USB-Buchse unterbrechen. Das geht, indem du mit einem Cuttermesser an der gekennzeichneten Stelle (Foto 2) ein Stück freischneidest - und zwar zwischen den beiden rechteckigen Kontakten.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -54,8 +54,8 @@ Damit der Teensy nicht versehentlich kaputt geht, musst du sicherstellen, dass d
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 Um zu überprüfen, ob der Kontakt vollständig unterbrochen wurde, schließt du den Teensy per USB-Kabel an eine 5V Spannungsquelle (USB-Netzteil oder Laptop) an.<br>
- {{% alert color="warning" %}}
-Nur wenn die rote Kontrolleuchte des Teensy nicht mehr leuchtet, kannst du fortfahren. Andernfalls musst du nochmal kratzen/schneiden.
+ {{% alert color="primary" %}}
+Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** leuchtet, kannst du fortfahren. Andernfalls musst du nochmal kratzen/schneiden.
 {{% /alert %}}
     </div>
 </div>
@@ -70,8 +70,10 @@ Nur wenn die rote Kontrolleuchte des Teensy nicht mehr leuchtet, kannst du fortf
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Durch eine Knopfzelle versorgst du den Teensy auch dann mit Strom wenn er gerade nicht am Akku hängt. So verliert er seine Uhrzeit- und Datumseinstellungen nicht, während du den Akku lädst. Bevor du den Knopfzellenhalter an den Teensy löten kannst, muss über beide Kabel ein kleines Stück Schrumpfschlauch gezogen (aber noch nicht erwärmt) werden. Warum, erfährst du später.<br>
-{{% alert color="warning" %}}
+
+- Durch eine Knopfzelle versorgst du den Teensy auch dann mit Strom wenn er gerade nicht am Akku hängt. So verliert er seine Uhrzeit- und Datumseinstellungen nicht, während du den Akku lädst. 
+- Bevor du den Knopfzellenhalter an den Teensy löten kannst, muss über beide Kabel ein kleines Stück Schrumpfschlauch gezogen (aber noch nicht erwärmt) werden. Warum, erfährst du später.<br>
+{{% alert color="primary" %}}
 Die Knopfzelle bitte erst ganz am Ende einsetzen. Es drohen Kurzschlüsse während des Lötens. 
 {{% /alert %}}
 </div>
@@ -81,7 +83,7 @@ Die Knopfzelle bitte erst ganz am Ende einsetzen. Es drohen Kurzschlüsse währe
 
 ### Knopfzellenhalter anlöten
 <div class="col-md-6">
-      {{% imgproc teensy_knopf Fit "600x400 webp" %}} Knopfzellenhalter mit Schrumpflauch über den Anschlusskabeln
+      {{% imgproc teensy_knopf Fit "600x400 webp" %}} Angelöteter Knopfzellenhalter
 {{% /imgproc %}} 
 
 </div>
