@@ -4,6 +4,7 @@ description: >
   Diesen Schritte sind notwendig, damit du das Gehäuse später gut am Straßenrand aufstellen kannst. 
 date: 2024-01-09
 weight: 6
+draft: True
 ---
 {{% alert color="warning" %}}
 Dieser Schritt ist in Überarbeitung und wird fertiggestellt sobald dieser Prozess abgeschlossen ist.

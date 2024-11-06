@@ -29,6 +29,43 @@ weight: 6
 
 ## So funktioniert es 
 
+<div class="row">
+    <div class="col-md-6">
+       {{% imgproc gewindeschneiden Fit "600x400 webp" %}}Festgeschraubte Grundplatte mit Klettband für den Akku
+{{% /imgproc %}} </div>
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+Gewinde in Befestigungslöcher (Rückseite) schneiden.
+    </div>
+</div>
+<hr class="my-4"> <!-- Trennlinie -->
+<div class="row">
+<div class="col-md-6">
+       <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
+    Platzhalter
+</div> </div>
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+Adapterplatte mit M5-Schrauben und den Unterlegschrauben (im Lasercut Teil enthalten) an Rückseite anschrauben.
+    </div>
+</div>
+<hr class="my-4"> <!-- Trennlinie -->
+
+
+
+
+<div class="row">
+    <div class="col-md-6">
+       {{% imgproc grundplatte_eingebaut Fit "600x400 webp" %}}Festgeschraubte Grundplatte mit Klettband für den Akku
+{{% /imgproc %}} </div>
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+<ul><li>Zuerst das Klettband mit der weichen Seite nach oben in die mittlere Öffnung einführen und in Richtung der Aussparung führen.</li>
+
+<li>Dann die Grundplatte mit den losen Klettbandenden nach oben in das Gehäuse legen und festschrauben. Dabei ist die Orientierung der Platte innerhalb des Gehäuses egal.</li>
+</ul>
+    </div>
+</div>
+<hr class="my-4"> <!-- Trennlinie -->
+
+
 
 <div class="row">
 
@@ -41,16 +78,9 @@ Akku mit Kletterverschluss an Grundplatte befestigen.
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
-### Knopfzellenhalter
+
 <div class="row">
-    <div class="col-md-6">
-       {{< imgproc knopfzelle Fit "600x400 webp" >}} Knopfzellenhalter mit Knopfzelle {{< /imgproc >}} </div>
-    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Knopfzelle in Knopzellenhalter einsetzen. Der Pluspol der Knopfzelle muss in Richtung des Deckels zeigen. 
-    </div>
-</div>
-<hr class="my-4"> <!-- Trennlinie -->
-<div class="row">
+
 
 ### Radarmodul in Rahmen stecken
 <div class="col-md-6">
@@ -99,6 +129,17 @@ Micro-SD in Audioshield
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
+### Knopfzellenhalter
+<div class="row">
+    <div class="col-md-6">
+       {{< imgproc knopfzelle Fit "600x400 webp" >}} Knopfzellenhalter mit Knopfzelle {{< /imgproc >}} </div>
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+Knopfzelle in Knopzellenhalter einsetzen. Der Pluspol der Knopfzelle muss in Richtung des Deckels zeigen. 
+    </div>
+</div>
+<hr class="my-4"> <!-- Trennlinie -->
+
+
 <div class="row">
 
 ### Elektronik ins Gehäuse
@@ -110,4 +151,25 @@ Jetzt kann die Elektronik mit ins Gehäuse gesteckt werden. Dafür die Adapterpl
 **Glückwunsch! Der Hardwareteil ist abgeschlossen!** Du musst jetzt nur noch die den Akkupack anschließen und kannst dann die Software aufspielen. 
     </div>
 </div>
+<hr class="my-4"> <!-- Trennlinie -->
+
+<div class="row">
+    <div class="col-md-6">
+       
+{{% imgproc dichtung_schneiden Fill "400x300 webp" %}}
+Einkürzen der Gummidichtung.
+{{% /imgproc %}}
+
+       
+</div>
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+Die Gummidichtung einmal ringsum in die Nut einlegen und den Überstand mit einem Cuttermesser abtrennen. <br>
+
+{{% alert color="primary" %}}
+Dieser Schritt ist wichtig, damit keine Feuchtigkeit in das Gehäuse eindringen kann.
+{{% /alert %}}
+
+</div>
+</div>
+
 <hr class="my-4"> <!-- Trennlinie -->

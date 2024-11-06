@@ -4,7 +4,9 @@ description: >
   Die Grundplatte ist wichtig für einen sicheren Halt der Elektronik im Gehäuse 
 date: 2024-01-09
 weight: 5
+draft: True
 ---
+
 ## Das brauchst du
 
 <div class="row">

@@ -4,6 +4,7 @@ description: >
   Mit ein paar wenigen Schritten machst du das Gehäuse regendicht.
 date: 2024-01-09
 weight: 7
+draft: True
 ---
 ## Das brauchst du
 
