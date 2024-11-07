@@ -1,6 +1,6 @@
 ---
 title: Zusammmenbau
-description: Nachdem du Elektronik und Gehäuse vorbereitet hast, kann jetzt alles zusammengesetzt werden.
+description: Nachdem du die Elektronik erledigt hast, muss das Gehäuse vorbereitet und alles zusammengebaut werden.
 categories: []
 tags: []
 weight: 6
@@ -13,6 +13,8 @@ weight: 6
        <h3>Werkzeug</h3>
        <ul>
        <li><img src="/icons/screwdriver.webp" alt="Schraubenzieher" width="200"/>Schraubenzieher</li>
+        <li><img src="/icons/gewinde.webp" alt="Lötkolben" width="200"/>Gewindeschneider Mx</li>
+        <li><img src="/icons/cutter.webp" alt="Cuttermesser" width="200"/>Cuttermesser</li>
        </ul>
 </div>
     <div class="col-md-6">
@@ -30,10 +32,15 @@ weight: 6
 ## So funktioniert es 
 
 <div class="row">
+
+### Adapterplatte montieren
+{{% alert color="primary" %}}
+Dieser Teil wird aktuell überarbeitet. Bitte etwas Geduld.{{% /alert %}}
     <div class="col-md-6">
-       {{% imgproc gewindeschneiden Fit "600x400 webp" %}}Festgeschraubte Grundplatte mit Klettband für den Akku
+       {{% imgproc gewindeschneiden Fit "600x400 webp" %}}Gewindeschneiden
 {{% /imgproc %}} </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+Für die Montage an Straßenlaternen oder den Rohren von Straßenschildern brauchen wir ein Zwischenstück zwischen Box und Pfahl. 
 Gewinde in Befestigungslöcher (Rückseite) schneiden.
     </div>
 </div>
@@ -51,7 +58,7 @@ Adapterplatte mit M5-Schrauben und den Unterlegschrauben (im Lasercut Teil entha
 
 
 
-
+### Grundplatte befestigen
 <div class="row">
     <div class="col-md-6">
        {{% imgproc grundplatte_eingebaut Fit "600x400 webp" %}}Festgeschraubte Grundplatte mit Klettband für den Akku
@@ -148,13 +155,15 @@ Knopfzelle in Knopzellenhalter einsetzen. Der Pluspol der Knopfzelle muss in Ric
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Jetzt kann die Elektronik mit ins Gehäuse gesteckt werden. Dafür die Adapterplatten in die vorgesehenen Löcher der Grundplatte stecken. <br>
 
-**Glückwunsch! Der Hardwareteil ist abgeschlossen!** Du musst jetzt nur noch die den Akkupack anschließen und kannst dann die Software aufspielen. 
-    </div>
+
+ </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
 <div class="row">
-    <div class="col-md-6">
+
+### Gehäusedeckel abdichten
+<div class="col-md-6">
        
 {{% imgproc dichtung_schneiden Fill "400x300 webp" %}}
 Einkürzen der Gummidichtung.
@@ -171,5 +180,6 @@ Dieser Schritt ist wichtig, damit keine Feuchtigkeit in das Gehäuse eindringen 
 
 </div>
 </div>
-
 <hr class="my-4"> <!-- Trennlinie -->
+
+**Glückwunsch! Der Hardwareteil ist abgeschlossen!** Du musst jetzt nur noch die den Akkupack anschließen und kannst dann die Software aufspielen. 

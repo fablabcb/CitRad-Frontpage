@@ -14,6 +14,7 @@ weight: 2
        <li><img src="/icons/saitenschneider.webp" alt="Saitenschneider" width="200"/>Saitenschneider</li>
        <li><img src="/icons/spitzzange.webp" alt="Spitzzange" width="200"/>Spitzzange</li>
        <li><img src="/icons/lötkolben.webp" alt="Lötkolben" width="200"/>Lötkolben + Lötzinn</li>
+       <li><img src="/icons/abiso.webp" alt="Lötkolben" width="200"/>Abisolierzange</li>
        </ul>
 </div>
     <div class="col-md-6">

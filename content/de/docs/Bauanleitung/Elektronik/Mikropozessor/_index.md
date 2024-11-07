@@ -11,9 +11,9 @@ weight: 1
     <div class="col-md-6">
        <h3>Werkzeug</h3>
        <ul>
-       <li><img src="/icons/cutter.webp" alt="Cuttermesser" width="200"/></li>
+       <li><img src="/icons/cutter.webp" alt="Cuttermesser" width="200"/>Cuttermesser</li>
+       <li><img src="/icons/lötkolben.webp" alt="Lötkolben" width="200"/>Lötkolben + Lötzinn</li>
        <li>Mikro-USB-Kabel + 5V Netzteil/USB-Port des Laptops</li>
-       <li><img src="/icons/lötkolben.webp" alt="Lötkolben" width="200"/></li>
        </ul>
 </div>
     <div class="col-md-6">
