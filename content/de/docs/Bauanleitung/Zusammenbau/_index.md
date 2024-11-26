@@ -44,7 +44,7 @@ Für die Montage an Straßenlaternen oder den Rohren von Straßenschildern brauc
 Gewinde in Befestigungslöcher (Rückseite) schneiden.
     </div>
 </div>
-<hr class="my-4"> <!-- Trennlinie -->
+
 <div class="row">
 <div class="col-md-6">
        <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
