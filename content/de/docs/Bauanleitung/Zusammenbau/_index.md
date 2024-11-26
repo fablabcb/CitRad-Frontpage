@@ -16,17 +16,28 @@ weight: 6
         <li><img src="/icons/gewinde.webp" alt="Lötkolben" width="200"/>Gewindeschneider Mx</li>
         <li><img src="/icons/cutter.webp" alt="Cuttermesser" width="200"/>Cuttermesser</li>
        </ul>
-</div>
-    <div class="col-md-6">
-<h3>Teile</h3>
-<ul>
-       <li>Alles, was du bisher zusammengebaut hast</li>
-       <li>Akku-Pack</li>
-       <li>Lasercut-Füße</li>
-        <li>5x M3x5mm Schrauben</li>
-        <li>3D-Druck-Halterung für Radarmodul</li>
-       </ul> 
-       </div>
+    </div>
+    <div class="col-md-6 col-sm-6 col-xs-12">
+    <h3>Teile</h3>
+        <figure class="figure">
+          <img src="/parts/gehause_ges.png" alt="Gehäuse gesamt" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Gehäuse</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/parts/akku.png" alt="Akku-Pack" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Akku-Pack</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/parts/lasercut_fuesse.png" alt="Lasercut-Füße" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Lasercut-Füße</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/parts/3d_radarhalter.png" alt="3D-Druck-Halterung für Radarmodul" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Radarhalterung</figcaption>
+        </figure>
+        <ul><li>Alles bisher Zusammengebaute</li>
+        <li>5x M3x5mm Schrauben</li></ul>
+      </div>
 </div>
 
 ## So funktioniert es 
