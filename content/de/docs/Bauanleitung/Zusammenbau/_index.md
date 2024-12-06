@@ -35,6 +35,14 @@ weight: 6
           <img src="/parts/3d_radarhalter.png" alt="3D-Druck-Halterung für Radarmodul" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Radarhalterung</figcaption>
         </figure>
+        <figure class="figure">
+          <img src="/parts/radarmodul.jpeg" alt="Radarmodul" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Radarmodul</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/parts/microsd.png" alt="MicroSD-Karte" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">MicroSD-Karte</figcaption>
+        </figure>
         <ul><li>Alles bisher Zusammengebaute</li>
         <li>5x M3x5mm Schrauben</li></ul>
       </div>
@@ -142,7 +150,7 @@ Jetzt kannst du die Standfüße (aus dem Lasercutter) an die 3D-Druck-Halterung 
 <div class="col-md-6">
        {{< imgproc 3d Fit "600x400 webp" >}} Platzhalter Micro SD {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Micro-SD in Audioshield
+Micro-SD in Audioshield   <span style="background-color:yellow">[Brauchts da einen ExtraSchritt mit Bild?]</span>
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -189,8 +197,9 @@ Die Gummidichtung einmal ringsum in die Nut einlegen und den Überstand mit eine
 Dieser Schritt ist wichtig, damit keine Feuchtigkeit in das Gehäuse eindringen kann.
 {{% /alert %}}
 
+
 </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
-**Glückwunsch! Der Hardwareteil ist abgeschlossen!** Du musst jetzt nur noch die den Akkupack anschließen und kannst dann die Software aufspielen. 
+**Glückwunsch! Der Hardwareteil ist abgeschlossen!**  Bevor du den Deckel aufs Gehäuse schrauben kannst, musst du noch die <a href="/docs/softwareinstallation/">Software auf den Teensy flashen</a> 

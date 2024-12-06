@@ -37,7 +37,7 @@ weight: 3
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
- Spannungwandler mit 3.3V und Gnd des Teensy verbinden
+ Den Spannungwandler Lötest du mit PIN X an den 3.3V-Kontakt und mit PIN Y an den GND-Kontakt des Teensy.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -52,7 +52,7 @@ weight: 3
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 - Pin 1 (Nummerierung wie am Radar-Modul) aus dem Stecker ziehen (wird nicht benötigt).
-- Pin 5 und 6 umbiegen sodass sie in die line-in Anschlüsse des Audio Boards passen (siehe Foto).
+- Pin 5 und 6 umbiegen sodass sie in die line-in Anschlüsse des Audio Boards passen (siehe Foto, eine weitere hilfreiche Ansicht findest du am Ende der Seite).
 - Enable (Pin 2) umbiegen und mit Pin 17 des Teensy verbinden (passt gerade so).
 - Gnd (Pin 4) und Vcc (Pin 3) mit dem Output des DC-DC verbinden (siehe Foto). Hier muss man eventuell mit Lötzinn oder einem kurzen Draht überbrücken.</div>
 </div>
@@ -69,7 +69,8 @@ weight: 3
  - Das Kabel (5cm) musst du mit einem Ende an einem der inneren Kontakte des 4-Pin-Steckers anlöten.
  - Das andere Ende des Kabels lötest du GND (linein oder mic) des Audioshields.
  - Der Stecker muss am Ende so am Radarmodul eingesteckt werden, dass er auf GND (Pin 9) des Radarmoduls zeigt
- [Das muss noch bessern werden]
+ 
+ <span style="background-color:yellow">[Hiermit bin ich noch gar nicht zufrieden, weiß es aber auch nicht besser...]</span>
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -77,10 +78,10 @@ weight: 3
 
 ### Endergebnis
 <div class="col-md-6">
-       {{< imgproc radar_stecker_prep2_pin Fit "600x400 webp" >}} Nach Ausführung aller Schritte {{< /imgproc >}}
+       {{< imgproc radar_stecker_prep2_pin Fit "600x400 webp" >}} Endergebnis nach Ausführung aller Schritte {{< /imgproc >}}
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-        Am Ende sollte alles so wie auf dem Foto aussehen. 
+        Am Ende sollte alles wie auf dem Foto aussehen. 
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->

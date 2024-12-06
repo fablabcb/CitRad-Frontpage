@@ -23,6 +23,8 @@ weight: 2
        <li>Teensy Mikroprozessor</li>
         <li>2-adriges Kabel (5cm)</li>
         <li>40-Pin-Leiste</li>
+        <li>Batteriestecker</li>
+        <li>Akku-Pack (nur zur Kontrolle der korrekten Polung beim Löten)</li>
        </ul> 
        </div>
 </div>
@@ -47,7 +49,7 @@ weight: 2
 
 ### Pinleisten anlöten
 <div class="col-md-6">
-       {{< imgproc soldered Fit "600x400 webp" >}} Kürzen der Pinleiste auf Länge des Audioshields {{< /imgproc >}}
+       {{< imgproc soldered Fit "600x400 webp" >}} Die eingekürzten Pinleisten werden mit den kurzen Enden an das Audioshield gelötet. {{< /imgproc >}}
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
@@ -85,7 +87,7 @@ weight: 2
 
 
  <ul><li> Zuerst das zweiadrige Kabel auf etwa 4 cm kürzen, an beiden Seiten ein Stück weit auftrennen und alle Enden abisolieren</li>
- <li>Um nichts verkehrt anzulöten, stecke am besten die Buchse auf den Stecker des Akkupacks. Dann so zusammenlöten, dass das schwarze Kabel auf das schwarze Kabel und das rote auf das rote geht.</li>
+ <li>Um nichts verkehrt anzulöten, stecke am besten die Buchse auf den Stecker des Akkupacks, um zu überprüfen, welches Kabel an welchen Kontakt gelötet werden muss. Das schwarze Kabel muss auf das schwarze Kabel und das rote auf das rote zeigen. Nun steckst du den Akkupack wieder ab und lötest erst dann Kabel und Buchsen-Pins zusammen.</li>
  </ul>
     </div>
 </div>
@@ -99,9 +101,9 @@ weight: 2
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
- <ul><li>Den Kabel des Knopfzellenhalters (bereits am Teensy angelötet) führst du jetzt in Richtung der USB-Buchse über den Teensy hinweg. Das schwarze Kabel der Akkupackbuchse (<strong>ohne Akku</strong>) führst du dann mit durch den Schrumpfschlauch. </li>
- <li>Das <span style="color:black">schwarze</span> Kabel lötest du am zuvor umgebogenen GND-Pin und das <span style="color:red">rote</span> Kabel am ebenfalls umgebogenen 5V Pin an.</li>
- <li>Als letztes schiebst du die Kabel des Knopfzellenhalters soweit in richtung Lötstellen, dass keine Spannung auf dem Kabel ist und erwärmst vorsichtig den Schrumpfschlauch. So entsteht eine Zugentlastung. </li>
+ <ul><li>Das Kabel des Knopfzellenhalters (bereits am Teensy angelötet) führst du jetzt in Richtung der USB-Buchse über den Teensy hinweg. Das schwarze Kabel der Akkupackbuchse (<strong>ohne Akku</strong>) führst du dann mit durch den Schrumpfschlauch. </li>
+ <li>Das <span style="background-color:black; color:white">schwarze</span> Kabel lötest du am umgebogenen <span style="background-color:black; color:white">GND-Pin</span> und das <span style="background-color:red; color:white">rote</span> Kabel am ebenfalls umgebogenen <span style="background-color:red; color:white">5V Pin</span> an.</li>
+ <li>Als letztes schiebst du die Kabel des Knopfzellenhalters soweit in Richtung Lötstellen, dass keine Spannung auf dem Kabel ist und erwärmst vorsichtig den Schrumpfschlauch. So entsteht eine Zugentlastung. </li>
  </ul>
     </div>
 </div>

@@ -38,7 +38,7 @@ weight: 1
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Damit der Teensy nicht versehentlich kaputt geht, musst du sicherstellen, dass du ihn nicht per USB und Akku mit Strom versorgen kannst. Dazu musst du die Stromzufuhr über die USB-Buchse unterbrechen. Das geht, indem du mit einem Cuttermesser an der gekennzeichneten Stelle (Foto 2) ein Stück freischneidest - und zwar zwischen den beiden rechteckigen Kontakten.
+Der Teensy kann direkt über die Platine oder per USB-Kabel mit Strom versorgt werden. Er darf allerdings nicht über beide Wege gleichzeitig angeschlossen werden. Um das auszuschließen, musst du Stromversorgung per USB kappen, sodass die Stromversorgung nur noch über den Akkupack erfolgen kann. Das geht, indem du mit einem Cuttermesser an der richtigen Stelle ein Stück freikratzt (siehe Foto 1). Am Ende muss es so aussehen wie in Foto 2.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -55,7 +55,7 @@ Damit der Teensy nicht versehentlich kaputt geht, musst du sicherstellen, dass d
 
 Um zu überprüfen, ob der Kontakt vollständig unterbrochen wurde, schließt du den Teensy per USB-Kabel an eine 5V Spannungsquelle (USB-Netzteil oder Laptop) an.<br>
  {{% alert color="primary" %}}
-Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** leuchtet, kannst du fortfahren. Andernfalls musst du nochmal kratzen/schneiden.
+Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** leuchtet, kannst du fortfahren. Andernfalls musst du nochmal nacharbeiten.
 {{% /alert %}}
     </div>
 </div>
@@ -72,9 +72,9 @@ Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** leuchtet, kannst du f
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 - Durch eine Knopfzelle versorgst du den Teensy auch dann mit Strom wenn er gerade nicht am Akku hängt. So verliert er seine Uhrzeit- und Datumseinstellungen nicht, während du den Akku lädst. 
-- Bevor du den Knopfzellenhalter an den Teensy löten kannst, muss über beide Kabel ein kleines Stück Schrumpfschlauch gezogen (aber noch nicht erwärmt) werden. Warum, erfährst du später.<br>
+- Bevor du den Knopfzellenhalter an den Teensy löten kannst, muss über beide Kabel ein kleines Stück Schrumpfschlauch gezogen (aber noch nicht erwärmt) werden. Das dient später der Zugentlastung.<br>
 {{% alert color="primary" %}}
-Die Knopfzelle bitte erst ganz am Ende einsetzen. Es drohen Kurzschlüsse während des Lötens. 
+Die Knopfzelle bitte erst ganz am Ende einsetzen. Andernfalls drohen Kurzschlüsse während des Lötens. 
 {{% /alert %}}
 </div>
 </div>
