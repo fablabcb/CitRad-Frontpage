@@ -56,8 +56,8 @@ weight: 6
 {{% alert color="primary" %}}
 Dieser Teil wird aktuell überarbeitet. Bitte etwas Geduld.{{% /alert %}}
     <div class="col-md-6">
-       {{% imgproc gewindeschneiden Fit "600x400 webp" %}}Gewindeschneiden
-{{% /imgproc %}} </div>
+       {{< imgproc gewindeschneiden Fit "600x400 webp" >}}Gewindeschneiden
+{{< /imgproc >}} </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Für die Montage an Straßenlaternen oder den Rohren von Straßenschildern brauchen wir ein Zwischenstück zwischen Box und Pfahl. 
 Gewinde in Befestigungslöcher (Rückseite) schneiden.
@@ -80,9 +80,9 @@ Adapterplatte mit M5-Schrauben und den Unterlegschrauben (im Lasercut Teil entha
 ### Grundplatte befestigen
 <div class="row">
     <div class="col-md-6">
-       {{% imgproc grundplatte_eingebaut Fit "600x400 webp" %}}Festgeschraubte Grundplatte mit Klettband für den Akku
-{{% /imgproc %}} </div>
+       {{< imgproc grundplatte_eingebaut Fit "600x400 webp" >}}Grundplatte mit Klettband für den Akku{{< /imgproc >}} </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+
 <ul><li>Zuerst das Klettband mit der weichen Seite nach oben in die mittlere Öffnung einführen und in Richtung der Aussparung führen.</li>
 
 <li>Dann die Grundplatte mit den losen Klettbandenden nach oben in das Gehäuse legen und festschrauben. Dabei ist die Orientierung der Platte innerhalb des Gehäuses egal.</li>
@@ -97,7 +97,7 @@ Adapterplatte mit M5-Schrauben und den Unterlegschrauben (im Lasercut Teil entha
 
 ### Akku befestigen
 <div class="col-md-6">
-       {{< imgproc akku Fit "600x400 webp" >}} Akkupack im Gehäuse {{< /imgproc >}}</div>
+       {{< imgproc akku Fit "600x400 webp" >}}Akkupack im Gehäuse{{< /imgproc >}}</div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Akku mit Kletterverschluss an Grundplatte befestigen.
     </div>
@@ -172,8 +172,12 @@ Knopfzelle in Knopzellenhalter einsetzen. Der Pluspol der Knopfzelle muss in Ric
 <div class="col-md-6">
        {{< imgproc alltogether Fit "600x400 webp" >}} Vorderseite {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Jetzt kann die Elektronik mit ins Gehäuse gesteckt werden. Dafür die Adapterplatten in die vorgesehenen Löcher der Grundplatte stecken. <br>
-
+Die Radareinheit neben den Akku in die dafür vorgesehenen Schlitze stecken. Gehalten wird das Ganze später durch den Deckel.
+<br>
+{{% alert color="primary" %}}
+Die Radareinheit muss richtig in den vorgesehenen Schlitzen stecken. Also nicht verkantet. Sonst lässt sich der Deckel nicht schließen. 
+{{% /alert %}}
+Die Radareinheit wird nicht festgeschraubt, damit man später unkompliziert an die SD-Karte heran kommt.    
 
  </div>
 </div>
@@ -184,9 +188,9 @@ Jetzt kann die Elektronik mit ins Gehäuse gesteckt werden. Dafür die Adapterpl
 ### Gehäusedeckel abdichten
 <div class="col-md-6">
        
-{{% imgproc dichtung_schneiden Fill "400x300 webp" %}}
+{{< imgproc dichtung_schneiden Fill "400x300 webp" >}}
 Einkürzen der Gummidichtung.
-{{% /imgproc %}}
+{{< /imgproc >}}
 
        
 </div>

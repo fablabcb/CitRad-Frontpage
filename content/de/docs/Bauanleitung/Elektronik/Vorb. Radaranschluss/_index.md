@@ -37,7 +37,8 @@ weight: 3
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
- Den Spannungwandler Lötest du mit PIN X an den 3.3V-Kontakt und mit PIN Y an den GND-Kontakt des Teensy.
+Den Spannungswandler wie abgebildet mit der Beschriftung nach unten auf die Teensy Platine legen.
+Die ersten beiden Kontakte nach unten biegen und mit dem 3.3V und GND-Pin des Teensy verlöten. Die anderen beiden Kontakte bleiben gerade.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -54,7 +55,13 @@ weight: 3
 - Pin 1 (Nummerierung wie am Radar-Modul) aus dem Stecker ziehen (wird nicht benötigt).
 - Pin 5 und 6 umbiegen sodass sie in die line-in Anschlüsse des Audio Boards passen (siehe Foto, eine weitere hilfreiche Ansicht findest du am Ende der Seite).
 - Enable (Pin 2) umbiegen und mit Pin 17 des Teensy verbinden (passt gerade so).
-- Gnd (Pin 4) und Vcc (Pin 3) mit dem Output des DC-DC verbinden (siehe Foto). Hier muss man eventuell mit Lötzinn oder einem kurzen Draht überbrücken.</div>
+- Gnd (Pin 4) und Vcc (Pin 3) schräg mit dem Output des DC-DC verbinden (siehe Foto). Hier muss man eventuell mit Lötzinn oder einem kurzen Draht überbrücken.
+<br>
+{{% alert color="primary" %}}
+Aufpassen dass keine Querverbindung besteht. Eventuell die Drähte etwas auseinander biegen.
+{{% /alert %}}
+
+</div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
@@ -67,11 +74,8 @@ weight: 3
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
  - Das Kabel (5cm) musst du mit einem Ende an einem der inneren Kontakte des 4-Pin-Steckers anlöten.
- - Das andere Ende des Kabels lötest du GND (linein oder mic) des Audioshields.
- - Der Stecker muss am Ende so am Radarmodul eingesteckt werden, dass er auf GND (Pin 9) des Radarmoduls zeigt
- 
- <span style="background-color:yellow">[Hiermit bin ich noch gar nicht zufrieden, weiß es aber auch nicht besser...]</span>
-    </div>
+
+     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 <div class="row">
@@ -81,7 +85,11 @@ weight: 3
        {{< imgproc radar_stecker_prep2_pin Fit "600x400 webp" >}} Endergebnis nach Ausführung aller Schritte {{< /imgproc >}}
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-        Am Ende sollte alles wie auf dem Foto aussehen. 
+
+- Das andere Ende des Kabels lötest du an GND (linein oder mic) des Audioshields .
+- Der Stecker muss am Ende so am Radarmodul eingesteckt werden, dass er auf GND (Pin 9) des Radarmoduls zeigt.
+- Am Ende sollte alles wie auf dem Foto aussehen. 
+
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->

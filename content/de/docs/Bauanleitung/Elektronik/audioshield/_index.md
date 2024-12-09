@@ -11,7 +11,7 @@ weight: 2
     <div class="col-md-6">
        <h3>Werkzeug</h3>
        <ul>
-       <li><img src="/icons/saitenschneider.webp" alt="Saitenschneider" width="200"/>Saitenschneider</li>
+       <li><img src="/icons/saitenschneider.webp" alt="Seitenschneider" width="200"/>Seitenschneider</li>
        <li><img src="/icons/spitzzange.webp" alt="Spitzzange" width="200"/>Spitzzange</li>
        <li><img src="/icons/lötkolben.webp" alt="Lötkolben" width="200"/>Lötkolben + Lötzinn</li>
        <li><img src="/icons/abiso.webp" alt="Lötkolben" width="200"/>Abisolierzange</li>
@@ -40,7 +40,7 @@ weight: 2
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 
- Die 40-Pin-Leiste ist für das Audioshield zu lang. Steck sie einfach an einer Seite bündig ins Shield und trenne den Überstand mit dem Saitenschneider ab. Das gleiche machst du nochmal für die gegenüberliegende Seite.
+ Die 40-Pin-Leiste ist für das Audioshield zu lang. Steck sie einfach an einer Seite bündig ins Shield und trenne den Überstand mit dem Seitenschneider ab. Das gleiche machst du nochmal für die gegenüberliegende Seite.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -71,7 +71,7 @@ weight: 2
  <ul><li>Nun setzt du den Teensy auf die langen Pins auf. Dabei zeigt die USB-Buchse nach oben und in die gleiche Richtung wie der Klinkenanschluss des Audioshields.</li> 
  <li style="border: 2px solid #a6113aff"> Die Pins an 5V und GND biegst du mit einer Spitzzange (<img src="/icons/spitzzange.webp" alt="Spitzzange" width="50"/>) wie im Foto schräg nach vorne.</li>
  <li style="border: 2px solid #7adef1ff">
-  Um später den Spannungswandler gut anlöten zu können, entfernst du jetzt mit dem Saitenschneider (<img src="/icons/saitenschneider.webp" alt="Saitenschneider" width="50"/>) die Pins 21, 22, 23 (Ja, Pin 21 ist auf dem Foto noch nicht gekürzt).</li>
+  Um später den Spannungswandler gut anlöten zu können, entfernst du jetzt mit dem Seitenschneider (<img src="/icons/saitenschneider.webp" alt="Seitenschneider" width="50"/>) die Pins 21, 22, 23 (Ja, Pin 21 ist auf dem Foto noch nicht gekürzt).</li>
  </ul>   
     </div>
 </div>

@@ -47,8 +47,8 @@ Der Teensy kann direkt über die Platine oder per USB-Kabel mit Strom versorgt w
 
 ### Prüfen, ob Kontakt unterbrochen ist
 <div class="col-md-6">
-      {{% imgproc control Fit "600x400 webp" %}} Das rote Licht darf <strong>NICHT</strong> mehr leuchten.
-{{% /imgproc %}} 
+      {{< imgproc control Fit "600x400 webp" >}} Das rote Licht darf <strong>NICHT</strong> mehr leuchten.
+{{< /imgproc >}} 
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
@@ -65,8 +65,8 @@ Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** leuchtet, kannst du f
 
 ### Knopfzellenhalter vorbereiten
 <div class="col-md-6">
-      {{% imgproc knopfzelleschrumpfschlauch Fit "600x400 webp" %}} Knopfzellenhalter mit Schrumpflauch über den Anschlusskabeln
-{{% /imgproc %}} 
+      {{< imgproc knopfzelleschrumpfschlauch Fit "600x400 webp" >}} Knopfzellenhalter mit Schrumpflauch über den Anschlusskabeln
+{{< /imgproc >}} 
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
@@ -83,12 +83,16 @@ Die Knopfzelle bitte erst ganz am Ende einsetzen. Andernfalls drohen Kurzschlüs
 
 ### Knopfzellenhalter anlöten
 <div class="col-md-6">
-      {{% imgproc teensy_knopf Fit "600x400 webp" %}} Angelöteter Knopfzellenhalter
-{{% /imgproc %}} 
+      {{< imgproc teensy_knopf Fit "600x400 webp" >}} Angelöteter Knopfzellenhalter
+{{< /imgproc >}} 
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Das rote Kabel muss an Pin 32, das schwarze an Pin 28 gelötet werden. 
+Das rote Kabel muss an Pin 32, das schwarze an Pin 28 gelötet werden.<br>
+
+{{% alert color="primary" %}}
+Wichtig ist dass die Kabel auf der Platinenunterseite nicht überstehen dürfen. Später wird hier der SD-Karten-Slot vom Audio-Board liegen. Dieser darf keinen Kontakt zu den Lötstellen bekommen.   
+{{% /alert %}}
 </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
