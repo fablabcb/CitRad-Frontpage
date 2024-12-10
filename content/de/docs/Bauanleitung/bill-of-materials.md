@@ -7,7 +7,7 @@ weight: 2
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+Die Teileliste muss noch überarbeitet werden.
 {{% /pageinfo %}}
 
 
@@ -18,6 +18,7 @@ This is a placeholder page. Replace it with your own content.
 - Seitenschneider
 - Abisolierzange
 - Messer
+- Heißluftpistole oder Feuerzeug
 
 ## Bauteile
 
