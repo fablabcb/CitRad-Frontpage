@@ -10,11 +10,14 @@ weight: 2
 
 ## nötiges Werkzeug
 
-- Lötkolben
+- Lötkolben + Lötzinn
 - Schraubenzieher
 - Seitenschneider
 - Abisolierzange
 - Messer
+- Spitzzange
+- Heißluftpistole/Feuerzeug
+
 
 ## Bauteile
 
