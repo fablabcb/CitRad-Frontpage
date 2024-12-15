@@ -28,7 +28,7 @@ weight: 2
   - [isolierter DC-DC: ROE-3.305S](https://de.rs-online.com/web/p/dcdc-wandler/1392970)
   - [Akkupack](https://exp-tech.de/products/battery-lipo6600mah?_pos=33&_sid=1be852f75&_ss=r)
   - [USB-C LiPo Charger](https://eckstein-shop.de/AdafruitMicro-LipoChargerforLiPolyBattwithUSBTypeCJack)
-  - SD-Karte nach Wahl
+  - Micro-SD-Karte nach Wahl
   - [Knopfzellenhalter](https://www.amazon.de/HALJIA-Knopfzellen-Batteriehalter-Ausschalter-Knopfzellen-Halterung/dp/B099HX71JX/ref=sr_1_14?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=I6ZENFBJGDNA&keywords=c2032+battery+holder&qid=1699254568&sprefix=c2032+battery+holder%2Caps%2C89&sr=8-14)
   - Knopfzelle CR2032
   - [Stiftleiste Strip 1x40 Pin](https://eckstein-shop.de/Single-Double-Row-Pin-Male-Header-Stiftleiste-Strip-1x40-Pin-GeradeA-5-Stuecke)
