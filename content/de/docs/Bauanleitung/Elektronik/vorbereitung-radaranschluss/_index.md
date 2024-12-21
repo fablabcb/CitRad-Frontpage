@@ -1,7 +1,7 @@
 ---
 title: Vorbereitung Radaranschluss
 description: >
-  Um auch das Radarmodul mit der richtigen Spannung zu versorgen, brauchen wir einen Spannungswandler und einige Anschlussvorbereitungen für den Datenaustausch. 
+  Für die Spannungsversorgung des Radarmoduls musst du einen Spannungswandler einbauen. Außerdem musst du Anschlüsse für den Datenaustausch zwischen den Komponenten vorbereiten. 
 date: 2024-01-09
 weight: 3
 ---
@@ -18,10 +18,10 @@ weight: 3
     <div class="col-md-6">
 <h3>Teile</h3>
 <ul>
-       <li>Teensy Entwicklerboard</li>
+       <li>Teensy Entwicklerboard + Audioshield aus vorherigem Schritt</li>
         <li>Spannungswandler</li>
-        <li>6-Pin-Stecker</li>
-        <li>4-Pin-Stecker</li>
+        <li>Header 6-Pin</li>
+        <li>Header 4-Pin</li>
         <li>Kabel (ca. 5 cm)</li>
        </ul> 
        </div>
@@ -31,14 +31,15 @@ weight: 3
 
 <div class="row">
 
-### Spannungwandler an Teensy
+### Spannungwandler und Teensy verbinden
 <div class="col-md-6">
        {{< imgproc spannungswandler1 Fit "600x400 webp" >}} Spannungswandler, angelötet an GND und 3.3V des Teensy {{< /imgproc >}}
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
-Den Spannungswandler wie abgebildet mit der Beschriftung nach unten auf die Platine des Teensy legen.
-Die ersten beiden Kontakte nach unten biegen und mit dem 3.3V und GND-Pin des Teensy verlöten. Die anderen beiden Kontakte bleiben gerade.
+<p>Lege den Spannungswandler mit der Beschriftung nach oben und den Füßchen zu dir zeigend vor dich hin. Die beiden linken Füßchen biegst du jetzt so nah wie möglich am Spannungwandler um 90° nach oben.</p>
+<p>Nun legst legst du den Spannungswandler mit den der Beschriftung nach unten auf den Teensy. Dabei darauf achten, dass die umgebogenen Füßchen jeweils links an den zwei alleinstehenden Pins, die aus 3.3V-Kontakt und GND-Kontakt (rechts daneben) herausragen, anliegen.</p>
+<p>Jetzt kannst du beide Kontaktstellen verlöten.</p>  
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -46,34 +47,55 @@ Die ersten beiden Kontakte nach unten biegen und mit dem 3.3V und GND-Pin des Te
 
 <div class="row">
 
-### Steckerverbindung vorbereiten (Teil 1: 6-Pin-Stecker)
+### Steckerverbindung vorbereiten (Teil 1: Header 6-Pin)
 <div class="col-md-6">
-       {{< imgproc prep_spannung Fit "600x400 webp" >}} Angelöteter 6-Pin-Stecker {{< /imgproc >}}
+<div class="row">
+       {{< imgproc 6-pin-rem-pin Fit "300x180 webp" >}} Pin 1 herausgezogen {{< /imgproc >}}
+       {{< imgproc 6-pin_bend1 Fit "300x180 webp" >}} Pin 5 und 6: Erste Biegung um 90° nach rechts {{< /imgproc >}}
+   </div> 
+   <div class="row">
+       {{< imgproc 6-pin_bend2 Fit "300x180 webp" >}} Zweite Biegung nach unten {{< /imgproc >}}
+       {{< imgproc shield_line_in Fit "300x180 webp" >}} Beide Pins angelötet am Line-In des Audioshields {{< /imgproc >}}
+</div>   
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
-- Pin 1 (Nummerierung wie am Radar-Modul) aus dem Stecker ziehen (wird nicht benötigt).
-- Pin 5 und 6 umbiegen sodass sie in die line-in Anschlüsse des Audio Boards passen (siehe Foto, eine weitere hilfreiche Ansicht findest du am Ende der Seite).
-- Enable (Pin 2) umbiegen und mit Pin 17 des Teensy verbinden (passt gerade so).
-- Gnd (Pin 4) und Vcc (Pin 3) schräg mit dem Output des DC-DC verbinden (siehe Foto). Hier muss man eventuell mit Lötzinn oder einem kurzen Draht überbrücken.
-<br>
+- Pin 1 (ganz links) aus dem Stecker ziehen. Er wird nicht mehr benötigt.
+- Pin 5 und 6 (ganz rechts) zuerst um 90° nach rechts biegen. Dann mit etwa 4mm Abstand um ca. 75 grad nach unten biegen. Beide Pins müssen an die Line-In Kontakte des Audioshields heranreichen und dort festgelötet werden. 
+
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+       {{< imgproc prep_spannung Fit "600x400 webp" >}} Angelöteter Header 6-Pin {{< /imgproc >}}
+</div>
+<div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+
 {{% alert color="primary" %}}
 Aufpassen dass keine Querverbindung besteht. Eventuell die Drähte etwas auseinander biegen.
 {{% /alert %}}
+<ul>
+<li style="border: 2px solid #7adef1ff"> Enable (Pin 2) zu Pin 17 des Teensy biegen und zusammenlöten (passt gerade so).</li>
+<li style="border: 2px solid #a6113aff"> Gnd (Pin 4) und Vcc (Pin 3) schräg mit dem Output des Spannungswandlers verbinden (siehe Foto). Hier muss man eventuell mit Lötzinn oder einem kurzen Draht überbrücken. Das Foto am Ende der Seite zeigt nochmal eine Draufsicht, die hilfreich sein kann.</li>
+</ul>
+
 
 </div>
+</div>
+<div class="row">
+
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
 <div class="row">
 
-### Steckerverbindung vorbereiten (Teil 2: 4-Pin-Stecker)
+### Steckerverbindung vorbereiten (Teil 2: Header 4-Pin)
 <div class="col-md-6">
-       {{< imgproc radar_stecker Fit "600x400 webp" >}} Vorbereiteter 4-Pin-Stecker. {{< /imgproc >}}
+       {{< imgproc radar_stecker Fit "600x400 webp" >}} Vorbereiteter Header 4-Pin. {{< /imgproc >}}
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
- - Das Kabel (5cm) musst du mit einem Ende an einem der inneren Kontakte des 4-Pin-Steckers anlöten.
+ - Das Kabel (5cm) musst du mit einem Ende an einem der inneren Kontakte des Header 4-Pins anlöten.
 
      </div>
 </div>
@@ -86,8 +108,8 @@ Aufpassen dass keine Querverbindung besteht. Eventuell die Drähte etwas auseina
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
-- Das andere Ende des Kabels lötest du an GND (linein oder mic) des Audioshields .
-- Der Stecker muss am Ende so am Radarmodul eingesteckt werden, dass er auf GND (Pin 9) des Radarmoduls zeigt.
+- Das andere Ende des Kabels lötest du vom Header 4-Pin kommend an GND (linein oder mic) des Audioshields .
+- Der Stecker muss am Ende so am Radarmodul eingesteckt werden, dass er auf GND (Pin 9) des Radarmoduls zeigt. Das wird beim Zusammenbau nochmal erklärt.
 - Am Ende sollte alles wie auf dem Foto aussehen. 
 
     </div>
