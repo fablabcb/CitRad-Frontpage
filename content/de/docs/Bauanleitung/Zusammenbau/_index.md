@@ -114,7 +114,7 @@ Akku mit Kletterverschluss an Grundplatte befestigen.
        {{< imgproc _back Fit "600x400 webp" >}} Rückseite {{< /imgproc >}}
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
- Das Radarmodul vorsichtig in die Öffnung der 3D-Druck-Halterung einsetzen. 
+ Das Radarmodul vorsichtig so in die 3D-Druck-Halterung einsetzen, dass die 4 Pins den Spalt der Halterung herausragen und die 6 Pins auf der gegenüberliegenden Seite durch die große Öffnung ragen. Das Modul sollte am Ende fest in dem 3D-Druck-Teil stecken.
     </div>
 </div>
 <hr class="my-4"> 
@@ -128,7 +128,7 @@ Akku mit Kletterverschluss an Grundplatte befestigen.
 - Beim Aufsetzen von Teensy&Audoshield auf die Pins des Radarmoduls musst du nur darauf achten, dass die Löcher für die Schrauben im Audioshield auf die der 3D-Druck-Halterung passen.
 - Dann kannst du zuerst den 6-Pin-Stecker verbinden und dann
 - Den 4-Pin-Stecker so einstecken, dass das Kabel am zweiten Pin (vom Klinkenanschluss aus gesehen) angelötet ist. 
-- Danach mit 3 Schrauben das Audioshield an der Halterung befestigen. 
+- Danach mit 3 M3-Schrauben das Audioshield an der Halterung befestigen. 
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -148,9 +148,9 @@ Jetzt kannst du die Standfüße (aus dem Lasercutter) an die 3D-Druck-Halterung 
 
 ### Micro-SD-Karte einsetzen
 <div class="col-md-6">
-       {{< imgproc 3d Fit "600x400 webp" >}} Platzhalter Micro SD {{< /imgproc >}} </div>
+       {{< imgproc microsd Fit "600x400 webp" >}} Platzhalter Micro SD {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Micro-SD in Audioshield   <span style="background-color:yellow">[Brauchts da einen ExtraSchritt mit Bild?]</span>
+Der Slot für die Micro-SD-Karte befindet sich jetzt zwischen Teensy und Audioshield. Die Micro-SD-Karte muss mit den Kontakten nach unten vorsichtig bis zum Anschlag in den Slot des Audioshield geschoben werden.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
