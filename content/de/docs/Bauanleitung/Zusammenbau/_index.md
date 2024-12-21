@@ -207,3 +207,14 @@ Dieser Schritt ist wichtig, damit keine Feuchtigkeit in das Gehäuse eindringen 
 <hr class="my-4"> <!-- Trennlinie -->
 
 **Glückwunsch! Der Hardwareteil ist abgeschlossen!**  Bevor du den Deckel aufs Gehäuse schrauben kannst, musst du noch die <a href="/docs/softwareinstallation/">Software auf den Teensy flashen</a> 
+
+<hr class="my-4">
+
+<div class="d-flex justify-content-between">
+  <a class="btn btn-sm btn-primary me-3 mb-4" href="../elektronik/vorbereitung-radaranschluss">
+<i class="fas fa-arrow-alt-circle-left me-2"></i> Vorheriger Schritt 
+  </a>
+  <a class="btn btn-sm btn-primary mb-4" href="../../softwareinstallation/">
+    Nächster Schritt <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  </a>
+</div>

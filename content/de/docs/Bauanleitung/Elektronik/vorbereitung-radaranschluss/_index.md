@@ -93,3 +93,12 @@ Aufpassen dass keine Querverbindung besteht. Eventuell die Drähte etwas auseina
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
+
+<div class="d-flex justify-content-between">
+  <a class="btn btn-sm btn-primary me-3 mb-4" href="../vorbereitung-radaranschluss">
+<i class="fas fa-arrow-alt-circle-left me-2"></i> Vorheriger Schritt 
+  </a>
+  <a class="btn btn-sm btn-primary mb-4" href="../../zusammenbau/">
+    Nächster Schritt <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  </a>
+</div>
