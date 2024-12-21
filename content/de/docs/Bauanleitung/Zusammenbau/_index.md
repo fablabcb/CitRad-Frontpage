@@ -206,7 +206,7 @@ Dieser Schritt ist wichtig, damit keine Feuchtigkeit in das Gehäuse eindringen 
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
-**Glückwunsch! Der Hardwareteil ist abgeschlossen!**  Bevor du den Deckel aufs Gehäuse schrauben kannst, musst du noch die <a href="/docs/softwareinstallation/">Software auf den Teensy flashen</a> 
+**Glückwunsch! Der Hardwareteil ist abgeschlossen!**  Bevor du den Deckel aufs Gehäuse schrauben kannst, musst du noch die <a href="/docs/softwareinstallation/">Software auf das Teensy Entwicklerboard flashen</a> 
 
 <hr class="my-4">
 

@@ -18,7 +18,7 @@ weight: 3
     <div class="col-md-6">
 <h3>Teile</h3>
 <ul>
-       <li>Teensy Mikroprozessor</li>
+       <li>Teensy Entwicklerboard</li>
         <li>Spannungswandler</li>
         <li>6-Pin-Stecker</li>
         <li>4-Pin-Stecker</li>
@@ -37,7 +37,7 @@ weight: 3
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
-Den Spannungswandler wie abgebildet mit der Beschriftung nach unten auf die Teensy Platine legen.
+Den Spannungswandler wie abgebildet mit der Beschriftung nach unten auf die Platine des Teensy legen.
 Die ersten beiden Kontakte nach unten biegen und mit dem 3.3V und GND-Pin des Teensy verlöten. Die anderen beiden Kontakte bleiben gerade.
     </div>
 </div>

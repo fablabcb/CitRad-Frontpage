@@ -1,7 +1,7 @@
 ---
 title: Audioshield und Teensy verbinden 
 description: >
-  Vorbereitung des Audioshields für den Zusammenbau mit dem Mikroprozessor 
+  Vorbereitung des Audioshields für den Zusammenbau mit dem Entwicklerboard 
 date: 2024-01-09
 weight: 2
 ---
@@ -20,8 +20,8 @@ weight: 2
     <div class="col-md-6">
 <h3>Teile</h3>
 <ul>
-       <li>Teensy Mikroprozessor</li>
-        <li>2-adriges Kabel (5cm)</li>
+       <li>Teensy Entwicklerboard</li>
+        <li>2-adriges Kabel (4cm)</li>
         <li>40-Pin-Leiste</li>
         <li>Batteriestecker</li>
         <li>Akku-Pack (nur zur Kontrolle der korrekten Polung beim Löten)</li>
@@ -40,7 +40,7 @@ weight: 2
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 
- Die 40-Pin-Leiste ist für das Audioshield zu lang. Steck sie einfach an einer Seite bündig ins Shield und trenne den Überstand mit dem Seitenschneider ab. Das gleiche machst du nochmal für die gegenüberliegende Seite.
+ Die 40-Pin-Leiste ist für das Audioshield zu lang. Steck sie einfach an einer Seite bündig ins Shield und trenne den Überstand mit dem Seitenschneider ab. Das gleiche machst du nochmal für die gegenüberliegende Seite. Was von der Pinleiste übrig bleibt, wird nicht mehr benötigt
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -110,7 +110,7 @@ weight: 2
 <hr class="my-4"> <!-- Trennlinie -->
 
 <div class="d-flex justify-content-between">
-  <a class="btn btn-sm btn-primary me-3 mb-4" href="../mikroprozessor">
+  <a class="btn btn-sm btn-primary me-3 mb-4" href="../entwicklerboard">
 <i class="fas fa-arrow-alt-circle-left me-2"></i> Vorheriger Schritt 
   </a>
   <a class="btn btn-sm btn-primary mb-4" href="../vorbereitung-radaranschluss">

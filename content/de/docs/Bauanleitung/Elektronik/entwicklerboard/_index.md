@@ -1,7 +1,7 @@
 ---
-title: Teensy Mikroprozessor
+title: Teensy Entwicklerboard
 description: >
-  Alle Vorbereitungsschritte für den Teensy Mikroprozessor 
+  Alle Vorbereitungsschritte für den Teensy Entwicklerboard 
 date: 2024-01-09
 weight: 1
 ---
@@ -19,7 +19,7 @@ weight: 1
     <div class="col-md-6">
 <h3>Teile</h3>
 <ul>
-       <li>Teensy Mikroprozessor</li>
+       <li>Teensy Entwicklerboard</li>
         <li>Knopfzellenhalter</li>
         <li>Schrumpfschlauch</li>
        </ul> 
@@ -39,9 +39,9 @@ weight: 1
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-<p>Der Teensy Mikroprozessor soll für dieses Projekt per Akkupack mit Strom versorgt werden. Damit er nicht versehentlich per Akkupack und USB mit Strom versorgt wird, müssen wir zuerst die Stromversorgung per USB deaktivieren. </p>
+<p>Der Teensy Entwicklerboard soll für dieses Projekt per Akkupack mit Strom versorgt werden. Damit er nicht versehentlich per Akkupack und USB mit Strom versorgt wird, müssen wir zuerst die Stromversorgung per USB deaktivieren. </p>
 
-<p>Zunächst schließt du den Teensy Mikroprozessor per USB an eine Stromquelle an, um zu überprüfen, ob er ordnungsgemäß funktioniert. Die rote Kontrollleuchte sollte durchgehen an sein. Ziehe das USB-Kabel jetzt wieder ab. </p>
+<p>Zunächst schließt du den Teensy Entwicklerboard per USB an eine Stromquelle an, um zu überprüfen, ob er ordnungsgemäß funktioniert. Die rote Kontrollleuchte sollte durchgehen an sein. Ziehe das USB-Kabel jetzt wieder ab. </p>
 
 <p>In Foto zwei sind zwei eckige Kontakte rot eingekreist. Die beiden Leiterbahnen werden durch eine kleine Leiterbahn verbunden. Diese musst du mit dem Cuttermesser wegkratzen. </p>
     </div>
