@@ -1,5 +1,5 @@
 ---
-title: Mikroprozessor
+title: Teensy Mikroprozessor
 description: >
   Alle Vorbereitungsschritte für den Teensy Mikroprozessor 
 date: 2024-01-09
@@ -31,14 +31,19 @@ weight: 1
 
 ### Kontakt für USB-Stromversorgung unterbrechen
 <div class="col-md-6">
-       {{< imgproc cut_contact Fit "600x400 webp" >}}Foto 1: Kontaktunterbrechung
+       
+{{< imgproc cut_contact_done Fit "600x400 webp" >}}Foto 1: Die Verbindung zwischen den beiden rechteckigen Kontakten (rot eingekreist) muss entfernt werden.
 {{< /imgproc >}}
-{{< imgproc cut_contact_done Fit "600x400 webp" >}}Foto 2: Die Lücke zwischen den beiden rechteckigen Kontakten haben wurde mit dem Messer erzeugt.
+{{< imgproc cut_contact Fit "600x400 webp" >}}Foto 2: Wegkratzen der Verbindung zwischen den beiden Kontakten
 {{< /imgproc >}}
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Der Teensy kann direkt über die Platine oder per USB-Kabel mit Strom versorgt werden. Er darf allerdings nicht über beide Wege gleichzeitig angeschlossen werden. Um das auszuschließen, musst du Stromversorgung per USB kappen, sodass die Stromversorgung nur noch über den Akkupack erfolgen kann. Das geht, indem du mit einem Cuttermesser an der richtigen Stelle ein Stück freikratzt (siehe Foto 1). Am Ende muss es so aussehen wie in Foto 2.
+<p>Der Teensy Mikroprozessor soll für dieses Projekt per Akkupack mit Strom versorgt werden. Damit er nicht versehentlich per Akkupack und USB mit Strom versorgt wird, müssen wir zuerst die Stromversorgung per USB deaktivieren. </p>
+
+<p>Zunächst schließt du den Teensy Mikroprozessor per USB an eine Stromquelle an, um zu überprüfen, ob er ordnungsgemäß funktioniert. Die rote Kontrollleuchte sollte durchgehen an sein. Ziehe das USB-Kabel jetzt wieder ab. </p>
+
+<p>In Foto zwei sind zwei eckige Kontakte rot eingekreist. Die beiden Leiterbahnen werden durch eine kleine Leiterbahn verbunden. Diese musst du mit dem Cuttermesser wegkratzen. </p>
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -74,7 +79,7 @@ Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** leuchtet, kannst du f
 - Durch eine Knopfzelle versorgst du den Teensy auch dann mit Strom wenn er gerade nicht am Akku hängt. So verliert er seine Uhrzeit- und Datumseinstellungen nicht, während du den Akku lädst. 
 - Bevor du den Knopfzellenhalter an den Teensy löten kannst, muss über beide Kabel ein kleines Stück Schrumpfschlauch gezogen (aber noch nicht erwärmt) werden. Das dient später der Zugentlastung.<br>
 {{% alert color="primary" %}}
-Die Knopfzelle bitte erst ganz am Ende einsetzen. Andernfalls drohen Kurzschlüsse während des Lötens. 
+Die Knopfzelle bitte erst einlegen, wenn du in der Anleitung dazu aufgefordert wirst. Andernfalls drohen Kurzschlüsse während des Lötens. 
 {{% /alert %}}
 </div>
 </div>
