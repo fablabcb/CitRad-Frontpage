@@ -139,7 +139,7 @@ Akku mit Kletterverschluss an Grundplatte befestigen.
 <div class="col-md-6">
        {{< imgproc standfuss Fit "600x400 webp" >}} Angeschraubte Standfüße {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Jetzt kannst du die Standfüße (aus dem Lasercutter) an die 3D-Druck-Halterung anschrauben. Schraube sie nicht zu fest an, damit du das Modul noch bewegen kannst. Die V-förmigen Enden sollten in die gleiche Richtung wie das Radarmodul zeigen. 
+Jetzt kannst du die Standfüße (aus dem Lasercutter) an die 3D-Druck-Halterung anschrauben. Schraube sie nicht zu fest an, damit du das Modul noch bewegen kannst. Die längere der beiden langen Kanten zeigt dabei jeweils in Richtung des breiten Endes der 3D-Druck-Halterung. Der Überstand an der kurzen Kante zeigt vom Radarmodul weg. 
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
