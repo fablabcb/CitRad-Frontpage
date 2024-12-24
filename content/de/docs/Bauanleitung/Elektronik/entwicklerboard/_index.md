@@ -50,14 +50,14 @@ Der Teensy sollte grundsätzlich funktionieren, bevor du mit den Anpassungen beg
 ### Kontakt für USB-Stromversorgung unterbrechen
 <div class="col-md-6">
        
-{{< imgproc cut_contact_done Fit "600x400 webp" >}}Foto 1: Die Verbindung zwischen den beiden rechteckigen Kontakten (rot eingekreist) muss entfernt werden.
+{{< imgproc cut_contact_done Fit "600x400 webp" >}} Die Verbindung zwischen den beiden rechteckigen Kontakten (rot eingekreist) muss entfernt werden. Kreis 1 und 2 zeigen wie. 
 {{< /imgproc >}}
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 <p>Der Teensy Entwicklerboard soll für dieses Projekt per Akkupack mit Strom versorgt werden. Damit er nicht versehentlich per Akkupack und USB mit Strom versorgt wird, müssen wir zuerst die Stromversorgung per USB deaktivieren. </p>
 
-<p>In Foto zwei sind zwei eckige Kontakte <span style="border: 2px solid #a6113a">rot eingekreist</span>. Die beiden Leiterbahnen werden durch eine kleine Leiterbahn verbunden (<span style="border: 2px solid #00ffffff"> siehe Pfeil in Kreis 1</span>). Diese musst du mit dem Cuttermesser wegkratzen bis es in etwa so aussieht wie <span style="border: 2px solid #00ffffff">in Kreis 2.</span> </p>
+<p>Im Foto sind zwei eckige Kontakte <span style="border: 2px solid #a6113a">rot eingekreist</span>. Die beiden Leiterbahnen werden durch eine kleine Leiterbahn verbunden (<span style="border: 2px solid #00ffffff"> siehe Pfeil in Kreis 1</span>). Diese musst du mit dem Cuttermesser wegkratzen bis es in etwa so aussieht wie <span style="border: 2px solid #00ffffff">in Kreis 2.</span> </p>
 <p>Zur Kontrolle schließt du den Teensy jetzt wieder per USB an eine Stromquelle an.
 {{% alert color="primary" %}}
 Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** leuchtet, kannst du fortfahren. Andernfalls musst du nochmal nacharbeiten.

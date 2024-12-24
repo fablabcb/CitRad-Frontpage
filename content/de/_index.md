@@ -27,7 +27,7 @@ Mit CitRad soll das Sammeln solcher Daten für jede:n möglich werden - und zwar
 {{% blocks/feature icon="fa-wrench" title="Radarsensor leicht gemacht" %}}
 Wir haben einen Radarsensor entwickelt, der leicht nachzubauen ist.
 
-Hier wird bald die Bauanleitung bereitgestellt!
+[Hier geht es zur Bau und Installationsanleitung](/docs)!
 {{% /blocks/feature %}}
 
 
