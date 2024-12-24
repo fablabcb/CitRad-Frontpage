@@ -72,7 +72,7 @@ weight: 2
  <li style="border: 2px solid #a6113aff"> Die Pins an 5V und GND biegst du mit einer Spitzzange (<img src="/icons/spitzzange.webp" alt="Spitzzange" width="50"/>) wie im Foto schräg nach vorne.</li>
  <li style="border: 2px solid #7adef1ff">
   Um später den Spannungswandler gut anlöten zu können, knipst du jetzt mit dem Seitenschneider (<img src="/icons/saitenschneider.webp" alt="Seitenschneider" width="50"/>) die Pins 21, 22, 23 ab (Ja, Pin 21 ist auf dem Foto noch nicht gekürzt).</li>
-  <li>Jetzt lötest du alle Pins 
+  <li>Jetzt lötest du alle Pins fest, um die beiden Platinen zu verbinden. Löte auch die gekürzten Pins an.
  </ul>   
     </div>
 </div>
@@ -89,9 +89,13 @@ weight: 2
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 
- <ul><li> Zuerst das zweiadrige Kabel auf etwa 4 cm kürzen, an beiden Seiten ein Stück weit auftrennen und alle Enden abisolieren</li>
- <li>Um nichts verkehrt anzulöten, stecke am besten die Buchse auf den Stecker des Akkupacks, um zu überprüfen, welches Kabel an welchen Kontakt gelötet werden muss. Das schwarze Kabel muss auf das schwarze Kabel und das rote auf das rote zeigen. Nun steckst du den Akkupack wieder ab und lötest erst dann Kabel und Buchsen-Pins zusammen.</li>
+ <ul><li> Zuerst das zweiadrige Kabel an beiden Seiten ein Stück weit auftrennen und alle Enden abisolieren</li>
+ <li>Buchse und Stecker (mit Kabel) kommen oft im Set. Stecker und Kabel brauchen wir nicht. Aber das Kabel lässt sich leichter an die Buchse löten, wenn der Stecker eingesteckt ist. Löte jetzt das Kabel so an die Buchse, das die Polung zum Stecker des Akkupacks passt.
+ </li>
  </ul>
+ {{% alert color="primary" %}}
+Achtung: Manche Buchsen/Stecker-Sets sind genau umgekehrt gepolt. Vergleiche immer ob der Stecker genauso wie der des Akkupacks gepolt ist und löter erst dann die Buchse entsprechend an das Kabel 
+{{% /alert %}}
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -104,9 +108,9 @@ weight: 2
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
- <ul><li>Das Kabel des Knopfzellenhalters (bereits am Teensy angelötet) führst du jetzt in Richtung der USB-Buchse über den Teensy hinweg. Das schwarze Kabel der Akkupackbuchse (<strong>ohne Akku</strong>) führst du dann mit durch den Schrumpfschlauch. </li>
+ <ul><li>Das Kabel des Knopfzellenhalters (bereits am Teensy angelötet) führst du jetzt in Richtung der USB-Buchse über den Teensy hinweg. Beide Kabel der Akkupackbuchse aus dem vorherigen Schritt führst du dann (von der Knopfzelle aus kommend) mit durch den Schrumpfschlauch. </li>
  <li>Das <span style="background-color:black; color:white">schwarze</span> Kabel lötest du am umgebogenen <span style="background-color:black; color:white">GND-Pin</span> und das <span style="background-color:red; color:white">rote</span> Kabel am ebenfalls umgebogenen <span style="background-color:red; color:white">5V Pin</span> an.</li>
- <li>Als letztes schiebst du die Kabel des Knopfzellenhalters soweit in Richtung Lötstellen, dass keine Spannung auf dem Kabel ist und erwärmst vorsichtig den Schrumpfschlauch. So entsteht eine Zugentlastung. </li>
+ <li>Um die Lötstellen für die Kabel des Knopfzellenhalters zu entlasten, werden alle Kabel jetzt durch den Schrumpfschlauch verbunden. Schiebe dazu die Kabel des Knopfzellenhalters etwas in Richtung ihrer Lötstellen zurück, so dass keine Spannung mehr auf diesen Kabeln entsteht, und erwärme vorsichtig den Schrumpfschlauch. So entsteht eine Zugentlastung. </li>
  </ul>
     </div>
 </div>
