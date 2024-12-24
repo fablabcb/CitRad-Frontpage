@@ -49,9 +49,10 @@ weight: 3
 
 ### Steckerverbindung vorbereiten (Teil 1: Header 6-Pin)
 <div class="col-md-6">
+
 <div class="row">
        {{< imgproc 6-pin-rem-pin Fit "300x180 webp" >}} Pin 1 herausgezogen {{< /imgproc >}}
-       {{< imgproc 6-pin_bend1 Fit "300x180 webp" >}} Pin 5 und 6: Erste Biegung um 90° nach rechts {{< /imgproc >}}
+       {{< imgproc 6-pin_bend1 Fit "300x180 webp" >}} Pin 5 und 6: Erste Biegung um 90° nach hinten {{< /imgproc >}}
    </div> 
    <div class="row">
        {{< imgproc 6-pin_bend2 Fit "300x180 webp" >}} Zweite Biegung nach unten {{< /imgproc >}}
@@ -61,7 +62,7 @@ weight: 3
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 - Pin 1 (ganz links) aus dem Stecker ziehen. Er wird nicht mehr benötigt.
-- Pin 5 und 6 (ganz rechts) zuerst um 90° nach rechts biegen. Dann mit etwa 4mm Abstand um ca. 75 grad nach unten biegen. Beide Pins müssen an die Line-In Kontakte des Audioshields heranreichen und dort festgelötet werden. 
+- Pin 5 und 6 (ganz rechts) zuerst um 90° nach hinten biegen. Dann mit etwa 4mm Abstand um ca. 75 grad nach unten biegen. Beide Pins müssen an die Line-In Kontakte des Audioshields heranreichen und dort festgelötet werden. 
 
 </div>
 </div>
@@ -71,14 +72,15 @@ weight: 3
 </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
-{{% alert color="primary" %}}
-Aufpassen dass keine Querverbindung besteht. Eventuell die Drähte etwas auseinander biegen.
-{{% /alert %}}
+
 <ul>
+<li>Der Header 6-Pin muss am Ende auf das Radarmodul passen. Es kann helfen, wenn du das Radarmodul zum Zurechtbiegen der Pins schonmal am Audioshield befestigst. Die nötigen Schritte werden <a href="/docs/bauanleitung/zusammenbau/#radarmodul-in-rahmen-stecken">ab hier</a> im Kapitel "Zusammenbau" erklärt.
 <li style="border: 2px solid #7adef1ff"> Enable (Pin 2) zu Pin 17 des Teensy biegen und zusammenlöten (passt gerade so).</li>
 <li style="border: 2px solid #a6113aff"> Gnd (Pin 4) und Vcc (Pin 3) schräg mit dem Output des Spannungswandlers verbinden (siehe Foto). Hier muss man eventuell mit Lötzinn oder einem kurzen Draht überbrücken. Das Foto am Ende der Seite zeigt nochmal eine Draufsicht, die hilfreich sein kann.</li>
 </ul>
-
+{{% alert color="primary" %}}
+Aufpassen dass keine Querverbindung besteht. Eventuell die Drähte etwas auseinander biegen.
+{{% /alert %}}
 
 </div>
 </div>
@@ -109,7 +111,6 @@ Aufpassen dass keine Querverbindung besteht. Eventuell die Drähte etwas auseina
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 - Das andere Ende des Kabels lötest du vom Header 4-Pin kommend an GND (linein oder mic) des Audioshields .
-- Der Stecker muss am Ende so am Radarmodul eingesteckt werden, dass er auf GND (Pin 9) des Radarmoduls zeigt. Das wird beim Zusammenbau nochmal erklärt.
 - Am Ende sollte alles wie auf dem Foto aussehen. 
 
     </div>
