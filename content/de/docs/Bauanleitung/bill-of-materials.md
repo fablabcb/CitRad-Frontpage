@@ -40,7 +40,7 @@ weight: 2
 - Gehäuse
   - [TRU COMPONENTS F3 TC-6649456 Universal-Gehäuse](https://www.conrad.de/de/p/tru-components-f3-tc-6649456-universal-gehaeuse-115-x-90-x-55-abs-hellgrau-1-st-1662364.html)
   - [3D-Druck Halterung](https://community.fablab-cottbus.de/uploads/short-url/1HOEbMkdQxn1l1QFID4sH8OvwRe.stl)
-  - [Lasercut Teile](https://community.fablab-cottbus.de/uploads/default/original/2X/0/07901a34dd58c6f2333bfa3191eb76f0abf1efdd.svg) zur Befestigung.
+  - [Lasercut Teile](https://community.fablab-cottbus.de/uploads/default/original/2X/5/5f1b514fec6fc872ee79204f1ad61963588dafd5.svg) zur Befestigung.
   - Velcro zur Befestigung des Akkus [180cm](https://www.amazon.de/Klettband-Kabelbinder-Schwarz-Wiederverschlie%C3%9Fbar-Klettverschluss/dp/B0CPLTQWXX/ref=sr_1_39?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=19HZ36R8YGTWB&dib=eyJ2IjoiMSJ9.zfnxfXdxMqAt2BMKak15S3NP-2l6pp5Sw3M6amSeiU5nDnL2BI35ZJ_NRRR-T-y5v3jvoxZzzMvHrxBKWsd-BtsIU_T9unN--GaLoaIFjGVfFsbQnpeqrk4G16SNwbu2i7AAglZ7Z3sk_qxoXZpuIkTi136Rgb6gX-rCMjYR7l0zduayOTpAPWax-oeJLolsrt0oHf6lkCGDt3aH-9L8Ey9O6xGARKGpJkYVm0Zu4ChZuL_3J4Bi_28o3gegeGfW5ZCf9J40mVDYhv066mQsyP552pRPyHMKAe9sjoE3Rag.8v6mmKF8fdiOWVwuZwriRJ59G0zS5hETb26buriVtio&dib_tag=se&keywords=velcro&qid=1730013941&sprefix=velcro%2Caps%2C169&sr=8-39)
   - Befestigungsschrauben
     - 4x M4 5-8mm für Einlegeplatte 

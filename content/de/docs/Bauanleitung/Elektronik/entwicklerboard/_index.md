@@ -21,50 +21,52 @@ weight: 1
 <ul>
        <li>Teensy Entwicklerboard</li>
         <li>Knopfzellenhalter</li>
-        <li>Schrumpfschlauch</li>
+        <li>Schrumpfschlauch (1cm)</li>
        </ul> 
        </div>
 </div>
 
 ## So funktioniert es 
+
+
+
 <div class="row">
+
+<div class="row">
+
+### Funktionsprüfung
+<div class="col-md-6">
+      {{< imgproc control Fit "600x400 webp" >}} Die Rote LED sollte bei Stromversorgung per USB leuchten.
+{{< /imgproc >}} 
+
+</div>
+    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
+
+Der Teensy sollte grundsätzlich funktionieren, bevor du mit den Anpassungen beginnst. Schließe das Teensy Entwicklerboard per USB an eine Stromquelle an. Die rote Kontrollleuchte sollte durchgehend leuchten. Ziehe das USB-Kabel jetzt wieder ab.<br>
+    </div>
+</div>
+<hr class="my-4"> <!-- Trennlinie -->
 
 ### Kontakt für USB-Stromversorgung unterbrechen
 <div class="col-md-6">
        
 {{< imgproc cut_contact_done Fit "600x400 webp" >}}Foto 1: Die Verbindung zwischen den beiden rechteckigen Kontakten (rot eingekreist) muss entfernt werden.
 {{< /imgproc >}}
-{{< imgproc cut_contact Fit "600x400 webp" >}}Foto 2: Wegkratzen der Verbindung zwischen den beiden Kontakten
-{{< /imgproc >}}
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 <p>Der Teensy Entwicklerboard soll für dieses Projekt per Akkupack mit Strom versorgt werden. Damit er nicht versehentlich per Akkupack und USB mit Strom versorgt wird, müssen wir zuerst die Stromversorgung per USB deaktivieren. </p>
 
-<p>Zunächst schließt du den Teensy Entwicklerboard per USB an eine Stromquelle an, um zu überprüfen, ob er ordnungsgemäß funktioniert. Die rote Kontrollleuchte sollte durchgehen an sein. Ziehe das USB-Kabel jetzt wieder ab. </p>
-
-<p>In Foto zwei sind zwei eckige Kontakte rot eingekreist. Die beiden Leiterbahnen werden durch eine kleine Leiterbahn verbunden. Diese musst du mit dem Cuttermesser wegkratzen. </p>
-    </div>
-</div>
-<hr class="my-4"> <!-- Trennlinie -->
-
-<div class="row">
-
-### Prüfen, ob Kontakt unterbrochen ist
-<div class="col-md-6">
-      {{< imgproc control Fit "600x400 webp" >}} Das rote Licht darf <strong>NICHT</strong> mehr leuchten.
-{{< /imgproc >}} 
-
-</div>
-    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-
-Um zu überprüfen, ob der Kontakt vollständig unterbrochen wurde, schließt du den Teensy per USB-Kabel an eine 5V Spannungsquelle (USB-Netzteil oder Laptop) an.<br>
- {{% alert color="primary" %}}
+<p>In Foto zwei sind zwei eckige Kontakte <span style="border: 2px solid #a6113a">rot eingekreist</span>. Die beiden Leiterbahnen werden durch eine kleine Leiterbahn verbunden (<span style="border: 2px solid #00ffffff"> siehe Pfeil in Kreis 1</span>). Diese musst du mit dem Cuttermesser wegkratzen bis es in etwa so aussieht wie <span style="border: 2px solid #00ffffff">in Kreis 2.</span> </p>
+<p>Zur Kontrolle schließt du den Teensy jetzt wieder per USB an eine Stromquelle an.
+{{% alert color="primary" %}}
 Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** leuchtet, kannst du fortfahren. Andernfalls musst du nochmal nacharbeiten.
-{{% /alert %}}
+{{% /alert %}}</p>
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
+
+
 
 <div class="row">
 
@@ -96,7 +98,7 @@ Die Knopfzelle bitte erst einlegen, wenn du in der Anleitung dazu aufgefordert w
 Das rote Kabel muss an Pin 32, das schwarze an Pin 28 gelötet werden.<br>
 
 {{% alert color="primary" %}}
-Wichtig ist dass die Kabel auf der Platinenunterseite nicht überstehen dürfen. Später wird hier der SD-Karten-Slot vom Audio-Board liegen. Dieser darf keinen Kontakt zu den Lötstellen bekommen.   
+Wichtig ist, dass die Kabel auf der Platinenunterseite nicht überstehen dürfen. Später wird hier der SD-Karten-Slot vom Audio-Board liegen. Dieser darf keinen Kontakt zu den Lötstellen bekommen.   
 {{% /alert %}}
 </div>
 </div>
