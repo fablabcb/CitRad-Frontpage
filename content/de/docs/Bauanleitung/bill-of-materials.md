@@ -107,27 +107,27 @@ Damit ihr nicht bei 4x Versandkosten zahlen müsst können wir euch noch das Rad
 - 1x innosent IPS-354 24GHZ RADAR MODULE
 
 <figure class="figure">
-          <img src="/parts/gehause_ges.png" alt="Gehäuse gesamt" width="150" class="img-fluid figure-img">
+          <img src="/parts/gehause_ges.jpg" alt="Gehäuse gesamt" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Gehäuse</figcaption>
         </figure>
         <figure class="figure">
-          <img src="/parts/akku.png" alt="Akku-Pack" width="150" class="img-fluid figure-img">
+          <img src="/parts/akku.jpg" alt="Akku-Pack" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Akku-Pack</figcaption>
         </figure>
         <figure class="figure">
-          <img src="/parts/lasercut_fuesse.png" alt="Lasercut-Füße" width="150" class="img-fluid figure-img">
+          <img src="/parts/lasercut_fuesse.jpg" alt="Lasercut-Füße" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Lasercut-Füße</figcaption>
         </figure>
         <figure class="figure">
-          <img src="/parts/3d_radarhalter.png" alt="3D-Druck-Halterung für Radarmodul" width="150" class="img-fluid figure-img">
+          <img src="/parts/3d_radarhalter.jpg" alt="3D-Druck-Halterung für Radarmodul" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Radarhalterung</figcaption>
         </figure>
         <figure class="figure">
-          <img src="/parts/radarmodul.jpeg" alt="Radarmodul" width="150" class="img-fluid figure-img">
+          <img src="/parts/radarmodul.jpg" alt="Radarmodul" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Radarmodul</figcaption>
         </figure>
         <figure class="figure">
-          <img src="/parts/microsd.png" alt="MicroSD-Karte" width="150" class="img-fluid figure-img">
+          <img src="/parts/microsd.jpg" alt="MicroSD-Karte" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">MicroSD-Karte</figcaption>
         </figure>
         
