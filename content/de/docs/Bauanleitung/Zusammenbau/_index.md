@@ -19,32 +19,20 @@ weight: 6
     </div>
     <div class="col-md-6 col-sm-6 col-xs-12">
     <h3>Teile</h3>
-        <figure class="figure">
-          <img src="/parts/gehause_ges.png" alt="Gehäuse gesamt" width="150" class="img-fluid figure-img">
-          <figcaption class="figure-caption">Gehäuse</figcaption>
-        </figure>
-        <figure class="figure">
-          <img src="/parts/akku.png" alt="Akku-Pack" width="150" class="img-fluid figure-img">
-          <figcaption class="figure-caption">Akku-Pack</figcaption>
-        </figure>
-        <figure class="figure">
-          <img src="/parts/lasercut_fuesse.png" alt="Lasercut-Füße" width="150" class="img-fluid figure-img">
-          <figcaption class="figure-caption">Lasercut-Füße</figcaption>
-        </figure>
-        <figure class="figure">
-          <img src="/parts/3d_radarhalter.png" alt="3D-Druck-Halterung für Radarmodul" width="150" class="img-fluid figure-img">
-          <figcaption class="figure-caption">Radarhalterung</figcaption>
-        </figure>
-        <figure class="figure">
-          <img src="/parts/radarmodul.jpeg" alt="Radarmodul" width="150" class="img-fluid figure-img">
-          <figcaption class="figure-caption">Radarmodul</figcaption>
-        </figure>
-        <figure class="figure">
-          <img src="/parts/microsd.png" alt="MicroSD-Karte" width="150" class="img-fluid figure-img">
-          <figcaption class="figure-caption">MicroSD-Karte</figcaption>
-        </figure>
-        <ul><li>Alles bisher Zusammengebaute</li>
-        <li>5x M3x5mm Schrauben</li></ul>
+
+    
+  - Gehäuse
+  - Akku-Pack
+  - Lasercut-Füße
+  - Radarhalterung
+  - Radarmodul
+  - MicroSD-Karte
+  - Alles bisher Zusammengebaute
+  - 5x M3x5mm Schrauben
+
+
+
+        
       </div>
 </div>
 
