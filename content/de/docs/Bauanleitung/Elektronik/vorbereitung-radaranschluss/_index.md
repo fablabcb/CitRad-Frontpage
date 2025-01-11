@@ -45,19 +45,39 @@ weight: 3
 <hr class="my-4"> <!-- Trennlinie -->
 
 
+
+
 <div class="row">
 
 ### Steckerverbindung vorbereiten (Teil 1: Header 6-Pin)
 <div class="col-md-6">
 
-<div class="row">
-       {{< imgproc 6-pin-rem-pin Fit "300x180 webp" >}} Pin 1 herausgezogen {{< /imgproc >}}
-       {{< imgproc 6-pin_bend1 Fit "300x180 webp" >}} Pin 5 und 6: Erste Biegung um 90° nach hinten {{< /imgproc >}}
-   </div> 
-   <div class="row">
-       {{< imgproc 6-pin_bend2 Fit "300x180 webp" >}} Zweite Biegung nach unten {{< /imgproc >}}
-       {{< imgproc shield_line_in Fit "300x180 webp" >}} Beide Pins angelötet am Line-In des Audioshields {{< /imgproc >}}
-</div>   
+
+{{< tabpane text=true right=true >}}
+  {{% tab header="**Biegeschritte**:" disabled=true /%}}
+  {{% tab header="1." %}}
+  
+{{< imgproc 6-pin-rem-pin Fit "600x400 webp" >}} Pin 1 herausgezogen {{< /imgproc >}}
+
+  {{% /tab %}}
+  {{< tab header="2.">}}
+    
+{{< imgproc 6-pin_bend1 Fit "600x400 webp" >}} Pin 5 und 6: Erste Biegung um 90° nach hinten {{< /imgproc >}}
+
+  {{< /tab >}}
+
+  {{% tab header="3." %}}
+
+{{< imgproc 6-pin_bend2 Fit "600x400 webp" >}} Zweite Biegung nach unten {{< /imgproc >}}
+  {{% /tab %}}
+
+  {{< tab header="4.">}}
+    
+{{< imgproc shield_line_in Fit "600x400 webp" >}} Beide Pins angelötet am Line-In des Audioshields {{< /imgproc >}}
+
+  {{< /tab >}}
+{{< /tabpane >}}
+
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
@@ -71,7 +91,6 @@ weight: 3
        {{< imgproc prep_spannung Fit "600x400 webp" >}} Angelöteter Header 6-Pin {{< /imgproc >}}
 </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-
 
 <ul>
 <li>Der Header 6-Pin muss am Ende auf das Radarmodul passen. Es kann helfen, wenn du das Radarmodul zum Zurechtbiegen der Pins schonmal am Audioshield befestigst. Die nötigen Schritte werden <a href="/docs/bauanleitung/zusammenbau/#radarmodul-in-rahmen-stecken">ab hier</a> im Kapitel "Zusammenbau" erklärt.
