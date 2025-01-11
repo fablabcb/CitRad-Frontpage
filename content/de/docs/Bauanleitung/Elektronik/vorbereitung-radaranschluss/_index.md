@@ -37,8 +37,8 @@ weight: 3
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
-<p>Lege den Spannungswandler mit der Beschriftung nach oben und den Füßchen zu dir zeigend vor dich hin. Die beiden linken Füßchen biegst du jetzt so nah wie möglich am Spannungwandler um 90° nach oben.</p>
-<p>Nun legst legst du den Spannungswandler mit den der Beschriftung nach unten auf den Teensy. Dabei darauf achten, dass die umgebogenen Füßchen jeweils links an den zwei alleinstehenden Pins, die aus 3.3V-Kontakt und GND-Kontakt (rechts daneben) herausragen, anliegen.</p>
+<p>Nicht im Foto: Lege den Spannungswandler mit der Beschriftung nach oben und den Füßchen zu dir zeigend vor dich hin. Die beiden linken Füßchen biegst du jetzt so nah wie möglich am Spannungwandler um 90° nach oben.</p>
+<p>Siehe Foto: Nun legst legst du den Spannungswandler mit den der Beschriftung nach unten auf den Teensy. Dabei darauf achten, dass die umgebogenen Füßchen jeweils links an den zwei alleinstehenden Pins, die aus 3.3V-Kontakt und GND-Kontakt (rechts daneben) herausragen, anliegen.</p>
 <p>Jetzt kannst du beide Kontaktstellen verlöten.</p>  
     </div>
 </div>
