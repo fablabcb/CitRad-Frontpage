@@ -138,7 +138,7 @@ Es existieren zwei Versionen der Füße mit unterschiedlichen Abschlüssen der o
 
 ### Micro-SD-Karte einsetzen
 <div class="col-md-6">
-       {{< imgproc microsd Fit "600x400 webp" >}} Platzhalter Micro SD {{< /imgproc >}} </div>
+       {{< imgproc microsd Fit "600x400 webp" >}} MicroSD-Karte im Slot des Audioshields {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Der Slot für die Micro-SD-Karte befindet sich jetzt zwischen Teensy und Audioshield. Die Micro-SD-Karte muss mit den Kontakten nach unten vorsichtig bis zum Anschlag in den Slot des Audioshield geschoben werden.
     </div>
