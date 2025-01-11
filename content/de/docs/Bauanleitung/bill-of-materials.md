@@ -37,8 +37,10 @@ weight: 2
           <img src="/icons/spitzzange.webp" alt="Spitzzange" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Spitzzange</figcaption>
         </figure>
-
-- Heißluftpistole/Feuerzeug
+        <figure class="figure">
+          <img src="/icons/heiss.webp" alt="Heissluftpistole oder Feuerzeug" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Heißluftpistole oder Feuerzeug</figcaption>
+        </figure>
 
 
 ## Bauteile
