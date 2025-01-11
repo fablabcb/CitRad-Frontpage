@@ -9,13 +9,35 @@ weight: 2
 
 
 ## nötiges Werkzeug
+<figure class="figure">
+          <img src="/icons/abiso.webp" alt="Abisolierzange" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Abisolierzange</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/icons/cutter.webp" alt="Cuttermesser" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Cuttermesser</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/icons/gewinde.webp" alt="Gewindeschneider" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Gewindeschneider</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/icons/lötkolben.webp" alt="Lötkolben" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Lötkolben</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/icons/screwdriver.webp" alt="Schraubenzieher" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Schraubenzieher Kreuz</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/icons/seitenschneider.webp" alt="Seitenschneider" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Seitenschneider</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/icons/spitzzange.webp" alt="Spitzzange" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Spitzzange</figcaption>
+        </figure>
 
-- Lötkolben + Lötzinn
-- Schraubenzieher
-- Seitenschneider
-- Abisolierzange
-- Messer
-- Spitzzange
 - Heißluftpistole/Feuerzeug
 
 
