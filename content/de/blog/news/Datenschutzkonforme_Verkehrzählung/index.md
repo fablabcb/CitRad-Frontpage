@@ -5,7 +5,7 @@ description: >
   Kameragestützte Projekte zur Auswertung von Verkehrsdaten existieren als kommerzielle und Open Source Projekte. Wir haben uns bewusst dagegen entschieden, auf diesen Projekte aufzubauen, da sie diverse Probleme mit dem Datenschutz mit sich bringen. Wir haben uns bewusst dafür entschieden, Radar als Grundtechnologie zu verwenden. Den Radar erlaubt uns, Verkehrsdaten zu sammeln, ohne dabei Persönlichkeitsrechte zu verletzen. 
 author: Bene
 resources:
-  - src: "anoncars.jpg"
+  - src: "featured-anoncars.jpg"
     title: "Geblurte Autos auf Kreuzung"
     params:
       byline: "Foto: Benedikt Stahl / CC-BY-CA"
