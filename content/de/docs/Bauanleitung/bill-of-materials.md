@@ -154,4 +154,48 @@ Damit ihr nicht bei 4x Versandkosten zahlen müsst können wir euch noch das Rad
           <img src="/parts/microsd.jpg" alt="MicroSD-Karte" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">MicroSD-Karte</figcaption>
         </figure>
+        <figure class="figure">
+    <img src="/parts/cable1.jpg" alt="Cable 1" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Cable 1</figcaption>
+</figure>
+
+<figure class="figure">
+    <img src="/parts/cable2.jpg" alt="Cable 2" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Cable 2</figcaption>
+</figure>
+
+<figure class="figure">
+    <img src="/parts/header4.jpg" alt="Header 4" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Header 4</figcaption>
+</figure>
+
+<figure class="figure">
+    <img src="/parts/header6.jpg" alt="Header 6" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Header 6</figcaption>
+</figure>
+
+<figure class="figure">
+    <img src="/parts/knopf.jpg" alt="Knopf" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Knopf</figcaption>
+</figure>
+
+<figure class="figure">
+    <img src="/parts/laderegler.jpg" alt="Laderegler" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Laderegler</figcaption>
+</figure>
+
+<figure class="figure">
+    <img src="/parts/pinleiste.jpg" alt="Pinleiste" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Pinleiste</figcaption>
+</figure>
+
+<figure class="figure">
+    <img src="/parts/schrumpf.jpg" alt="Schrumpf" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Schrumpf</figcaption>
+</figure>
+
+<figure class="figure">
+    <img src="/parts/teensy.jpg" alt="Teensy" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Teensy</figcaption>
+</figure>
         
