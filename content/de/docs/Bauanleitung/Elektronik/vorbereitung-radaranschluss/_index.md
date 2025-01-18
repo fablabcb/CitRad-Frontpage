@@ -22,7 +22,7 @@ weight: 3
         <li>Spannungswandler</li>
         <li>Header 6-Pin</li>
         <li>Header 4-Pin</li>
-        <li>Kabel (ca. 5 cm)</li>
+        <li>Kabel (ca. 4 cm)</li>
        </ul> 
        </div>
 </div>

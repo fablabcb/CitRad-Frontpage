@@ -9,6 +9,7 @@ weight: 2
 
 
 ## Nötiges Werkzeug
+<div class="gallery">
 <figure class="figure">
           <img src="/icons/abiso.webp" alt="Abisolierzange" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Abisolierzange</figcaption>
@@ -41,13 +42,14 @@ weight: 2
           <img src="/icons/heiss.webp" alt="Heissluftpistole oder Feuerzeug" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Heißluftpistole oder Feuerzeug</figcaption>
         </figure>
+    </div>
 
 
 ## Nötige Bauteile
-
+<div class="gallery">
 <figure class="figure">
           <img src="/parts/gehause_ges.jpg" alt="Gehäuse gesamt" width="150" class="img-fluid figure-img">
-          <figcaption class="figure-caption">Gehäuse 115 x 90 x 55 mm</figcaption>
+          <figcaption class="figure-caption">Gehäuse (115 x 90 x 55 mm)</figcaption>
         </figure>
         <figure class="figure">
           <img src="/parts/akku.jpg" alt="Akku-Pack" width="150" class="img-fluid figure-img">
@@ -123,10 +125,11 @@ weight: 2
 </figure>
 <figure class="figure">
     <img src="/parts/klett_lang.jpg" alt="2x Velcro Gurt 2cm x 30cm" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">2x Velcro Gurt 2cm x 30cm</figcaption>
+    <figcaption class="figure-caption">2x Velcro Gurt (2 x 30 cm)</figcaption>
 </figure>
 
 <figure class="figure">
     <img src="/parts/knopfzellenhalter.jpg" alt="Knopfzellenhalter" width="150" class="img-fluid figure-img">
     <figcaption class="figure-caption">Knopfzellenhalter</figcaption>
 </figure>
+</div>

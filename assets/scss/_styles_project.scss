@@ -70,3 +70,21 @@ Add styles or override variables from the theme here.
 .navbar-bg-onscroll svg .logo_text{
     fill: #fff;
 }
+
+.gallery {
+    display: flex; /* Flexbox aktivieren */
+    flex-wrap: wrap; /* Zeilenumbruch bei Bedarf */
+}
+
+.figure {
+    display: flex;
+    flex-direction: column; /* Beibehaltung der vertikalen Anordnung für Bild und Caption */
+    align-items: center; /* Zentriert die Caption unter dem Bild */
+    margin: 10px; /* Abstand zwischen den Figuren */
+}
+
+.figure-caption{
+    display: table-caption;
+    caption-side: bottom;
+    max-width: 150px;
+}
