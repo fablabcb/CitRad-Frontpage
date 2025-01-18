@@ -110,7 +110,7 @@ Achtung: Manche Buchsen/Stecker-Sets sind genau umgekehrt gepolt. Vergleiche imm
 
  <ul><li>Das Kabel des Knopfzellenhalters (bereits am Teensy angelötet) führst du jetzt in Richtung der USB-Buchse über den Teensy hinweg. Das schwarze Kabel der Akkupackbuchse aus dem vorherigen Schritt führst du dann (von der Knopfzelle aus kommend) mit durch den Schrumpfschlauch. </li>
  <li>Das <span style="background-color:black; color:white">schwarze</span> Kabel lötest du am umgebogenen <span style="background-color:black; color:white">GND-Pin</span> und das <span style="background-color:red; color:white">rote</span> Kabel am ebenfalls umgebogenen <span style="background-color:red; color:white">5V Pin</span> an.</li>
- <li>Um die Lötstellen für die Kabel des Knopfzellenhalters zu entlasten, werden alle Kabel im Schrumpfschlauch durch Erwärmen "fixiert" verbunden. Schiebe dazu die Kabel des Knopfzellenhalters etwas in Richtung ihrer Lötstellen zurück, so dass keine Spannung mehr auf diesen Kabeln entsteht, und erwärme vorsichtig den Schrumpfschlauch. So entsteht eine Zugentlastung. </li>
+ <li>Um die Lötstellen für die Kabel des Knopfzellenhalters zu entlasten, werden alle Kabel im Schrumpfschlauch durch Erwärmen "fixiert" verbunden. Schiebe dazu die Kabel des Knopfzellenhalters etwas in Richtung ihrer Lötstellen zurück, so dass keine Spannung mehr auf diesen Kabeln entsteht, und erwärme vorsichtig den Schrumpfschlauch mit einer Heißluftpistole oder einem Feuerzeug. So entsteht eine Zugentlastung. </li>
  </ul>
     </div>
 </div>
