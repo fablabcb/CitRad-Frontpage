@@ -42,6 +42,7 @@ weight: 2
           <img src="/icons/heiss.webp" alt="Heissluftpistole oder Feuerzeug" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Heißluftpistole oder Feuerzeug</figcaption>
         </figure>
+
     </div>
 
 
@@ -123,5 +124,9 @@ weight: 2
 <figure class="figure">
     <img src="/parts/schrumpf.jpg" alt="Schrumpfschlauch" width="150" class="img-fluid figure-img">
     <figcaption class="figure-caption">Schrumpfschlauch (1 cm)</figcaption>
+</figure>
+<figure class="figure">
+    <img src="/parts/spannungswandler.jpg" alt="Spannungswandler" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Spannungwandler</figcaption>
 </figure>
 </div>
