@@ -47,7 +47,7 @@ weight: 2
 
 <figure class="figure">
           <img src="/parts/gehause_ges.jpg" alt="Gehäuse gesamt" width="150" class="img-fluid figure-img">
-          <figcaption class="figure-caption">Gehäuse</figcaption>
+          <figcaption class="figure-caption">Gehäuse 115 x 90 x 55 mm</figcaption>
         </figure>
         <figure class="figure">
           <img src="/parts/akku.jpg" alt="Akku-Pack" width="150" class="img-fluid figure-img">
@@ -70,28 +70,28 @@ weight: 2
           <figcaption class="figure-caption">MicroSD-Karte</figcaption>
         </figure>
         <figure class="figure">
-    <img src="/parts/cable1.jpg" alt="Cable 1" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Cable 1</figcaption>
+    <img src="/parts/cable1.jpg" alt="Kabel (4cm)" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Kabel (4cm)</figcaption>
 </figure>
 
 <figure class="figure">
-    <img src="/parts/cable2.jpg" alt="Cable 2" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Cable 2</figcaption>
+    <img src="/parts/cable2.jpg" alt="2-adriges Kabel" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">2-adriges Kabel (4cm)</figcaption>
 </figure>
 
 <figure class="figure">
-    <img src="/parts/header4.jpg" alt="Header 4" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Header 4</figcaption>
+    <img src="/parts/header4.jpg" alt="Header 4-Pin" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Header 4-Pin</figcaption>
 </figure>
 
 <figure class="figure">
-    <img src="/parts/header6.jpg" alt="Header 6" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Header 6</figcaption>
+    <img src="/parts/header6.jpg" alt="Header 6-Pin" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Header 6-Pin</figcaption>
 </figure>
 
 <figure class="figure">
-    <img src="/parts/knopf.jpg" alt="Knopf" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Knopf</figcaption>
+    <img src="/parts/knopf.jpg" alt="Knopfzelle CR2032" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Knopfzelle CR2032</figcaption>
 </figure>
 
 <figure class="figure">
@@ -100,18 +100,18 @@ weight: 2
 </figure>
 
 <figure class="figure">
-    <img src="/parts/pinleiste.jpg" alt="Pinleiste" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Pinleiste</figcaption>
+    <img src="/parts/pinleiste.jpg" alt="40-Pin-Leiste" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">40-Pin-Leiste (hier schon gekürzt)</figcaption>
 </figure>
 
 <figure class="figure">
-    <img src="/parts/schrumpf.jpg" alt="Schrumpf" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Schrumpf</figcaption>
+    <img src="/parts/schrumpf.jpg" alt="Schrumpfschlauch" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Schrumpfschlauch (1 cm)</figcaption>
 </figure>
 
 <figure class="figure">
-    <img src="/parts/teensy.jpg" alt="Teensy" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Teensy</figcaption>
+    <img src="/parts/teensy.jpg" alt="Teensy 4.0 Entwicklerbooard" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Teensy 4.0 Entwicklerbooard</figcaption>
 </figure>
 <figure class="figure">
     <img src="/parts/grundplatte.jpg" alt="Lasercut-Grundplatte" width="150" class="img-fluid figure-img">
@@ -122,8 +122,8 @@ weight: 2
     <figcaption class="figure-caption">Audioshield</figcaption>
 </figure>
 <figure class="figure">
-    <img src="/parts/klett_lang.jpg" alt="Klett Lang" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Klett Lang</figcaption>
+    <img src="/parts/klett_lang.jpg" alt="2x Velcro Gurt 2cm x 30cm" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">2x Velcro Gurt 2cm x 30cm</figcaption>
 </figure>
 
 <figure class="figure">
