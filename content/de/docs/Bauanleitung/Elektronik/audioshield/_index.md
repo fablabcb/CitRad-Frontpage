@@ -23,7 +23,7 @@ weight: 2
        <li>Teensy Entwicklerboard</li>
         <li>2-adriges Kabel (4cm)</li>
         <li>40-Pin-Leiste</li>
-        <li>Batteriestecker</li>
+        <li>Batteriebuchse</li>
         <li>Akku-Pack (nur zur Kontrolle der korrekten Polung beim Löten)</li>
        </ul> 
        </div>
