@@ -129,7 +129,7 @@ Aufpassen dass keine Querverbindung besteht. Eventuell die Drähte etwas auseina
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
-- Das andere Ende des Kabels lötest du vom Header 4-Pin kommend an GND (linein oder mic) des Audioshields .
+- Das andere Ende des Kabels lötest du vom Header 4-Pin kommend an GND (lineout oder mic) des Audioshields .
 - Am Ende sollte alles wie auf dem Foto aussehen. 
 
     </div>
