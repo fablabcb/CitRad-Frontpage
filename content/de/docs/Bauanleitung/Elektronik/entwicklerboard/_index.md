@@ -79,7 +79,7 @@ Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** blinkt/leuchtet, kann
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 - Durch eine Knopfzelle versorgst du den Teensy auch dann mit Strom wenn er gerade nicht am Akku hängt. So verliert er seine Uhrzeit- und Datumseinstellungen nicht, während du den Akku lädst. 
-- Bevor du den Knopfzellenhalter an den Teensy löten kannst, muss über beide Kabel ein kleines Stück Schrumpfschlauch gezogen (aber noch nicht erwärmt) werden. Das dient später der Zugentlastung.<br>
+- Bevor du den Knopfzellenhalter an den Teensy löten kannst, muss über beide Kabel ein kleines Stück Schrumpfschlauch (1 cm) gezogen (aber noch nicht erwärmt) werden. Das dient später der Zugentlastung.<br>
 {{% alert color="primary" %}}
 Die Knopfzelle bitte erst einlegen, wenn du in der Anleitung dazu aufgefordert wirst. Andernfalls drohen Kurzschlüsse während des Lötens. 
 {{% /alert %}}
