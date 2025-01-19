@@ -36,13 +36,13 @@ weight: 1
 
 ### Funktionsprüfung
 <div class="col-md-6">
-      {{< imgproc control Fit "600x400 webp" >}} Die Rote LED sollte bei Stromversorgung per USB leuchten.
+      {{< imgproc control Fit "600x400 webp" >}} Die Rote LED sollte bei Stromversorgung per USB blinken.
 {{< /imgproc >}} 
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
-Der Teensy sollte grundsätzlich funktionieren, bevor du mit den Anpassungen beginnst. Schließe das Teensy Entwicklerboard per USB an eine Stromquelle an. Die rote Kontrollleuchte sollte durchgehend leuchten. Ziehe das USB-Kabel jetzt wieder ab.<br>
+Der Teensy sollte grundsätzlich funktionieren, bevor du mit den Anpassungen beginnst. Schließe das Teensy Entwicklerboard per USB an eine Stromquelle an. Die rote Kontrollleuchte sollte blinken. Ziehe das USB-Kabel jetzt wieder ab.<br>
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -58,9 +58,9 @@ Der Teensy sollte grundsätzlich funktionieren, bevor du mit den Anpassungen beg
 <p>Der Teensy Entwicklerboard soll für dieses Projekt per Akkupack mit Strom versorgt werden. Damit er nicht versehentlich per Akkupack und USB mit Strom versorgt wird, müssen wir zuerst die Stromversorgung per USB deaktivieren. </p>
 
 <p>Im Foto sind zwei eckige Kontakte <span style="border: 2px solid #a6113a">rot eingekreist</span>. Die beiden Leiterbahnen werden durch eine kleine Leiterbahn verbunden (<span style="border: 2px solid #00ffffff"> siehe Pfeil in Kreis 1</span>). Diese musst du mit dem Cuttermesser wegkratzen bis es in etwa so aussieht wie <span style="border: 2px solid #00ffffff">in Kreis 2.</span> </p>
-<p>Zur Kontrolle schließt du den Teensy jetzt wieder per USB an eine Stromquelle an.
+<p>Zur Kontrolle schließt du den Teensy jetzt wieder per USB an eine Stromquelle an. Die Rote LED aus dem ersten Schritt sollte nun nicht mehr blinken/leuchten.
 {{% alert color="primary" %}}
-Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** leuchtet, kannst du fortfahren. Andernfalls musst du nochmal nacharbeiten.
+Nur wenn die rote Kontrolleuchte des Teensy **nicht mehr** blinkt/leuchtet, kannst du fortfahren. Andernfalls musst du nochmal nacharbeiten.
 {{% /alert %}}</p>
     </div>
 </div>
@@ -95,7 +95,7 @@ Die Knopfzelle bitte erst einlegen, wenn du in der Anleitung dazu aufgefordert w
 
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Das rote Kabel muss an Pin 32, das schwarze an Pin 28 gelötet werden.<br>
+Das rote Kabel muss an Pin 32, das schwarze an Pin 28 gelötet werden. Die Pin-Bezeichnungen findest du auf der Rückseite des Teensy<br>
 
 {{% alert color="primary" %}}
 Wichtig ist, dass die Kabel auf der Platinenunterseite nicht überstehen dürfen. Später wird hier der SD-Karten-Slot vom Audio-Board liegen. Dieser darf keinen Kontakt zu den Lötstellen bekommen.   
