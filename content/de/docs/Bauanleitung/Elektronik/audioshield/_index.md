@@ -21,6 +21,7 @@ weight: 2
 <h3>Teile</h3>
 <ul>
        <li>Teensy Entwicklerboard</li>
+       <li>Audioshield</li>
         <li>2-adriges Kabel (4cm)</li>
         <li>40-Pin-Leiste</li>
         <li>Batteriebuchse</li>
@@ -40,7 +41,11 @@ weight: 2
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 
- Die 40-Pin-Leiste ist für das Audioshield zu lang. Steck sie einfach an einer Seite bündig ins Shield und trenne den Überstand mit dem Seitenschneider ab. Das gleiche machst du nochmal für die gegenüberliegende Seite. Was von der Pinleiste übrig bleibt, wird nicht mehr benötigt.
+ Die 40-Pin-Leiste ist für das Audioshield zu lang. Steck sie einfach an einer Seite bündig auf die Lochreihe des Audioshields auf und trenne den Überstand mit dem Seitenschneider ab. 
+
+ Das **Gleiche machst du nochmal** für die gegenüberliegende Seite. Du solltest jetzt zwei gleichlange Leisten (14 Pins) und ein kürzeres Reststück haben. 
+ 
+ Das Reststück wird nicht mehr benötigt. Leg es am besten beiseite, damit du es nicht versehentlich verwendest.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -54,7 +59,7 @@ weight: 2
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 
- Beide Pinleisten lötest du nun auf der Rückseite des Audioshields fest. 
+ Deine beiden gleichlangen Pinleisten steckst du jetzt mit der kurzen Seite von oben (Seite mit Klinkenanschluss und Micor-SD-Karten-Slot) in das Audioshield und lötest die Leisten auf der Rückseite des Audioshields Pin für Pin fest. 
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -71,8 +76,8 @@ weight: 2
  <ul><li>Nun setzt du den Teensy auf die langen Pins auf. Dabei zeigt die USB-Buchse nach oben und in die gleiche Richtung wie der Klinkenanschluss des Audioshields.</li> 
  <li style="border: 2px solid #a6113aff"> Die Pins an 5V und GND biegst du mit einer Spitzzange (<img src="/icons/spitzzange.webp" alt="Spitzzange" width="50"/>) wie im Foto schräg nach vorne.</li>
  <li style="border: 2px solid #7adef1ff">
-  Um später den Spannungswandler gut anlöten zu können, knipst du jetzt mit dem Seitenschneider (<img src="/icons/saitenschneider.webp" alt="Seitenschneider" width="50"/>) die Pins 21, 22, 23 ab (Ja, Pin 21 ist auf dem Foto noch nicht gekürzt).</li>
-  <li>Jetzt lötest du alle Pins fest, um die beiden Platinen zu verbinden. Löte auch die gekürzten Pins an.
+  Um später den Spannungswandler gut anlöten zu können, knipst du jetzt mit dem Seitenschneider (<img src="/icons/saitenschneider.webp" alt="Seitenschneider" width="50"/>) die Pins 21, 22, 23 ab.</li>
+  <li>Jetzt lötest du alle Pins fest, um die beiden Platinen zu verbinden.
  </ul>   
     </div>
 </div>
@@ -89,12 +94,14 @@ weight: 2
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
 
- <ul><li> Zuerst das zweiadrige Kabel an beiden Seiten ein Stück weit auftrennen und alle Enden abisolieren</li>
- <li>Buchse und Stecker (mit Kabel) kommen oft im Set. Stecker und Kabel brauchen wir nicht. Aber das Kabel lässt sich leichter an die Buchse löten, wenn der Stecker eingesteckt ist. Löte jetzt das Kabel so an die Buchse, das die Polung zum Stecker des Akkupacks passt.
+ <ul>
+ <li>Im Bild siehst du <span style="border: 2px solid #7adef1ff">Cyan eingerahmt das zweiadrige Kabel (4 cm) und die Anschlussbuchse.</span> In der Anschlussbuchse steckt noch ein Stecker (mit Kabel) der im Lieferumfang enthalten war. Das kann eine Hilfe beim Löten sein. Stecker und Kabel brauchst du allerdings in den folgenden Schritten nicht mehr.
+ <li> Trenne das zweiadrige Kabel (4 cm) an beiden Seiten ein Stück weit auf und isoliere alle Enden ab. (Im Foto bereits geschechen)</li>
+ <li>Löte jetzt das Kabel <strong>so</strong> an die Buchse, dass die <strong>Polung zum Stecker des Akkupacks passt</strong>.
  </li>
  </ul>
  {{% alert color="primary" %}}
-Achtung: Manche Buchsen/Stecker-Sets sind genau umgekehrt gepolt. Vergleiche immer ob der Stecker genauso wie der des Akkupacks gepolt ist und löter erst dann die Buchse entsprechend an das Kabel 
+Achtung: Manche Buchsen/Stecker-Sets sind genau umgekehrt gepolt. Vergleiche immer ob der Stecker genauso wie der des Akkupacks gepolt ist und löte erst dann die Buchse entsprechend an das Kabel. 
 {{% /alert %}}
     </div>
 </div>
