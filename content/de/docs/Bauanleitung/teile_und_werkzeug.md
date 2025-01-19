@@ -27,8 +27,12 @@ weight: 2
           <figcaption class="figure-caption">Lötkolben</figcaption>
         </figure>
         <figure class="figure">
-          <img src="/icons/screwdriver.webp" alt="Schraubenzieher" width="150" class="img-fluid figure-img">
+          <img src="/icons/screw_cross.webp" alt="Schraubenzieher" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Schraubenzieher Kreuz</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/icons/screw_t20h.webp" alt="T20H Bit" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Schraubenzieher T20H</figcaption>
         </figure>
         <figure class="figure">
           <img src="/icons/seitenschneider.webp" alt="Seitenschneider" width="150" class="img-fluid figure-img">
@@ -111,7 +115,6 @@ weight: 2
           <img src="/parts/pinleiste.jpg" alt="40-Pin-Leiste" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">40-Pin-Leiste (hier schon gekürzt)</figcaption>
         </figure>
-
 <figure class="figure">
     <img src="/parts/cable2.jpg" alt="2-adriges Kabel" width="150" class="img-fluid figure-img">
     <figcaption class="figure-caption">2-adriges Kabel (4cm)</figcaption>
