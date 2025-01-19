@@ -1,4 +1,4 @@
-baseURL: https://citrad.de
+baseURL: https://citrad.de/
 title: Citizen Traffic Radar
 theme: [hugo-cloak-email, docsy]
 
