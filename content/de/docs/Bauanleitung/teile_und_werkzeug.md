@@ -131,4 +131,16 @@ weight: 2
     <img src="/parts/spannungswandler.jpg" alt="Spannungswandler" width="150" class="img-fluid figure-img">
     <figcaption class="figure-caption">Spannungwandler</figcaption>
 </figure>
+<figure class="figure">
+    <img src="/parts/bef_platte.jpg" alt="Befestigungsplatte" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Lasercut Befestigungsplatte (5cm Stärke)</figcaption>
+</figure>
+<figure class="figure">
+    <img src="/parts/ladebuchse.jpg" alt="Ladebuchse" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Ladebuchse (+Stecker)</figcaption>
+</figure>
+<figure class="figure">
+    <img src="/parts/velcor_klett.jpg" alt="Velcro Klettband" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">Velcro Klettband (18 cm)</figcaption>
+</figure>
 </div>
