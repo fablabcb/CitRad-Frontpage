@@ -57,11 +57,15 @@ weight: 2
         </figure>
         <figure class="figure">
           <img src="/parts/lasercut_fuesse.jpg" alt="Lasercut-Füße" width="150" class="img-fluid figure-img">
-          <figcaption class="figure-caption">Lasercut-Füße</figcaption>
+          <figcaption class="figure-caption">Lasercut-Füße (3mm Stärke)</figcaption>
         </figure>
         <figure class="figure">
           <img src="/parts/grundplatte.jpg" alt="Lasercut-Grundplatte" width="150"    class="img-fluid figure-img">
-           <figcaption class="figure-caption">Lasercut-Grundplatte</figcaption>
+           <figcaption class="figure-caption">Lasercut-Grundplatte (3 mm Stärke)</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/parts/bef_platte.jpg" alt="Befestigungsplatte" width="150" class="img-fluid figure-img">
+          <figcaption class="figure-caption">Lasercut Befestigungsplatte (5 mm Stärke)</figcaption>
         </figure>
         <figure class="figure">
           <img src="/parts/3d_radarhalter.jpg" alt="3D-Druck-Halterung für Radarmodul" width="150" class="img-fluid figure-img">
@@ -72,8 +76,16 @@ weight: 2
            <figcaption class="figure-caption">2x Velcro Gurt (2 x 30 cm)</figcaption>
         </figure>
         <figure class="figure">
+          <img src="/parts/velcor_klett.jpg" alt="Velcro Klettband" width="150" class="img-fluid figure-img">
+            <figcaption class="figure-caption">Velcro Klettband (18 cm)</figcaption>
+        </figure>
+        <figure class="figure">
           <img src="/parts/akku.jpg" alt="Akku-Pack" width="150" class="img-fluid figure-img">
           <figcaption class="figure-caption">Akku-Pack</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="/parts/ladebuchse.jpg" alt="Ladebuchse" width="150" class="img-fluid figure-img">
+            <figcaption class="figure-caption">Ladebuchse (+Stecker)</figcaption>
         </figure>
         <figure class="figure">
           <img src="/parts/knopf.jpg" alt="Knopfzelle CR2032" width="150" class="img-fluid figure-img">
@@ -131,16 +143,6 @@ weight: 2
     <img src="/parts/spannungswandler.jpg" alt="Spannungswandler" width="150" class="img-fluid figure-img">
     <figcaption class="figure-caption">Spannungwandler</figcaption>
 </figure>
-<figure class="figure">
-    <img src="/parts/bef_platte.jpg" alt="Befestigungsplatte" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Lasercut Befestigungsplatte (5cm Stärke)</figcaption>
-</figure>
-<figure class="figure">
-    <img src="/parts/ladebuchse.jpg" alt="Ladebuchse" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Ladebuchse (+Stecker)</figcaption>
-</figure>
-<figure class="figure">
-    <img src="/parts/velcor_klett.jpg" alt="Velcro Klettband" width="150" class="img-fluid figure-img">
-    <figcaption class="figure-caption">Velcro Klettband (18 cm)</figcaption>
-</figure>
+
+
 </div>
