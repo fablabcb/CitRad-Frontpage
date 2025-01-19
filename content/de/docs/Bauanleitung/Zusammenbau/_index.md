@@ -73,7 +73,7 @@ Adapterplatte mit M5-Schrauben und den Unterlegschrauben (im Lasercut Teil entha
 
 <ul><li>Zuerst das Klettband mit der weichen Seite nach oben in die mittlere Öffnung einführen und in Richtung der Aussparung führen.</li>
 
-<li>Dann die Grundplatte mit den losen Klettbandenden nach oben in das Gehäuse legen und festschrauben. Dabei ist die Orientierung der Platte innerhalb des Gehäuses egal.</li>
+<li>Dann die Grundplatte mit den losen Klettbandenden nach oben in das Gehäuse legen und mit MXxXmm Schrauben festschrauben. Dabei ist die Orientierung der Platte innerhalb des Gehäuses egal.</li>
 </ul>
     </div>
 </div>
@@ -127,9 +127,12 @@ Akku mit Kletterverschluss an Grundplatte befestigen.
 <div class="col-md-6">
        {{< imgproc standfuss Fit "600x400 webp" >}} Angeschraubte Standfüße {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Jetzt kannst du die Standfüße (aus dem Lasercutter) an die 3D-Druck-Halterung anschrauben. Schraube sie nicht zu fest an, damit du das Modul noch bewegen kannst. Die längere der beiden langen Kanten zeigt dabei jeweils in Richtung des breiten Endes der 3D-Druck-Halterung. Der Überstand an der kurzen Kante zeigt vom Radarmodul weg. 
-{{% alert color="primary" %}}
-Es existieren zwei Versionen der Füße mit unterschiedlichen Abschlüssen der oberen Kante. Wenn deine Standfüße anders aussehen als auf dem Foto ist das kein Problem.{{% /alert %}}
+
+- Jetzt kannst du die Standfüße (aus dem Lasercutter) an die 3D-Druck-Halterung anschrauben. Schraube sie nicht zu fest an, damit du das Modul noch bewegen kannst. 
+- Die längere der beiden langen Kanten zeigt dabei jeweils in Richtung des breiten Endes der 3D-Druck-Halterung.Der Überstand an der kurzen Kante zeigt vom Radarmodul weg.
+
+
+Die Standfüße stehen hier nur für das Foto in der Grundplatte. Die Grundplatte brauchst du hier nicht, sie kann im Gehäuse verschraubt bleiben.  
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -140,7 +143,7 @@ Es existieren zwei Versionen der Füße mit unterschiedlichen Abschlüssen der o
 <div class="col-md-6">
        {{< imgproc microsd Fit "600x400 webp" >}} MicroSD-Karte im Slot des Audioshields {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Der Slot für die Micro-SD-Karte befindet sich jetzt zwischen Teensy und Audioshield. Die Micro-SD-Karte muss mit den Kontakten nach unten vorsichtig bis zum Anschlag in den Slot des Audioshield geschoben werden.
+Der Slot für die MicroSD-Karte befindet sich jetzt zwischen Teensy und Audioshield. Die Micro-SD-Karte muss mit den Kontakten nach unten vorsichtig bis zum Anschlag in den Slot des Audioshield geschoben werden.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -162,13 +165,11 @@ Knopfzelle in Knopzellenhalter einsetzen. Der Pluspol der Knopfzelle muss in Ric
 <div class="col-md-6">
        {{< imgproc alltogether Fit "600x400 webp" >}} Vorderseite {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Die Radareinheit neben den Akku in die dafür vorgesehenen Schlitze stecken. Gehalten wird das Ganze später durch den Deckel.
+Die Radareinheit neben den Akku in die dafür vorgesehenen Schlitze stecken. Dabei Zeigt der Einschub für die MicroSD-Karte vom Akku weg. Gehalten wird das die Radareinheit durch den aufgeschraubten Deckel, So kommst du jederzeit gut an die MicroSD-Karte heran. 
 <br>
 {{% alert color="primary" %}}
-Die Radareinheit muss richtig in den vorgesehenen Schlitzen stecken. Also nicht verkantet. Sonst lässt sich der Deckel nicht schließen. 
+Der Platz ist hier etwas begrenzt. Aber mit etwas Fingerspitzengefühl, kann man die Radareinheit einsetzen, ohne dass sie sich verkantet. Lockere zur Not den Akku etwas, um mehr Spiel zu haben.  
 {{% /alert %}}
-Die Radareinheit wird nicht festgeschraubt, damit man später unkompliziert an die SD-Karte heran kommt.    
-
  </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->

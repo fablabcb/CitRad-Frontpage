@@ -116,7 +116,7 @@ Aufpassen dass keine Querverbindung besteht. Eventuell die Drähte etwas auseina
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
- - Das Kabel (5cm) musst du mit einem Ende an einem der inneren Kontakte des Header 4-Pins anlöten.
+ - Das Kabel (4cm) musst du mit einem Ende an einem der inneren Kontakte des Header 4-Pins anlöten.
 
      </div>
 </div>
