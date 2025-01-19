@@ -52,9 +52,8 @@ weight: 3
 ### Steckerverbindung vorbereiten (Teil 1: Header 6-Pin)
 <div class="col-md-6">
 
-
 {{< tabpane text=true right=true >}}
-  {{% tab header="**Biegeschritte**:" disabled=true /%}}
+  {{% tab header="Biegen:" disabled=true /%}}
   {{% tab header="1." %}}
   
 {{< imgproc 6-pin-rem-pin Fit "600x400 webp" >}} Pin 1 herausgezogen {{< /imgproc >}}
@@ -81,6 +80,7 @@ weight: 3
 </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
+- Klicke dich durch die 4 Biege-Tabs, um detaillierte Fotos zu den einzelnen Schritten zu sehen.
 - Pin 1 (ganz links) aus dem Stecker ziehen. Er wird nicht mehr benötigt.
 - Pin 5 und 6 (ganz rechts) zuerst um 90° nach hinten biegen. Dann mit etwa 4mm Abstand um ca. 75 grad nach unten biegen. Beide Pins müssen an die Line-In Kontakte des Audioshields heranreichen und dort festgelötet werden. 
 
