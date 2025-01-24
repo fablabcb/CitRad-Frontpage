@@ -143,6 +143,13 @@ weight: 2
     <img src="/parts/spannungswandler.jpg" alt="Spannungswandler" width="150" class="img-fluid figure-img">
     <figcaption class="figure-caption">Spannungwandler</figcaption>
 </figure>
-
+<figure class="figure">
+    <img src="/parts/screws.jpg" alt="Schrauben innen" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">9 Schrauben M3x5mm</figcaption>
+</figure>
+<figure class="figure">
+    <img src="/parts/safetyscrews.jpg" alt="Sicherheitsschrauben" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">4 Sicherheitsschrauben M4x20mm</figcaption>
+</figure>
 
 </div>

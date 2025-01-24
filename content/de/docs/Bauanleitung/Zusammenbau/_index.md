@@ -24,11 +24,13 @@ weight: 6
   - Gehäuse
   - Akku-Pack
   - Lasercut-Füße
+  - Lasercut-Adapterplatte
   - Radarhalterung
   - Radarmodul
   - MicroSD-Karte
   - Alles bisher Zusammengebaute
   - 5x M3x5mm Schrauben
+  - 4x M3x14mm Zylinderkopfschrauben
 
 
 
@@ -41,24 +43,24 @@ weight: 6
 <div class="row">
 
 ### Adapterplatte montieren
-{{% alert color="primary" %}}
-Dieser Teil wird aktuell überarbeitet. Bitte etwas Geduld.{{% /alert %}}
-    <div class="col-md-6">
-       {{< imgproc gewindeschneiden Fit "600x400 webp" >}}Gewindeschneiden
+
+
+<div class="col-md-6">
+       {{< imgproc gewinde Fit "600x400 webp" >}}Gewindeschneiden
 {{< /imgproc >}} </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Für die Montage an Straßenlaternen oder den Rohren von Straßenschildern brauchen wir ein Zwischenstück zwischen Box und Pfahl. 
-Gewinde in Befestigungslöcher (Rückseite) schneiden.
+Schneide mit dem M3 Gewindeschneider ein Innengewinde in jedes der vier Löcher der Adapterplatte aus dem Lasercutter 
     </div>
 </div>
 
 <div class="row">
 <div class="col-md-6">
        <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
-    Platzhalter
+    Dieses Foto fehlt noch
 </div> </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Adapterplatte mit M5-Schrauben und den Unterlegschrauben (im Lasercut Teil enthalten) an Rückseite anschrauben.
+Nimm jetzt die 4 M3x14mm Zylinderkopfschrauben, führe sie jeweils durch die Aussparungen an den Ecken des Gehäußes (von innen nach außen) und verschraube sie mit der Adapterplatte.
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -73,7 +75,7 @@ Adapterplatte mit M5-Schrauben und den Unterlegschrauben (im Lasercut Teil entha
 
 <ul><li>Zuerst das Klettband mit der weichen Seite nach oben in die mittlere Öffnung einführen und in Richtung der Aussparung führen.</li>
 
-<li>Dann die Grundplatte mit den losen Klettbandenden nach oben in das Gehäuse legen und mit MXxXmm Schrauben festschrauben. Dabei ist die Orientierung der Platte innerhalb des Gehäuses egal.</li>
+<li>Dann die Grundplatte mit den losen Klettbandenden nach oben in das Gehäuse legen und mit M3x14mm Schrauben festschrauben. Dabei ist die Orientierung der Platte innerhalb des Gehäuses egal.</li>
 </ul>
     </div>
 </div>
