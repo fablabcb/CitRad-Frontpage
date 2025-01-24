@@ -75,7 +75,7 @@ Nimm jetzt die 4 M3x14mm Zylinderkopfschrauben, führe sie jeweils durch die Aus
 
 <ul><li>Zuerst das Klettband mit der weichen Seite nach oben in die mittlere Öffnung einführen und in Richtung der Aussparung führen.</li>
 
-<li>Dann die Grundplatte mit den losen Klettbandenden nach oben in das Gehäuse legen und mit M3x14mm Schrauben festschrauben. Dabei ist die Orientierung der Platte innerhalb des Gehäuses egal.</li>
+<li>Dann die Grundplatte mit den losen Klettbandenden nach oben in das Gehäuse legen und mit M3x5mm Schrauben festschrauben. Dabei ist die Orientierung der Platte innerhalb des Gehäuses egal.</li>
 </ul>
     </div>
 </div>
@@ -118,7 +118,7 @@ Akku mit Kletterverschluss an Grundplatte befestigen.
 - Beim Aufsetzen von Teensy&Audoshield auf die Pins des Radarmoduls musst du nur darauf achten, dass die Löcher für die Schrauben im Audioshield auf die der 3D-Druck-Halterung passen.
 - Dann kannst du zuerst den 6-Pin-Stecker verbinden und dann
 - Den 4-Pin-Stecker so einstecken, dass das Kabel am zweiten Pin (vom Klinkenanschluss aus gesehen) angelötet ist. 
-- Danach mit 3 M3-Schrauben das Audioshield an der Halterung befestigen. 
+- Danach mit 3 M3x5mm-Schrauben das Audioshield an der Halterung befestigen. 
     </div>
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
@@ -130,7 +130,7 @@ Akku mit Kletterverschluss an Grundplatte befestigen.
        {{< imgproc standfuss Fit "600x400 webp" >}} Angeschraubte Standfüße {{< /imgproc >}} </div>
 <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 
-- Jetzt kannst du die Standfüße (aus dem Lasercutter) an die 3D-Druck-Halterung anschrauben. Schraube sie nicht zu fest an, damit du das Modul noch bewegen kannst. 
+- Jetzt kannst du die Standfüße aus dem Lasercutter mit je einer M3x5mm-Schraube an die 3D-Druck-Halterung anschrauben. Schraube sie nicht zu fest an, damit du das Modul noch bewegen kannst. 
 - Die längere der beiden langen Kanten zeigt dabei jeweils in Richtung des breiten Endes der 3D-Druck-Halterung.Der Überstand an der kurzen Kante zeigt vom Radarmodul weg.
 
 
@@ -199,7 +199,7 @@ Dieser Schritt ist wichtig, damit keine Feuchtigkeit in das Gehäuse eindringen 
 </div>
 <hr class="my-4"> <!-- Trennlinie -->
 
-**Glückwunsch! Der Hardwareteil ist abgeschlossen!**  Bevor du den Deckel aufs Gehäuse schrauben kannst, musst du noch die <a href="/docs/softwareinstallation/">Software auf das Teensy Entwicklerboard flashen</a> 
+**Glückwunsch! Der Hardwareteil ist abgeschlossen!**  Bevor du den Deckel aufs Gehäuse schrauben kannst (mitgelieferte oder M4x20mm Sicherheitsschrauben), musst du noch die <a href="/docs/softwareinstallation/">Software auf das Teensy Entwicklerboard flashen</a> 
 
 <hr class="my-4">
 
