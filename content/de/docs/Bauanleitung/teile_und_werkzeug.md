@@ -151,5 +151,9 @@ weight: 2
     <img src="/parts/safetyscrews.jpg" alt="Sicherheitsschrauben" width="150" class="img-fluid figure-img">
     <figcaption class="figure-caption">4 Sicherheitsschrauben M4x20mm</figcaption>
 </figure>
+<figure class="figure">
+    <img src="/parts/zylinderkopf.jpg" alt="Sicherheitsschrauben" width="150" class="img-fluid figure-img">
+    <figcaption class="figure-caption">4 Zyl.Kopf-Schrauben M3x14mm</figcaption>
+</figure>
 
 </div>
