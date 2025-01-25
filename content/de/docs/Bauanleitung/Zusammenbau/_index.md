@@ -46,7 +46,7 @@ weight: 6
 
 
 <div class="col-md-6">
-       {{< imgproc gewinde Fit "600x400 webp" >}}Gewindeschneiden
+       {{< imgproc gewinde Fit "600x400 webp" >}}Alle vier Löcher müssen mit einem M3 Innengewinde ausgestattet werden
 {{< /imgproc >}} </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Für die Montage an Straßenlaternen oder den Rohren von Straßenschildern brauchen wir ein Zwischenstück zwischen Box und Pfahl. 
@@ -56,9 +56,8 @@ Schneide mit dem M3 Gewindeschneider ein Innengewinde in jedes der vier Löcher 
 
 <div class="row">
 <div class="col-md-6">
-       <div style="width: 400px; height: 300px; background-color: #cccccc; text-align: center; line-height: 200px;">
-    Dieses Foto fehlt noch
-</div> </div>
+       {{< imgproc bplattefest Fit "600x400 webp" >}}Mit einem Imbusschlüssel alle vier Zylinderkopfschrauben von innen durch die Öffnung und die Distanzscheibe führen und in der Adapterplatte festschrauben.
+{{< /imgproc >}} </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
 Nimm jetzt die 4 M3x14mm Zylinderkopfschrauben, führe sie jeweils durch die Aussparungen an den Ecken des Gehäußes (von innen nach außen) und verschraube sie mit der Adapterplatte.
     </div>
