@@ -26,7 +26,7 @@ weight: z
 
 ## So funktioniert es 
 
-Die einfachste Möglichkeit, die Software auf den Teensy zu bekommen, ist das flashen einer bereits kompilierten Hex-Datei unter Linux. Wenn du kein linux-basiertes Betriebssystem hast, springe zu [Windows](#windows).
+Die einfachste Möglichkeit, die Software auf den Teensy zu bekommen, ist das flashen einer bereits kompilierten .hex-Datei unter Linux. Wenn du kein linux-basiertes Betriebssystem hast, wähle im nächsten Schritt den "Windows" Tab.
 
 {{< tabpane text=true right=false >}}
   {{< tab header="Wähle dein Betriebssystem:" disabled=true />}}
