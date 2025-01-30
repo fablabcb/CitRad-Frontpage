@@ -157,3 +157,12 @@ weight: 2
 </figure>
 
 </div>
+
+<div class="d-flex justify-content-between">
+  <a class="btn btn-sm btn-primary me-3 mb-4" href="../../einkaufsliste">
+<i class="fas fa-arrow-alt-circle-left me-2"></i> Vorheriger Schritt 
+  </a>
+  <a class="btn btn-sm btn-primary mb-4" href="../elektronik">
+    Nächster Schritt <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  </a>
+</div>

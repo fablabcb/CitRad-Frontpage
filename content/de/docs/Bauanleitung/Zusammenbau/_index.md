@@ -154,10 +154,10 @@ Der Slot für die MicroSD-Karte befindet sich jetzt zwischen Teensy und Audioshi
     <div class="col-md-6">
        {{< imgproc knopfzelle Fit "600x400 webp" >}} Knopfzellenhalter mit Knopfzelle {{< /imgproc >}} </div>
     <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center;">
-Knopfzelle in Knopzellenhalter einsetzen. Der Pluspol der Knopfzelle muss in Richtung des Deckels zeigen. 
+Setze jetzt die Knopfzelle in Knopzellenhalter ein. Der Pluspol der Knopfzelle muss in Richtung des Deckels zeigen. Achte darauf, dass der Schalter am Gehäuse des Knopfzellenhalter auf "ON" steht und schalte ihn am besten nur auf "Off" wenn du ohnehin die Knopfzelle wechseln musst. 
     </div>
 </div>
-<hr class="my-4"> <!-- Trennlinie -->
+<hr class="my-4"> <!-- Trennlinie -->s
 
 
 <div class="row">
