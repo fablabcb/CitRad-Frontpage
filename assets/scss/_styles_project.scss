@@ -88,3 +88,10 @@ Add styles or override variables from the theme here.
     caption-side: bottom;
     max-width: 150px;
 }
+
+.figure-caption-wide{
+    display: table-caption;
+    caption-side: bottom;
+    max-width: 850px;
+    font-size: smaller;
+}

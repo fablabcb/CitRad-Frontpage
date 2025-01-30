@@ -15,15 +15,19 @@ Warum Citrad?
 
 CitRad ist als Open Hardware und Citizen Science Projekt im [Fablab Cottbus e.V.](https://fablab-cottbus.de) gestartet, um Bürger:innen die Möglichkeit zu geben, eigenständig und datenschutzkonform Verkehrsphänomene aufzuzeichnen. Damals wurde ein Open Hardware Radarsensor entwickelt, der möglichst einfach nachzubauen ist. Nun wollen wir den Auswertealgorithmus perfektionieren und eine Datenplattform schaffen, die die Verkehrsdaten übersichtlich auf Karten oder in anderen Auswertungen darstellt und verfügbar macht. Wir freuen uns, dass dieses Projekt als eines von 25 Projekten vom [**Prototypefund**](https://prototypefund.de/) in der Runde 16 gefördert wird. Damit erhalten wir in den nächsten sechs Monaten (Sep 2024 - Feb 2025) vom **Bundesministerium für Bildung und Forschung** finanzielle Unterstützung, um den Prototypen Wirklichkeit werden zu lassen.
 
-<div style="text-align:center;">
-<span style="display: inline-block;">
+<div class="container" style="max-width: 850px">
+<div class="row">
+<div class="col mb-5 text-center">
+<figure class="figure">
+          <img src="/images/explained.png" alt="Citrad-Explained" width="850px" class="img-fluid figure-img">
+          <figcaption class="figure-caption-wide">Mit dem CitRad-Sensor können einfach und datenschutzkonform Verkehrsdaten gesammelt und über eine Platfform öffentlich zugänglich gemacht werden.</figcaption>
+        </figure>
 
-{{< imgproc explained Fit "1200x600 webp" >}}
-Mit dem CitRad-Sensor können einfach und datenschutzkonform Verkehrsdaten gesammelt und über eine Platfform öffentlich zugänglich gemacht werden. 
-{{< /imgproc >}}
-
-</span>
 </div>
+</div>
+</div>
+
+
 
 {{% /blocks/lead %}}
 
