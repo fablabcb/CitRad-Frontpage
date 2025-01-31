@@ -17,7 +17,7 @@ enableRobotsTXT: true
 enableGitInfo: true
 
 # Comment out to enable taxonomies in Docsy
-# disableKinds: [taxonomy, taxonomyTerm]
+disableKinds: [taxonomy, RSS]
 
 # You can add your own taxonomies
 taxonomies:
@@ -94,7 +94,6 @@ params:
 
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: []
-  
 
   privacy_policy: /datenschutzerklaerung
   imprint: /impressum/
@@ -192,6 +191,3 @@ params:
         desc: Development takes place here!
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
-      
-      
-
