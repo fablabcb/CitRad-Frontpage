@@ -94,7 +94,7 @@ params:
 
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: []
-  rss_sections: [blog]
+  
 
   privacy_policy: /datenschutzerklaerung
   imprint: /impressum/
