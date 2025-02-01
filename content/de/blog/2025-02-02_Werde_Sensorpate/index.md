@@ -1,6 +1,6 @@
 ---
 title: Sensorpate werden und kostenlosen CitRad-Sensor erhalten
-date: 2025-01-31
+date: 2025-02-02
 description: >
   Nach vielen Tests an Technik und Anleitung sind wir nun so weit, die ersten Sensoren gemeinsam mit Interessierten zusammenzubauen und Daten zu sammeln. Wer daran Interesse hat, ist am 15. Februar 2025 um 13 Uhr herzlich ins Fablab Cottbus eingeladen. 
 author: Bene
