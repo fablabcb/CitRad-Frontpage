@@ -1,9 +1,7 @@
 ---
 title: Messanleitung
 description: Wie ist der Radarsensor aufzustellen
-categories: []
-tags: []
-weight: 2
+weight: 4
 _build: 
    list: false
    render: false
@@ -15,7 +13,7 @@ Mit Verbinden des Akkus ist der Sensor aktiv und zeichnet Daten auf.
 
 # Hinweise zur Aufhängung
 
-- Der Sensor kann mit seinen zwei Velcor-Bändern an einem Verkehrsschild oder sonstigen Pfahl montiert werden. Für die Montage an Laternen können wir noch zwei Velcro-Bänder zur Verlängerung mitgeben. Zusätzlich kann in der Mitte noch ein Kabelbinder durchgeschleust werden.
+- Der Sensor kann mit seinen zwei Velcro-Bändern an einem Verkehrsschild oder sonstigen Pfahl montiert werden. Für die Montage an Laternen müssen gegebenenfalls zwei extra Velcro-Bänder verwendet werden. Zusätzlich kann in der Mitte noch ein Kabelbinder durchgeschleust werden.
 
 - Achtung: Durch die Aufhängung des Sensors darf auf keinen Fall ein Verkehrsschild verdeckt werden!
 
@@ -25,15 +23,15 @@ Mit Verbinden des Akkus ist der Sensor aktiv und zeichnet Daten auf.
 
 - Eine Anbringung auf Brusthöhe ist perfekt, da dadurch immer ein Auto das nächste verdeckt. Dadurch können einzelne Autos leichter unterschieden werden.
 
-- Nach Möglichkeit den Sensor dort installieren wo die Autos an diesem Straßenabschnitt am wahrscheinlichsten ihre Höchst- bzw. Reisegeschwindigkeit erreicht haben. Also nicht kurz hinter Einmünungen/Abzweigungen. Außer natürlich genau das soll gemessen werden (z.B. kurz vor einem Fußgängerübergang).
+- Nach Möglichkeit den Sensor dort installieren, wo die Autos an diesem Straßenabschnitt am wahrscheinlichsten ihre Höchst- bzw. Reisegeschwindigkeit erreicht haben. Also nicht kurz hinter Einmünungen/Abzweigungen. Außer natürlich genau das soll gemessen werden (z.B. kurz vor einem Fußgängerübergang).
 
 - Autos auf der Gegenfahrbahn werden vom Sensor mit erfasst. Am verlässtlichsten ist das natürlich wenn keine Verkehrsinsel oder Absperrung etc. dazwischen ist.
 
 - In engen Kurven wird die Geschwindigkeitsmessung nicht ganz korrekt sein. Daher den Sensor eher auf Geraden aufhängen.
 
-- Macht uns gerne ein Bild von eurer Aufhängung inklusive der Straße an der gemessen wird. Bitte versucht dabei aus Datenschutzgründen zu vermeiden dass Personen oder lesbare Nummernschilder auf dem Bild sind.
+- Macht uns gerne ein Bild von eurer Aufhängung inklusive der Straße an der gemessen wird. Bitte vermeidet aus Datenschutzgründen, dass Personen oder lesbare Nummernschilder auf dem Bild sind.
 
-- Bitte schaut vor Ort welche Geschwindigkeitsbegrenzung auf dem Streckenabschnitt gilt und notiert euch den Wert für den Upload der Daten später.
+- Bitte schaut vor Ort, welche Geschwindigkeitsbegrenzung auf dem Streckenabschnitt gilt und notiert euch den Wert für den Upload der Daten später.
 
 # Diebstahlsicherung
 

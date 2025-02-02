@@ -3,7 +3,7 @@ title: Softwareinstallation
 description: Noch etwas Hirn gefällig? Als letzter Schritt vor dem Aufbau an der Straße muss die Software auf den Teensy
 categories: []
 tags: []
-weight: z
+weight: 3
 ---
 
 ## Das brauchst du
