@@ -95,3 +95,95 @@ Add styles or override variables from the theme here.
     max-width: 850px;
     font-size: smaller;
 }
+
+.svg-container {
+    position: relative; /* Wichtig für die Positionierung der .car */
+    overflow: auto;
+    resize: both; /* Um sicherzustellen, dass das Element nicht außerhalb des Containers sichtbar ist */
+    width: 100%; /* Breite des Containers */
+    height: 300px; /* Höhe des Containers */
+}
+
+.svg-visibility {
+    position: absolute;
+    z-index: 3;
+}
+
+@keyframes reveal {
+    0% {
+        stroke-dashoffset: 200;
+    }
+    50% {
+        stroke-dashoffset: 100;
+    }
+    100% {
+        stroke-dashoffset: 0;
+        opacity: 50%;
+        }
+}
+
+.signalline {
+    position: relative;
+    stroke-dasharray: 200; /* Setze dies auf die Länge des Pfades */
+    stroke-dashoffset: 210; /* Startwert für die Animation */
+    animation: reveal 5s ease-in-out forwards; /* Animationseigenschaften */
+    stroke-width: 2; /* Breite der Linie */
+    stroke: #ffcc00;
+    fill: none;
+}
+
+
+@keyframes movep {
+    0% {
+        transform: translateX(-50px);
+      }
+    100% {
+        transform: translateX(calc(100vw));
+      }
+}
+
+.car {
+    position: absolute;
+    animation: movep 20s linear forwards 1; /* Animation */
+    stroke-width: 0.5; /* Breite der Linie */
+    stroke: #00ff22;
+    fill: none; /* Füllung auf none setzen, falls gewünscht */
+}
+
+.svgimg {
+    position: absolute;
+    top: 6px; left: 208px;
+    overflow: hidden;
+    height: 233px;
+    z-index: 1;
+    opacity: 1;
+    animation: photo-ani 3.5s forwards;
+  }
+
+@keyframes photo-ani {
+    0% {
+      opacity: 0;
+    }
+    75% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+.get-away {
+    animation: away 3.5s forwards;
+}
+
+@keyframes away {
+    0% {
+      opacity: 1;
+    }
+    75% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
