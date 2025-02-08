@@ -27,16 +27,12 @@ CitRad ist als Open Hardware und Citizen Science Projekt im [Fablab Cottbus e.V.
 </div>
 </div>
 
-
-
 {{% /blocks/lead %}}
-
 
 {{% blocks/section %}}
 
 ## Warum machen wir das?
 Wir glauben, dass Diskussionen über Verkehr und Mobilität oft auf gefühlten Wahrheiten beruhen. Mit CitRad wollen wir diese Diskussionen wieder auf Fakten fußen lassen. Jeder, der daran interessiert ist, soll die Möglichkeit bekommen, objektive und kontinuierlich erhobene Datensätze zu diesen Themen beizusteuern.
-
 
 {{% /blocks/section %}}
 
@@ -44,7 +40,6 @@ Wir glauben, dass Diskussionen über Verkehr und Mobilität oft auf gefühlten W
 
 ## Wie funktioniert der Sensor?
 Radar-Technologie ermöglicht es uns, Verkehrsdaten zu sammeln, ohne dabei personenbezogene Daten zu erheben. Der Sensor muss nur am Straßenrand angebracht werden. Im Radarsignal wird in ein Audiosignal umgewandelt und kann anhand der typischen Muster die vorbeifahrende Autos erzeugen, ausgewertet werden. Dabei ist es potentiell möglich, neben der Geschwindigkeit und Anzahl auch die Länge und damit die Art des Verkehrsteilnehmers zu erfassen. 
-<br>
 <br>
 
 <div class="svg-container">
@@ -113,8 +108,6 @@ Radar-Technologie ermöglicht es uns, Verkehrsdaten zu sammeln, ohne dabei perso
 <button onclick="location.reload();"  class="btn btn-lg btn-secondary me-3 mb-4">
   Animation abspielen <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </button>
-</div>
-</div>
 
 {{% /blocks/section %}}
 
@@ -128,14 +121,12 @@ CitRad ist auch für **Kommunen** interessant, die die Verkehrsverhältnisse fü
 
 
 Auch die **Forschung** profitiert von den frei zugänglichen Daten. Mobilitätsplaner können daraus eigene Schlüsse ziehen und ihre Erkenntnisse zurückfließen lassen.
-
-
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
+
 ## Was ist CitRad noch nicht?
 
 Wir haben viele Ideen, wie man CitRad noch komfortabler machen könnte. Datenupload per LoRaWAN, längere Laufzeit mit Solar, Unterscheidung von Verkehrsteilnehmern, WLAN/Bluetooth und vieles mehr. Aber wir wollen uns zu allererst um eine zuverlässige Auswertung und eine aussagekräftige Datenplattform kümmern. Hast du Interesse, an diesen Komfortfunktionen zu arbeiten? {{< cloakemail address="info@citrad.de" query="subject=Anfrage:" display="Dann melde dich gerne per Mail bei uns">}}
-
 
 {{% /blocks/section %}}
