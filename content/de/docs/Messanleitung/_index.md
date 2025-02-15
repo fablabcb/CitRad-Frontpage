@@ -11,6 +11,7 @@ weight: 4
        <h3>Werkzeug</h3>
        <ul>
        <li><img src="/icons/screwdriver.webp" alt="Schraubenzieher" width="200"/>Schraubenzieher (Kreuz - oder Sicherheitsschraube T20H)</li>
+       <li>Optional: Handykamera oder Fotoapparat</li>
        </ul>
     </div>
     <div class="col-md-6 col-sm-6 col-xs-12">
@@ -38,8 +39,11 @@ Die Qualität der Daten hängt stark von der Ausrichtung des Sensors ab. Folgend
 - Der Sensor erfasst Fahrzeuge in beiden Fahrrichtungen. Am besten funktioniert das, wenn keine Verkehrsinseln oder andere Hindernisse in der Fahrbahnmitte im Weg sind. 
 - Nur ein gerader Streckenverlauf bringt verlässliche Messergebnisse. Kurven sollten vermieden werden.
 - Auch wenn der Sensor beide Fahrtrichtungen erfasst, musst du dir die Richtung, in die der Sensor zeigt merken und später beim Upload angeben. 
-- 
 
 ### Diebstahlsicherung
 - Als Diebstahlsicherung sieht die Adapterplatte mittig noch eine Ausparung vor. Hier kannst du entweder einen normalen Kabelbinder (kein großes Hindernis) oder das Hip Lok Z Sicherheitsband (in der Einkaufsliste verlinkt) für mehr Diebstahlschutz durchfädeln.
 - Je nach Gegebenheiten vor Ort hilft es natürlich, den Sensor möglichst unauffällig zu positionieren (z.B. auf der Rückseite von Straßenschildern). Achte aber darauf, dass trotzdem noch gute Messungen (s.o.) möglich sind.
+
+### Fotos anfertigen
+Fotos vom aufgehängten Sensor helfen uns dabei, einen Eindruck von den Bedingungen am Standort zu bekommen. Sie ermöglichen außerdem vergleichbare Messungen zu unterschiedlichen Zeitpunkten, da der Sensor genau gleich aufgehängt werden kann. Die Fotos können später zusammen mit den Daten für den jeweiligen Standort auf die Plattform hochgeladen werden. 
+**Die Fotos sollten so aufgenommen sein, dass man das Umfeld um den Installationsort erkennen kann. Außerdem muss darauf geachtet werden, dass keine personenbezogenen Daten (erkennbare Verkehrsteilnehmer, Nummernschilder)aufgenommen bzw. diese vor dem Upload unkenntlich gemacht werden.**  
