@@ -46,4 +46,5 @@ Die Qualität der Daten hängt stark von der Ausrichtung des Sensors ab. Folgend
 
 ### Fotos anfertigen
 Fotos vom aufgehängten Sensor helfen uns dabei, einen Eindruck von den Bedingungen am Standort zu bekommen. Sie ermöglichen außerdem vergleichbare Messungen zu unterschiedlichen Zeitpunkten, da der Sensor genau gleich aufgehängt werden kann. Die Fotos können später zusammen mit den Daten für den jeweiligen Standort auf die Plattform hochgeladen werden. 
+
 **Die Fotos sollten so aufgenommen sein, dass man das Umfeld um den Installationsort erkennen kann. Außerdem muss darauf geachtet werden, dass keine personenbezogenen Daten (erkennbare Verkehrsteilnehmer, Nummernschilder)aufgenommen bzw. diese vor dem Upload unkenntlich gemacht werden.**  
