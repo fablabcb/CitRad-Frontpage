@@ -12,7 +12,7 @@ resources:
       byline: "Foto: Bene / CC-BY-CA"
 ---
 
-Am 15. Februar 2025 um 14 Uhr findet der nächste Bauworkshop für CitRad-Sensoren statt. Wir wollen mit euch gemeinsam weitere Sensoren bauen, um noch mehr Daten von Standorten in und um Cottbus zu sammeln. Wer an diesem Bauworkshop teilnimmt, kann den selbstgebauten Sensor als Dauerleihgabe mit nach Hause nehmen und Verkehrsdaten sammeln. Falls der Sensor nicht mehr aktiv genutzt wird, könnt ihr ihn unkompliziert an uns zurückgeben. Aus Platzgründen können wir an diesem Tag **leider nur *fünf* Personen** dieses Angebot machen. Schnell [anmelden](#anmeldung) lohnt sich.
+Am 15. Februar 2025 um 13 Uhr findet der nächste Bauworkshop für CitRad-Sensoren statt. Wir wollen mit euch gemeinsam weitere Sensoren bauen, um noch mehr Daten von Standorten in und um Cottbus zu sammeln. Wer an diesem Bauworkshop teilnimmt, kann den selbstgebauten Sensor als Dauerleihgabe mit nach Hause nehmen und Verkehrsdaten sammeln. Falls der Sensor nicht mehr aktiv genutzt wird, könnt ihr ihn unkompliziert an uns zurückgeben. Aus Platzgründen können wir an diesem Tag **leider nur *fünf* Personen** dieses Angebot machen. Schnell [anmelden](#anmeldung) lohnt sich.
 
 {{< imgproc sensorbau Fill "1200x600 Center" >}}
 Mit etwas Fingerspitzengefühl ist der CitRad-Sensor in überschaubarer Zeit zusammenbaubar.
