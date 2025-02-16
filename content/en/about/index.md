@@ -1,6 +1,6 @@
 ---
 title: About the CitRad project
-linkTitle: About us
+linkTitle: About CitRad
 description: Find out more about the origins and goals of CitRad.
 menu: {main: {weight: 40}}
 ---

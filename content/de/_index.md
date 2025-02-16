@@ -6,13 +6,14 @@ resources:
 ---
 
 {{< blocks/cover title="CitRad - Citizen Traffic Radar" image_anchor="center" height="max" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/about/">
-  Mehr erfahren <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://data.citrad.de">
+  zur Datenplattform <span class="fa-flip-horizontal" style="display: inline-block;"><i class="fa fa-bar-chart fa-rotate-270 ms-2" aria-hidden="true"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="/blog/">
-  zum Blog <i class="fas fa-book ms-2 "></i>
+  zum Blog <i class="fas fa-book ms-2 "aria-hidden="true"></i>
 </a>
-<p class="lead mt-5">Hier entsteht die Projektwebsite für CitRad - dem offenen Radarsensor zur Verkehrserfassung für alle</p>
+
+<p class="lead mt-5"> Das CitRad Projekt erlaubt das datenschutzkonforme Sammeln von Verkehrsdaten und macht diese für alle offen zugänglich.</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
