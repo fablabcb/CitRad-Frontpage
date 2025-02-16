@@ -1,6 +1,7 @@
 ---
 cascade:
 title: Documentation
+description: Learn how to build the CitRad sensor and contribute data to the project.
 linkTitle: Docs
 menu: {main: {weight: 30}}
 ---

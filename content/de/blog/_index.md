@@ -3,6 +3,7 @@ outputs:
 - html
 - rss
 title: Blog
+description: Alle aktuellen Informationen über CitRad im Blog und als RSS Feed
 menu: {main: {weight: 20}}
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: CitRad
+description: For a fact-based traffic turnaround - open traffic data from everyone for everyone  
 resources:
 - src: "featured-background.jpg"
 ---

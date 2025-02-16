@@ -1,5 +1,6 @@
 ---
 title: CitRad
+description: Für eine faktenbasierte Verkehrswende - Offene Verkehrsdaten von allen für alle 
 resources:
 - src: "featured-background.jpg"
 ---

@@ -1,5 +1,6 @@
 ---
 title: Blog
+description: All the latest information about CitRad in the blog and as an RSS feed
 menu: {main: {weight: 20}}
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Über das CitRad Projekt
 linkTitle: Über uns
+description: Erfahre mehr über die Entstehung und die Ziele von CitRad
 menu: {main: {weight: 40}}
 ---
 
