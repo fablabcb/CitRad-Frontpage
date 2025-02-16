@@ -7,7 +7,7 @@ weight: 2
 ---
 
 {{% alert color="primary" %}}
-Diese Bauanleitung ist noch in Arbeit. Benutzung auf eigene Gefahr
+Die Bauanleitung ist Grundsätzlich nutzbar. Es fehlen lediglich die Hinweise zum Laderegler. 
 {{% /alert %}}
 
 Auf den folgenden Seiten haben wir alle nötigen Informationen zusammengetragen, damit du den CitRad Radarsensor selbst zusammenbauen kannst. 
