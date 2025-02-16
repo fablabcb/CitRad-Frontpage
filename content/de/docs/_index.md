@@ -2,7 +2,7 @@
 cascade:
 title: Dokumentation
 linkTitle: Docs
-menu: {main: {weight: 18}}
+menu: {main: {weight: 30}}
 ---
 
 {{% pageinfo %}}

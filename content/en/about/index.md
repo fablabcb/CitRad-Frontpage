@@ -1,7 +1,7 @@
 ---
 title: About the CitRad project
 linkTitle: About us
-menu: {main: {weight: 10}}
+menu: {main: {weight: 40}}
 ---
 
 {{% blocks/cover title="Citizen Science Traffic Radar" image_anchor="top" height="min" %}}
