@@ -50,7 +50,7 @@ languages:
     menus:
       main:
       - name: Platform
-        pageRef: https://data.citrad.de
+        url: https://data.citrad.de
         weight: 10
     title: Citizen Traffic Radar
     contentDir: content/en
@@ -62,7 +62,7 @@ languages:
     menus:
       main:
       - name: Plattform
-        pageRef: https://data.citrad.de
+        url: https://data.citrad.de
         weight: 10
     title: Citizen Traffic Radar
     contentDir: content/de
