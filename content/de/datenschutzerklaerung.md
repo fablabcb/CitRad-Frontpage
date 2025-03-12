@@ -6,20 +6,20 @@ linkTitle: datenschutzerklaerung
 
 <h1>Datenschutz&shy;erkl&auml;rung</h1>
 <h2>1. Datenschutz auf einen Blick</h2>
-<h3>Allgemeine Hinweise</h3> <p>Die folgenden Hinweise geben einen einfachen &Uuml;berblick dar&uuml;ber,
+<h3>1.1. Allgemeine Hinweise</h3> <p>Die folgenden Hinweise geben einen einfachen &Uuml;berblick dar&uuml;ber,
 was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind
 alle Daten, mit denen Sie pers&ouml;nlich identifiziert werden k&ouml;nnen. Ausf&uuml;hrliche Informationen zum
 Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgef&uuml;hrten
 Datenschutzerkl&auml;rung.</p>
-<h3>Datenerfassung auf dieser Website</h3> <h4>Wer ist verantwortlich f&uuml;r die Datenerfassung auf dieser
+<h3>1.2. Datenerfassung auf dieser Website</h3> <h4>1.2.1. Wer ist verantwortlich für die Datenerfassung auf dieser
 Website?</h4> <p>Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen
 Kontaktdaten k&ouml;nnen Sie dem Abschnitt &bdquo;Hinweis zur Verantwortlichen Stelle&ldquo; in dieser
-Datenschutzerkl&auml;rung entnehmen.</p> <h4>Wie erfassen wir Ihre Daten?</h4> <p>Ihre Daten werden zum
-einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.&nbsp;B. um Daten handeln, die Sie in ein
-Kontaktformular eingeben.</p> <p>Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch
-der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.&nbsp;B. Internetbrowser,
-Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese
-Website betreten.</p> <h4>Wof&uuml;r nutzen wir Ihre Daten?</h4> <p>Aktuell nutzen wir Ihre Daten nicht</p> <h4>Welche Rechte haben Sie bez&uuml;glich Ihrer Daten?</h4>
+Datenschutzerkl&auml;rung entnehmen.</p> <h4>1.2.2. Wie erfassen wir Ihre Daten?</h4>
+<h4>1.2.2.1 Personenbezogene Daten, die wir erheben</h4> Um auf data.citrad.de Messdaten hochladen zu können, wird eine Registrierung benötigt. Im Rahmen dieser Registrierung müssen wir personenbezogenen Daten erfassen und speichern, um Missbrauch zu vermeiden und Accountinhaber kontaktieren zu können. Im Detail handelt es sich hierbei nur um eine E-Mailadresse die für Accountbestätigung, Passwortrücksetzung und für zwingend notwendige Kommunikation genutzt wird.
+
+<h4>1.2.2.2 Personenbezogene Daten, die automatisch erhoben werden</h4><p>Weitere personenbezogene Daten werden dadurch erhoben, dass beim Besuch
+der Website durch unsere IT-Systeme technische Daten automatisch erfasst werden. Hierbei handelt es sich um Daten wie IP-Adressen sowie Datum und Uhrzeit des Zugriffs.</p> <h4>1.2.3 Wie/Wofür nutzen wir Ihre Daten?</h4> <p>Daten, die unter Punkt 1.2.2.1 fallen, nutzen wir nur zur technischen Abwicklung der Registrierung/Passwortrücksetzung sowie für zwingende Kontaktaufnahmen. <br>
+Daten, die unter Punkt 1.2.2.2. nutzen wir nicht.</p> <h4>1.2.4. Welche Rechte haben Sie bez&uuml;glich Ihrer Daten?</h4>
 <p>Sie haben jederzeit das Recht, unentgeltlich Auskunft &uuml;ber Herkunft, Empf&auml;nger und Zweck Ihrer
 gespeicherten personenbezogenen Daten zu erhalten. Sie haben au&szlig;erdem ein Recht, die Berichtigung oder
 L&ouml;schung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben,
@@ -83,15 +83,7 @@ rechtlichen Verpflichtung erforderlich sind auf Grundlage von Art. 6 Abs. 1 lit.
 kann ferner auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f DSGVO erfolgen. &Uuml;ber die
 jeweils im Einzelfall einschl&auml;gigen Rechtsgrundlagen wird in den folgenden Abs&auml;tzen dieser
 Datenschutzerkl&auml;rung informiert.</p>
-<h3>Empfänger von personenbezogenen Daten</h3> <p>Im Rahmen unserer Gesch&auml;ftst&auml;tigkeit
-arbeiten wir mit verschiedenen externen Stellen zusammen. Dabei ist teilweise auch eine &Uuml;bermittlung von
-personenbezogenen Daten an diese externen Stellen erforderlich. Wir geben personenbezogene Daten nur dann an
-externe Stellen weiter, wenn dies im Rahmen einer Vertragserf&uuml;llung erforderlich ist, wenn wir gesetzlich
-hierzu verpflichtet sind (z.&nbsp;B. Weitergabe von Daten an Steuerbeh&ouml;rden), wenn wir ein berechtigtes
-Interesse nach Art. 6 Abs. 1 lit. f DSGVO an der Weitergabe haben oder wenn eine sonstige Rechtsgrundlage die
-Datenweitergabe erlaubt. Beim Einsatz von Auftragsverarbeitern geben wir personenbezogene Daten unserer
-Kunden nur auf Grundlage eines g&uuml;ltigen Vertrags &uuml;ber Auftragsverarbeitung weiter. Im Falle einer
-gemeinsamen Verarbeitung wird ein Vertrag &uuml;ber gemeinsame Verarbeitung geschlossen.</p>
+
 <h3>Widerruf Ihrer Einwilligung zur Datenverarbeitung</h3> <p>Viele Datenverarbeitungsvorg&auml;nge sind
 nur mit Ihrer ausdr&uuml;cklichen Einwilligung m&ouml;glich. Sie k&ouml;nnen eine bereits erteilte Einwilligung
 jederzeit widerrufen. Die Rechtm&auml;&szlig;igkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom
